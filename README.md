@@ -12,15 +12,13 @@ Before processing them, we need to understand the format (or standard) of files 
 
 This repository contains our research to aid others building similar tools.
 
-## Camera
+## Cameras
 
-* GoPro
-	- MAX
-		- Overview
+* [GoPro](/gopro/README.md)
+	- [MAX](/gopro/max/README.md)
 		- Video
 		- Timelapse
-	- Fusion
-		- Overview
+	- [Fusion](/gopro/fusion/README.md)
 		- Videos
 		- Timelapse
 * Manufacturer
@@ -28,6 +26,48 @@ This repository contains our research to aid others building similar tools.
 		- Overview
 		- Video
 		- Timelapse
+
+## Accessing sample files
+
+All sample files used to extract metadata are offered free of charge for the benefit of other developers. You will find links to download under each cameras README.md file.
+
+## Extracting metadata from images
+
+You can use the open-source [Exiftool](https://exiftool.org/) to extract and normalise metadata.
+
+Heres a quick introduction on how to use it:
+
+**Images**
+
+```
+exiftool -G -a -s [YOUR_IMAGE] > output.txt
+```
+
+[This command includes the following arguments](https://exiftool.org/exiftool_pod.html):
+
+-a: Allow duplicate tags to be extracted
+-G: Print group name for each tag
+-s: Descriptions, not tag names, are shown by default when extracting information. Use the -s option to see the tag names instead.
+
+_[Read more about image file metadata](https://www.trekview.org/blog/2020/metadata-exif-xmp-360-photo-files/)_
+
+**Videos**
+
+```
+$ exiftool -ee -G3 -s [YOUR_VIDEO] > output.txt
+```
+
+[This command includes the following arguments](https://exiftool.org/exiftool_pod.html):
+
+* -ee: Extract embedded data from mp0 files (and others).
+* -G3: Identify the originating document for extracted information. Embedded documents containing sub-documents are indicated with dashes in the family 3 group name. (eg. Doc2-3 is the 3rd sub-document of the 2nd embedded document.)
+* -s: Descriptions, not tag names, are shown by default when extracting information. Use the -s option to see the tag names instead.
+
+_[Read more about video file metadata](https://www.trekview.org/blog/2020/metadata-exif-xmp-360-video-files/)_
+
+_Consider supporting exiftool_
+
+Exiftool is a free and very well supported bit of software we use to extract metadata. Let’s make sure it stays that way. [You should consider a small donation to support it if this repository has been useful to you](https://exiftool.org/#donate).
 
 ## Help us build better software
 
