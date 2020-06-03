@@ -4,14 +4,14 @@
 
 GoPro offer two models of 360 cameras:
 
-1. [GoPro Fusion (discontiuned)](/gopro/fusion/README.md)
-2. [GoPro MAX](/gopro/max/README.md)
+1. GoPro Fusion (discontiuned)
+2. GoPro MAX
 
 ### Photo metadata
 
 
 
-### Video metadata
+### Video metadata reseach
 
 All GoPro 360 cameras write data in their own GoPro Metadata Format (GPMF / GPMD) also called the General Purpose Metadata Framework.
 
@@ -20,6 +20,8 @@ All GoPro 360 cameras write data in their own GoPro Metadata Format (GPMF / GPMD
 [A GPMF-parser was recently made available as an open source project](https://github.com/gopro/gpmf-parser). This repo explains the standard in detail.
 
 [The format is also understood by the open-source Exiftool](https://exiftool.org/). [The logic used in exiftool for extraction can be viewed here](https://github.com/exiftool/exiftool/blob/master/lib/Image/ExifTool/GoPro.pm).
+
+[Some of this logic was inspired by this repo too](https://github.com/stilldavid/gopro-utils).
 
 [A new open source repository has been created for the purpose GPMF-Write](https://github.com/gopro/gpmf-write).
 
@@ -38,7 +40,7 @@ All GoPro 360 cameras write data in their own GoPro Metadata Format (GPMF / GPMD
 **gp01**
 
 ```
-exiftool -ee -G3 -G -s GS012804.mp4 > gopro_max_GS012804_video_metadata.txt
+exiftool -ee -G3 -s GS012804.mp4 > gopro_max_GS012804_video_metadata.txt
 ```
 
 **gp02**
@@ -50,7 +52,7 @@ exiftool -G -a -s GSAG2002.JPG > gopro_max_GSAG2002_timelapse_metadata.txt
 **gp03**
 
 ```
-exiftool -ee -G3 -G -s VIDEO_7152.mp4 > gopro_fusion_VIDEO_7152_metadata.txt
+exiftool -ee -G3 -s VIDEO_7152.mp4 > gopro_fusion_VIDEO_7152_metadata.txt
 ```
 
 **gp04**
