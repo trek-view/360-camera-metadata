@@ -1,0 +1,1896 @@
+[ExifTool]      ExifToolVersion                 : 11.99
+[ExifTool]      Now                             : 2020:06:03 09:00:07+01:00
+[ExifTool]      NewGUID                         : 20200603-0900-0700-3E64-7BCEB12379D3
+[ExifTool]      FileSequence                    : 0
+[ExifTool]      ProcessingTime                  : 0.423 s
+[File]          FileName                        : GS012804.mp4
+[File]          Directory                       : .
+[File]          FilePath                        : C:\Users\david\Downloads\tests\GS012804.mp4
+[File]          FileSize                        : 300 MB
+[File]          FileModifyDate                  : 2020:06:03 08:49:40+01:00
+[File]          FileAccessDate                  : 2020:06:03 08:49:40+01:00
+[File]          FileCreateDate                  : 2020:06:03 08:49:17+01:00
+[File]          FilePermissions                 : rw-rw-rw-
+[File]          FileAttributes                  : Regular; (none); Archive
+[File]          FileDeviceNumber                : 0
+[File]          FileInodeNumber                 : 0
+[File]          FileHardLinks                   : 1
+[File]          FileUserID                      : 0
+[File]          FileGroupID                     : 0
+[File]          FileDeviceID                    : 0.0
+[File]          FileBlockSize                   : 
+[File]          FileBlockCount                  : 
+[File]          FileType                        : MP4
+[File]          FileTypeExtension               : mp4
+[File]          MIMEType                        : video/quicktime
+[QuickTime]     MajorBrand                      : Apple QuickTime (.MOV/QT)
+[QuickTime]     MinorVersion                    : 0.0.0
+[QuickTime]     CompatibleBrands                : qt
+[QuickTime]     MediaDataSize                   : 313971089
+[QuickTime]     MediaDataOffset                 : 69703
+[QuickTime]     MovieHeaderVersion              : 0
+[QuickTime]     CreateDate                      : 2020:05:10 08:45:08
+[QuickTime]     ModifyDate                      : 2020:05:10 08:45:08
+[QuickTime]     TimeScale                       : 600
+[QuickTime]     Duration                        : 0:00:35
+[QuickTime]     PreferredRate                   : 1
+[QuickTime]     PreferredVolume                 : 100.00%
+[QuickTime]     MatrixStructure                 : 1 0 0 0 1 0 0 0 1
+[QuickTime]     PreviewTime                     : 0 s
+[QuickTime]     PreviewDuration                 : 0 s
+[QuickTime]     PosterTime                      : 0 s
+[QuickTime]     SelectionTime                   : 0 s
+[QuickTime]     SelectionDuration               : 0 s
+[QuickTime]     CurrentTime                     : 0 s
+[QuickTime]     NextTrackID                     : 4
+[QuickTime]     TrackHeaderVersion              : 0
+[QuickTime]     TrackCreateDate                 : 2020:05:10 08:45:08
+[QuickTime]     TrackModifyDate                 : 2020:05:10 08:45:08
+[QuickTime]     TrackID                         : 1
+[QuickTime]     TrackDuration                   : 0:00:35
+[QuickTime]     TrackLayer                      : 0
+[QuickTime]     TrackVolume                     : 0.00%
+[QuickTime]     MatrixStructure                 : 1 0 0 0 1 0 0 0 1
+[QuickTime]     ImageWidth                      : 4096
+[QuickTime]     ImageHeight                     : 2048
+[QuickTime]     MediaHeaderVersion              : 0
+[QuickTime]     MediaCreateDate                 : 2020:05:10 08:45:08
+[QuickTime]     MediaModifyDate                 : 2020:05:10 08:45:08
+[QuickTime]     MediaTimeScale                  : 600
+[QuickTime]     MediaDuration                   : 0:00:35
+[QuickTime]     HandlerClass                    : Media Handler
+[QuickTime]     HandlerType                     : Video Track
+[QuickTime]     HandlerVendorID                 : Apple
+[QuickTime]     HandlerDescription              : Core Media Video
+[QuickTime]     GraphicsMode                    : ditherCopy
+[QuickTime]     OpColor                         : 32768 32768 32768
+[QuickTime]     HandlerClass                    : Media Handler
+[QuickTime]     HandlerType                     : Video Track
+[QuickTime]     HandlerVendorID                 : Apple
+[QuickTime]     CompressorID                    : hvc1
+[QuickTime]     SourceImageWidth                : 4096
+[QuickTime]     SourceImageHeight               : 2048
+[QuickTime]     XResolution                     : 72
+[QuickTime]     YResolution                     : 72
+[QuickTime]     CompressorName                  : HEVC
+[QuickTime]     BitDepth                        : 24
+[QuickTime]     ColorRepresentation             : nclc 1 1 1
+[QuickTime]     PixelAspectRatio                : 1:1
+[QuickTime]     VideoFieldOrder                 : Progressive; 0
+[QuickTime]     VideoFrameRate                  : 29.97
+[QuickTime]     TrackHeaderVersion              : 0
+[QuickTime]     TrackCreateDate                 : 2020:05:10 08:45:08
+[QuickTime]     TrackModifyDate                 : 2020:05:10 08:45:08
+[QuickTime]     TrackID                         : 2
+[QuickTime]     TrackDuration                   : 0:00:35
+[QuickTime]     TrackLayer                      : 0
+[QuickTime]     TrackVolume                     : 100.00%
+[QuickTime]     MatrixStructure                 : 1 0 0 0 1 0 0 0 1
+[QuickTime]     MediaHeaderVersion              : 0
+[QuickTime]     MediaCreateDate                 : 2020:05:10 08:45:08
+[QuickTime]     MediaModifyDate                 : 2020:05:10 08:45:08
+[QuickTime]     MediaTimeScale                  : 48000
+[QuickTime]     MediaDuration                   : 0:00:35
+[QuickTime]     HandlerClass                    : Media Handler
+[QuickTime]     HandlerType                     : Audio Track
+[QuickTime]     HandlerVendorID                 : Apple
+[QuickTime]     Balance                         : 0
+[QuickTime]     HandlerClass                    : Media Handler
+[QuickTime]     HandlerType                     : Audio Track
+[QuickTime]     HandlerVendorID                 : Apple
+[QuickTime]     AudioFormat                     : mp4a
+[QuickTime]     AudioChannels                   : 2
+[QuickTime]     AudioBitsPerSample              : 16
+[QuickTime]     AudioSampleRate                 : 48000
+[QuickTime]     PurchaseFileFormat              : mp4a
+[QuickTime]     Endianness                      : Little-endian (Intel, II)
+[QuickTime]     TrackHeaderVersion              : 0
+[QuickTime]     TrackCreateDate                 : 2020:05:10 08:45:08
+[QuickTime]     TrackModifyDate                 : 2020:05:10 08:45:08
+[QuickTime]     TrackID                         : 3
+[QuickTime]     TrackDuration                   : 0:00:35
+[QuickTime]     TrackLayer                      : 0
+[QuickTime]     TrackVolume                     : 100.00%
+[QuickTime]     MatrixStructure                 : 1 0 0 0 1 0 0 0 1
+[QuickTime]     MediaHeaderVersion              : 0
+[QuickTime]     MediaCreateDate                 : 2020:05:10 08:45:08
+[QuickTime]     MediaModifyDate                 : 2020:05:10 08:45:08
+[QuickTime]     MediaTimeScale                  : 1000
+[QuickTime]     MediaDuration                   : 0:00:36
+[QuickTime]     HandlerClass                    : Media Handler
+[QuickTime]     HandlerType                     : NRT Metadata
+[QuickTime]     HandlerVendorID                 : Apple
+[QuickTime]     HandlerDescription              : GoPro MET
+[QuickTime]     GenMediaVersion                 : 0
+[QuickTime]     GenFlags                        : 0 0 0
+[QuickTime]     GenGraphicsMode                 : ditherCopy
+[QuickTime]     GenOpColor                      : 32768 32768 32768
+[QuickTime]     GenBalance                      : 0
+[QuickTime]     MetaFormat                      : gpmd
+[QuickTime]     SampleTime                      : 0 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 1.00 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 2.00 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 3.00 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 4.00 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 5.00 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 6.01 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 7.01 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 8.01 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 9.01 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 10.01 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 11.01 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 12.01 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 13.01 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 14.01 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 15.02 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 16.02 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 17.02 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 18.02 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 19.02 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 20.02 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 21.02 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 22.02 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 23.02 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 24.02 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 25.02 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 26.03 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 27.03 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 28.03 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 29.03 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 0:00:30
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 0:00:31
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 0:00:32
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 0:00:33
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 0:00:34
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 0:00:35
+[QuickTime]     SampleDuration                  : 0.43 s
+[XMP]           Spherical                       : true
+[XMP]           Stitched                        : true
+[XMP]           StitchingSoftware               : Spherical Metadata Tool
+[XMP]           ProjectionType                  : equirectangular
+[XMP]           Spherical                       : true
+[XMP]           Stitched                        : true
+[XMP]           StitchingSoftware               : Spherical Metadata Tool
+[XMP]           ProjectionType                  : equirectangular
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 0.147362
+[GoPro]         CameraTemperature               : 26.740234375 C
+[GoPro]         Accelerometer                   : (Binary data 10967 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 0.151552
+[GoPro]         CameraTemperature               : 26.740234375 C
+[GoPro]         Gyroscope                       : (Binary data 40335 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 0.14537
+[GoPro]         Magnetometer                    : 294 -19 168 7126 296 -21 169 7131 293 -19 170 7132 296 -19 171 7131 295 -20 170 7130 293 -18 170 7132 292 -19 171 7132 293 -23 172 7129 293 -21 170 7126 293 -20 169 7131 294 -18 170 7128 296 -20 172 7129 292 -21 170 7129 293 -20 171 7129 293 -21 172 7128 293 -20 171 7130 293 -20 168 7129 293 -21 169 7132 293 -18 172 7128 293 -20 170 7130 293 -20 168 7131 294 -19 171 7131 292 -20 172 7132 294 -20 173 7131 294 -18 169 7128
+[GoPro]         TimeStamp                       : 0.151571
+[GoPro]         ExposureTimes                   : 1/734 1/734 1/738 1/742 1/745 1/749 1/749 1/753 1/757 1/761 1/761 1/765 1/769 1/773 1/773 1/777 1/777 1/781 1/781 1/785 1/785 1/790 1/790 1/794 1/794 1/798 1/798 1/798 1/802 1/802
+[GoPro]         TimeStamp                       : 0.151571
+[GoPro]         ColorTemperatures               : 6549 6573 6573 6596 6596 6596 6620 6620 6620 6620
+[GoPro]         TimeStamp                       : 0.151571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 225 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 0.151571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 0.151571
+[GoPro]         TimeStamp                       : 1e-006
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:03.455
+[GoPro]         GPSHPositioningError            : 3.33
+[GoPro]         GPSLatitude                     : 52.255262 N
+[GoPro]         GPSLongitude                    : 6.779866 E
+[GoPro]         GPSAltitude                     : 14.107 m
+[GoPro]         GPSSpeed                        : 0.044
+[GoPro]         GPSSpeed3D                      : 0.03
+[GoPro]         GPSLatitude                     : 52.255262 N
+[GoPro]         GPSLongitude                    : 6.779867 E
+[GoPro]         GPSAltitude                     : 14.096 m
+[GoPro]         GPSSpeed                        : 0.101
+[GoPro]         GPSSpeed3D                      : 0.04
+[GoPro]         GPSLatitude                     : 52.255262 N
+[GoPro]         GPSLongitude                    : 6.779867 E
+[GoPro]         GPSAltitude                     : 14.11 m
+[GoPro]         GPSSpeed                        : 0.114
+[GoPro]         GPSSpeed3D                      : 0.1
+[GoPro]         GPSLatitude                     : 52.255262 N
+[GoPro]         GPSLongitude                    : 6.779867 E
+[GoPro]         GPSAltitude                     : 14.122 m
+[GoPro]         GPSSpeed                        : 0.06
+[GoPro]         GPSSpeed3D                      : 0.11
+[GoPro]         GPSLatitude                     : 52.255262 N
+[GoPro]         GPSLongitude                    : 6.779867 E
+[GoPro]         GPSAltitude                     : 14.124 m
+[GoPro]         GPSSpeed                        : 0.051
+[GoPro]         GPSSpeed3D                      : 0.06
+[GoPro]         GPSLatitude                     : 52.255262 N
+[GoPro]         GPSLongitude                    : 6.779868 E
+[GoPro]         GPSAltitude                     : 14.108 m
+[GoPro]         GPSSpeed                        : 0.026
+[GoPro]         GPSSpeed3D                      : 0.05
+[GoPro]         GPSLatitude                     : 52.255262 N
+[GoPro]         GPSLongitude                    : 6.779868 E
+[GoPro]         GPSAltitude                     : 14.103 m
+[GoPro]         GPSSpeed                        : 0.11
+[GoPro]         GPSSpeed3D                      : 0.03
+[GoPro]         GPSLatitude                     : 52.255262 N
+[GoPro]         GPSLongitude                    : 6.779869 E
+[GoPro]         GPSAltitude                     : 14.102 m
+[GoPro]         GPSSpeed                        : 0.033
+[GoPro]         GPSSpeed3D                      : 0.02
+[GoPro]         TimeStamp                       : 0.151571
+[GoPro]         TimeStamp                       : 0.151571
+[GoPro]         TimeStamp                       : 0.151571
+[GoPro]         TimeStamp                       : 0.151571
+[GoPro]         TimeStamp                       : 0.151571
+[GoPro]         TimeStamp                       : 0.151571
+[GoPro]         TimeStamp                       : 0.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 1.151432
+[GoPro]         CameraTemperature               : 26.84375 C
+[GoPro]         Accelerometer                   : (Binary data 10905 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1.151822
+[GoPro]         CameraTemperature               : 26.84375 C
+[GoPro]         Gyroscope                       : (Binary data 40414 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1.144441
+[GoPro]         Magnetometer                    : 292 -21 172 7132 295 -19 171 7126 293 -19 171 7131 296 -20 171 7131 292 -20 172 7127 293 -26 170 7130 292 -20 171 7131 294 -18 171 7131 294 -21 171 7128 292 -19 172 7129 294 -18 170 7131 294 -21 171 7128 293 -18 171 7128 295 -20 171 7126 293 -21 173 7128 292 -20 172 7130 295 -19 172 7129 294 -21 172 7126 293 -20 172 7128 294 -20 171 7128 294 -18 170 7124 295 -16 172 7128 293 -20 172 7128 295 -21 170 7128 292 -20 174 7130
+[GoPro]         TimeStamp                       : 1.152571
+[GoPro]         ExposureTimes                   : 1/802 1/807 1/807 1/807 1/811 1/811 1/811 1/816 1/816 1/816 1/816 1/820 1/820 1/820 1/820 1/820 1/825 1/825 1/825 1/825 1/825 1/830 1/830 1/834 1/834 1/834 1/834 1/839 1/839 1/844
+[GoPro]         TimeStamp                       : 1.152571
+[GoPro]         ColorTemperatures               : 6620 6644 6644 6644 6644 6644 6644 6644 6644 6644
+[GoPro]         TimeStamp                       : 1.152571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 206 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1.152571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 1.152571
+[GoPro]         TimeStamp                       : 1.244773
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:05.655
+[GoPro]         GPSHPositioningError            : 3.33
+[GoPro]         GPSLatitude                     : 52.255263 N
+[GoPro]         GPSLongitude                    : 6.779869 E
+[GoPro]         GPSAltitude                     : 14.112 m
+[GoPro]         GPSSpeed                        : 0.06
+[GoPro]         GPSSpeed3D                      : 0.05
+[GoPro]         GPSLatitude                     : 52.255263 N
+[GoPro]         GPSLongitude                    : 6.779869 E
+[GoPro]         GPSAltitude                     : 14.139 m
+[GoPro]         GPSSpeed                        : 0.03
+[GoPro]         GPSSpeed3D                      : 0.04
+[GoPro]         TimeStamp                       : 1.152571
+[GoPro]         TimeStamp                       : 1.152571
+[GoPro]         TimeStamp                       : 1.152571
+[GoPro]         TimeStamp                       : 1.152571
+[GoPro]         TimeStamp                       : 1.151571
+[GoPro]         TimeStamp                       : 1.151571
+[GoPro]         TimeStamp                       : 1.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 2.150498
+[GoPro]         CameraTemperature               : 26.91796875 C
+[GoPro]         Accelerometer                   : (Binary data 10966 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 2.153441
+[GoPro]         CameraTemperature               : 26.91796875 C
+[GoPro]         Gyroscope                       : (Binary data 40300 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 2.143513
+[GoPro]         Magnetometer                    : 292 -17 171 7130 293 -20 173 7128 293 -22 172 7126 292 -22 171 7129 294 -19 171 7129 292 -20 170 7127 294 -20 171 7129 291 -21 171 7129 293 -20 171 7128 294 -20 172 7126 294 -19 169 7127 292 -21 170 7128 293 -20 170 7129 295 -21 172 7128 293 -19 170 7124 294 -21 170 7128 293 -20 170 7128 296 -21 171 7129 295 -21 172 7126 294 -20 171 7128 294 -18 173 7127 294 -19 172 7128 294 -20 170 7128 293 -20 173 7126 295 -19 171 7128
+[GoPro]         TimeStamp                       : 2.153571
+[GoPro]         ExposureTimes                   : 1/844 1/844 1/844 1/849 1/849 1/849 1/849 1/854 1/854 1/854 1/859 1/859 1/859 1/859 1/864 1/864 1/864 1/864 1/869 1/869 1/869 1/869 1/874 1/874 1/874 1/874 1/874 1/874 1/879 1/879
+[GoPro]         TimeStamp                       : 2.153571
+[GoPro]         ColorTemperatures               : 6644 6644 6644 6644 6644 6644 6644 6644 6644 6644
+[GoPro]         TimeStamp                       : 2.153571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 189 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 2.153571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 2.153571
+[GoPro]         TimeStamp                       : 1.8413
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:06.205
+[GoPro]         GPSHPositioningError            : 3.33
+[GoPro]         GPSLatitude                     : 52.255263 N
+[GoPro]         GPSLongitude                    : 6.779869 E
+[GoPro]         GPSAltitude                     : 14.117 m
+[GoPro]         GPSSpeed                        : 0.054
+[GoPro]         GPSSpeed3D                      : 0.06
+[GoPro]         GPSLatitude                     : 52.255262 N
+[GoPro]         GPSLongitude                    : 6.779868 E
+[GoPro]         GPSAltitude                     : 14.14 m
+[GoPro]         GPSSpeed                        : 0.109
+[GoPro]         GPSSpeed3D                      : 0.05
+[GoPro]         GPSLatitude                     : 52.255262 N
+[GoPro]         GPSLongitude                    : 6.779868 E
+[GoPro]         GPSAltitude                     : 14.123 m
+[GoPro]         GPSSpeed                        : 0.11
+[GoPro]         GPSSpeed3D                      : 0.08
+[GoPro]         GPSLatitude                     : 52.255262 N
+[GoPro]         GPSLongitude                    : 6.779868 E
+[GoPro]         GPSAltitude                     : 14.135 m
+[GoPro]         GPSSpeed                        : 0.094
+[GoPro]         GPSSpeed3D                      : 0.11
+[GoPro]         TimeStamp                       : 2.153571
+[GoPro]         TimeStamp                       : 2.153571
+[GoPro]         TimeStamp                       : 2.153571
+[GoPro]         TimeStamp                       : 2.153571
+[GoPro]         TimeStamp                       : 2.151571
+[GoPro]         TimeStamp                       : 2.151571
+[GoPro]         TimeStamp                       : 2.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 3.154572
+[GoPro]         CameraTemperature               : 27.00390625 C
+[GoPro]         Accelerometer                   : (Binary data 10918 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 3.153763
+[GoPro]         CameraTemperature               : 27.00390625 C
+[GoPro]         Gyroscope                       : (Binary data 40294 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 3.142587
+[GoPro]         Magnetometer                    : 294 -18 171 7127 296 -20 171 7128 293 -21 171 7128 295 -18 171 7128 293 -21 170 7126 294 -20 170 7126 294 -19 171 7124 293 -18 171 7128 295 -22 169 7126 293 -20 172 7127 293 -18 170 7127 294 -17 172 7125 294 -21 172 7125 294 -19 173 7128 294 -19 172 7128 293 -19 172 7128 293 -18 171 7126 294 -18 170 7126 294 -21 171 7128 293 -22 171 7128 293 -21 171 7128 294 -19 170 7128 296 -19 173 7127 293 -18 171 7126 293 -17 172 7127
+[GoPro]         TimeStamp                       : 3.154571
+[GoPro]         ExposureTimes                   : 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890
+[GoPro]         TimeStamp                       : 3.154571
+[GoPro]         ColorTemperatures               : 6644 6644 6644 6644 6620 6620 6620 6620 6620 6620
+[GoPro]         TimeStamp                       : 3.154571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 225 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 3.154571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 101 100 100 100 100 100 100 100 100 100 100 100 101 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 3.154571
+[GoPro]         TimeStamp                       : 2.819857
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:07.360
+[GoPro]         GPSHPositioningError            : 3.33
+[GoPro]         GPSLatitude                     : 52.255262 N
+[GoPro]         GPSLongitude                    : 6.779868 E
+[GoPro]         GPSAltitude                     : 14.126 m
+[GoPro]         GPSSpeed                        : 0.097
+[GoPro]         GPSSpeed3D                      : 0.12
+[GoPro]         GPSLatitude                     : 52.255262 N
+[GoPro]         GPSLongitude                    : 6.779868 E
+[GoPro]         GPSAltitude                     : 14.132 m
+[GoPro]         GPSSpeed                        : 0.085
+[GoPro]         GPSSpeed3D                      : 0.1
+[GoPro]         GPSLatitude                     : 52.255263 N
+[GoPro]         GPSLongitude                    : 6.779870 E
+[GoPro]         GPSAltitude                     : 14.116 m
+[GoPro]         GPSSpeed                        : 0.034
+[GoPro]         GPSSpeed3D                      : 0.05
+[GoPro]         GPSLatitude                     : 52.255263 N
+[GoPro]         GPSLongitude                    : 6.779870 E
+[GoPro]         GPSAltitude                     : 14.116 m
+[GoPro]         GPSSpeed                        : 0.034
+[GoPro]         GPSSpeed3D                      : 0.05
+[GoPro]         TimeStamp                       : 3.154571
+[GoPro]         TimeStamp                       : 3.154571
+[GoPro]         TimeStamp                       : 3.154571
+[GoPro]         TimeStamp                       : 3.154571
+[GoPro]         TimeStamp                       : 3.151571
+[GoPro]         TimeStamp                       : 3.151571
+[GoPro]         TimeStamp                       : 3.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 4.153648
+[GoPro]         CameraTemperature               : 27.1015625 C
+[GoPro]         Accelerometer                   : (Binary data 10911 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 4.155335
+[GoPro]         CameraTemperature               : 27.1015625 C
+[GoPro]         Gyroscope                       : (Binary data 40198 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 4.141662
+[GoPro]         Magnetometer                    : 292 -18 169 7127 294 -19 169 7126 295 -20 172 7127 293 -18 173 7127 294 -20 171 7127 294 -19 170 7126 292 -19 172 7124 295 -19 170 7127 291 -19 171 7127 293 -21 174 7127 294 -20 172 7128 293 -19 171 7127 296 -20 171 7126 294 -19 169 7125 291 -20 170 7127 292 -20 173 7127 295 -22 172 7124 293 -19 170 7129 295 -20 171 7127 293 -19 171 7127 295 -16 170 7126 294 -19 172 7127 295 -19 171 7127 293 -18 172 7128 293 -19 172 7126
+[GoPro]         TimeStamp                       : 4.155571
+[GoPro]         ExposureTimes                   : 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895
+[GoPro]         TimeStamp                       : 4.155571
+[GoPro]         ColorTemperatures               : 6620 6620 6620 6620 6620 6620 6620 6620 6620 6620
+[GoPro]         TimeStamp                       : 4.155571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 230 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 4.155571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 101 101 101 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 4.155571
+[GoPro]         TimeStamp                       : 3.959722
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:08.350
+[GoPro]         GPSHPositioningError            : 3.33
+[GoPro]         GPSLatitude                     : 52.255263 N
+[GoPro]         GPSLongitude                    : 6.779871 E
+[GoPro]         GPSAltitude                     : 14.111 m
+[GoPro]         GPSSpeed                        : 0.036
+[GoPro]         GPSSpeed3D                      : 0.03
+[GoPro]         GPSLatitude                     : 52.255264 N
+[GoPro]         GPSLongitude                    : 6.779871 E
+[GoPro]         GPSAltitude                     : 14.098 m
+[GoPro]         GPSSpeed                        : 0.1
+[GoPro]         GPSSpeed3D                      : 0.08
+[GoPro]         GPSLatitude                     : 52.255264 N
+[GoPro]         GPSLongitude                    : 6.779872 E
+[GoPro]         GPSAltitude                     : 14.14 m
+[GoPro]         GPSSpeed                        : 0.077
+[GoPro]         GPSSpeed3D                      : 0.09
+[GoPro]         GPSLatitude                     : 52.255264 N
+[GoPro]         GPSLongitude                    : 6.779872 E
+[GoPro]         GPSAltitude                     : 14.121 m
+[GoPro]         GPSSpeed                        : 0.068
+[GoPro]         GPSSpeed3D                      : 0.07
+[GoPro]         GPSLatitude                     : 52.255264 N
+[GoPro]         GPSLongitude                    : 6.779872 E
+[GoPro]         GPSAltitude                     : 14.14 m
+[GoPro]         GPSSpeed                        : 0.077
+[GoPro]         GPSSpeed3D                      : 0.09
+[GoPro]         TimeStamp                       : 4.155571
+[GoPro]         TimeStamp                       : 4.155571
+[GoPro]         TimeStamp                       : 4.155571
+[GoPro]         TimeStamp                       : 4.155571
+[GoPro]         TimeStamp                       : 4.151571
+[GoPro]         TimeStamp                       : 4.151571
+[GoPro]         TimeStamp                       : 4.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 5.152726
+[GoPro]         CameraTemperature               : 27.19921875 C
+[GoPro]         Accelerometer                   : (Binary data 10948 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 5.155662
+[GoPro]         CameraTemperature               : 27.19921875 C
+[GoPro]         Gyroscope                       : (Binary data 40312 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 5.14074
+[GoPro]         Magnetometer                    : 295 -20 169 7125 294 -19 170 7126 295 -22 169 7124 294 -19 171 7126 294 -20 171 7127 293 -18 170 7124 296 -20 173 7122 295 -22 172 7127 294 -20 170 7127 294 -21 170 7127 293 -21 172 7124 295 -18 170 7127 296 -20 172 7126 296 -19 170 7126 294 -19 171 7125 295 -20 170 7126 294 -18 168 7126 294 -19 170 7126 296 -21 170 7124 293 -20 172 7123 295 -19 171 7126 294 -18 170 7124 296 -17 169 7124 295 -20 171 7120 295 -20 173 7123
+[GoPro]         TimeStamp                       : 5.156571
+[GoPro]         ExposureTimes                   : 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895
+[GoPro]         TimeStamp                       : 5.156571
+[GoPro]         ColorTemperatures               : 6620 6620 6620 6620 6620 6620 6620 6620 6620 6620
+[GoPro]         TimeStamp                       : 5.156571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 239 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 5.156571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 5.156571
+[GoPro]         TimeStamp                       : 5.103097
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:09.505
+[GoPro]         GPSHPositioningError            : 3.33
+[GoPro]         GPSLatitude                     : 52.255265 N
+[GoPro]         GPSLongitude                    : 6.779872 E
+[GoPro]         GPSAltitude                     : 14.13 m
+[GoPro]         GPSSpeed                        : 0.098
+[GoPro]         GPSSpeed3D                      : 0.09
+[GoPro]         GPSLatitude                     : 52.255265 N
+[GoPro]         GPSLongitude                    : 6.779873 E
+[GoPro]         GPSAltitude                     : 14.15 m
+[GoPro]         GPSSpeed                        : 0.024
+[GoPro]         GPSSpeed3D                      : 0.05
+[GoPro]         TimeStamp                       : 5.156571
+[GoPro]         TimeStamp                       : 5.156571
+[GoPro]         TimeStamp                       : 5.156571
+[GoPro]         TimeStamp                       : 5.156571
+[GoPro]         TimeStamp                       : 5.151571
+[GoPro]         TimeStamp                       : 5.151571
+[GoPro]         TimeStamp                       : 5.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 6.156801
+[GoPro]         CameraTemperature               : 27.248046875 C
+[GoPro]         Accelerometer                   : (Binary data 10916 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 6.157239
+[GoPro]         CameraTemperature               : 27.248046875 C
+[GoPro]         Gyroscope                       : (Binary data 39879 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 6.13982
+[GoPro]         Magnetometer                    : 296 -18 173 7123 294 -21 170 7127 296 -19 173 7125 294 -17 171 7126 295 -18 171 7126 295 -22 171 7126 296 -18 171 7127 294 -17 170 7124 297 -20 171 7125 295 -19 172 7125 296 -17 169 7124 295 -19 169 7124 296 -17 175 7122 295 -19 171 7125 295 -20 170 7123 295 -19 173 7123 295 -17 171 7124 294 -19 170 7122 294 -21 172 7126 294 -19 172 7125 294 -20 171 7122 294 -20 171 7127 298 -19 171 7125 294 -18 171 7126 295 -20 171 7124
+[GoPro]         TimeStamp                       : 6.157571
+[GoPro]         ExposureTimes                   : 1/895 1/895 1/895 1/895 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901
+[GoPro]         TimeStamp                       : 6.157571
+[GoPro]         ColorTemperatures               : 6620 6620 6620 6620 6620 6620 6620 6620 6620 6620
+[GoPro]         TimeStamp                       : 6.157571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 227 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 6.157571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 101 101 101 101 101 101 101 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 6.157571
+[GoPro]         TimeStamp                       : 5.695404
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:10.990
+[GoPro]         GPSHPositioningError            : 3.32
+[GoPro]         GPSLatitude                     : 52.255265 N
+[GoPro]         GPSLongitude                    : 6.779874 E
+[GoPro]         GPSAltitude                     : 14.126 m
+[GoPro]         GPSSpeed                        : 0.035
+[GoPro]         GPSSpeed3D                      : 0.03
+[GoPro]         GPSLatitude                     : 52.255266 N
+[GoPro]         GPSLongitude                    : 6.779874 E
+[GoPro]         GPSAltitude                     : 14.112 m
+[GoPro]         GPSSpeed                        : 0.026
+[GoPro]         GPSSpeed3D                      : 0.02
+[GoPro]         GPSLatitude                     : 52.255266 N
+[GoPro]         GPSLongitude                    : 6.779875 E
+[GoPro]         GPSAltitude                     : 14.15 m
+[GoPro]         GPSSpeed                        : 0.109
+[GoPro]         GPSSpeed3D                      : 0.06
+[GoPro]         TimeStamp                       : 6.157571
+[GoPro]         TimeStamp                       : 6.157571
+[GoPro]         TimeStamp                       : 6.157571
+[GoPro]         TimeStamp                       : 6.157571
+[GoPro]         TimeStamp                       : 6.151571
+[GoPro]         TimeStamp                       : 6.151571
+[GoPro]         TimeStamp                       : 6.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 7.155883
+[GoPro]         CameraTemperature               : 27.28515625 C
+[GoPro]         Accelerometer                   : (Binary data 10905 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 7.157568
+[GoPro]         CameraTemperature               : 27.28515625 C
+[GoPro]         Gyroscope                       : (Binary data 39838 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 7.138902
+[GoPro]         Magnetometer                    : 298 -19 171 7124 296 -19 171 7123 296 -18 169 7125 295 -18 171 7125 295 -22 173 7124 295 -20 172 7125 296 -18 172 7124 296 -19 171 7124 297 -18 172 7125 296 -19 170 7124 298 -17 170 7124 293 -20 170 7123 295 -20 171 7123 297 -22 172 7125 294 -21 171 7122 298 -19 170 7123 294 -18 171 7126 295 -19 170 7125 294 -21 170 7123 294 -19 170 7123 295 -19 171 7125 296 -19 169 7124 294 -18 171 7125 295 -20 171 7123 295 -19 172 7123
+[GoPro]         TimeStamp                       : 7.158571
+[GoPro]         ExposureTimes                   : 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901
+[GoPro]         TimeStamp                       : 7.158571
+[GoPro]         ColorTemperatures               : 6620 6620 6620 6620 6620 6620 6620 6620 6620 6620
+[GoPro]         TimeStamp                       : 7.158571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 219 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 7.158571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 7.158571
+[GoPro]         TimeStamp                       : 6.96789
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:11.540
+[GoPro]         GPSHPositioningError            : 3.32
+[GoPro]         GPSLatitude                     : 52.255266 N
+[GoPro]         GPSLongitude                    : 6.779876 E
+[GoPro]         GPSAltitude                     : 14.115 m
+[GoPro]         GPSSpeed                        : 0.098
+[GoPro]         GPSSpeed3D                      : 0.1
+[GoPro]         GPSLatitude                     : 52.255267 N
+[GoPro]         GPSLongitude                    : 6.779877 E
+[GoPro]         GPSAltitude                     : 14.1 m
+[GoPro]         GPSSpeed                        : 0.052
+[GoPro]         GPSSpeed3D                      : 0.09
+[GoPro]         TimeStamp                       : 7.158571
+[GoPro]         TimeStamp                       : 7.158571
+[GoPro]         TimeStamp                       : 7.158571
+[GoPro]         TimeStamp                       : 7.158571
+[GoPro]         TimeStamp                       : 7.151571
+[GoPro]         TimeStamp                       : 7.151571
+[GoPro]         TimeStamp                       : 7.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 8.154967
+[GoPro]         CameraTemperature               : 27.38671875 C
+[GoPro]         Accelerometer                   : (Binary data 10968 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 8.159149
+[GoPro]         CameraTemperature               : 27.38671875 C
+[GoPro]         Gyroscope                       : (Binary data 40420 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 8.137985
+[GoPro]         Magnetometer                    : 295 -19 172 7123 296 -18 171 7124 297 -19 170 7119 295 -18 172 7123 296 -18 170 7121 295 -19 171 7121 295 -20 170 7121 295 -18 170 7122 297 -19 172 7121 295 -19 170 7125 295 -18 171 7122 293 -20 170 7125 294 -20 173 7123 295 -21 170 7122 295 -19 171 7121 296 -19 172 7121 294 -19 172 7123 297 -17 171 7122 296 -20 172 7123 295 -20 172 7124 296 -19 171 7122 297 -21 172 7124 298 -21 170 7125 293 -19 172 7121 294 -19 171 7123
+[GoPro]         TimeStamp                       : 8.159571
+[GoPro]         ExposureTimes                   : 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901
+[GoPro]         TimeStamp                       : 8.159571
+[GoPro]         ColorTemperatures               : 6620 6620 6620 6620 6620 6620 6620 6620 6620 6620
+[GoPro]         TimeStamp                       : 8.159571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 219 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 8.159571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 8.159571
+[GoPro]         TimeStamp                       : 7.816243
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:12.530
+[GoPro]         GPSHPositioningError            : 3.32
+[GoPro]         GPSLatitude                     : 52.255267 N
+[GoPro]         GPSLongitude                    : 6.779877 E
+[GoPro]         GPSAltitude                     : 14.083 m
+[GoPro]         GPSSpeed                        : 0.051
+[GoPro]         GPSSpeed3D                      : 0.05
+[GoPro]         GPSLatitude                     : 52.255267 N
+[GoPro]         GPSLongitude                    : 6.779877 E
+[GoPro]         GPSAltitude                     : 14.094 m
+[GoPro]         GPSSpeed                        : 0.051
+[GoPro]         GPSSpeed3D                      : 0.06
+[GoPro]         GPSLatitude                     : 52.255267 N
+[GoPro]         GPSLongitude                    : 6.779877 E
+[GoPro]         GPSAltitude                     : 14.115 m
+[GoPro]         GPSSpeed                        : 0.058
+[GoPro]         GPSSpeed3D                      : 0.02
+[GoPro]         GPSLatitude                     : 52.255267 N
+[GoPro]         GPSLongitude                    : 6.779878 E
+[GoPro]         GPSAltitude                     : 14.114 m
+[GoPro]         GPSSpeed                        : 0.08
+[GoPro]         GPSSpeed3D                      : 0.06
+[GoPro]         TimeStamp                       : 8.159571
+[GoPro]         TimeStamp                       : 8.159571
+[GoPro]         TimeStamp                       : 8.159571
+[GoPro]         TimeStamp                       : 8.159571
+[GoPro]         TimeStamp                       : 8.151571
+[GoPro]         TimeStamp                       : 8.151571
+[GoPro]         TimeStamp                       : 8.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 9.159047
+[GoPro]         CameraTemperature               : 27.4453125 C
+[GoPro]         Accelerometer                   : (Binary data 10908 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 9.159483
+[GoPro]         CameraTemperature               : 27.4453125 C
+[GoPro]         Gyroscope                       : (Binary data 39791 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 9.137071
+[GoPro]         Magnetometer                    : 294 -20 173 7124 297 -19 172 7122 295 -19 170 7122 295 -18 171 7122 295 -18 172 7122 294 -17 171 7121 294 -19 171 7123 295 -15 171 7124 297 -19 169 7123 295 -16 170 7120 296 -19 172 7123 295 -19 170 7120 295 -18 171 7121 295 -18 172 7121 294 -17 170 7121 295 -20 172 7122 295 -19 170 7121 294 -19 170 7121 295 -21 172 7123 295 -21 171 7123 294 -20 169 7123 295 -22 170 7120 296 -17 172 7124 295 -18 172 7123 296 -19 170 7123
+[GoPro]         TimeStamp                       : 9.160571
+[GoPro]         ExposureTimes                   : 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901
+[GoPro]         TimeStamp                       : 9.160571
+[GoPro]         ColorTemperatures               : 6620 6620 6620 6620 6620 6620 6620 6620 6620 6620
+[GoPro]         TimeStamp                       : 9.160571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 219 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 9.160571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 9.160571
+[GoPro]         TimeStamp                       : 8.987339
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:13.795
+[GoPro]         GPSHPositioningError            : 3.32
+[GoPro]         GPSLatitude                     : 52.255268 N
+[GoPro]         GPSLongitude                    : 6.779878 E
+[GoPro]         GPSAltitude                     : 14.101 m
+[GoPro]         GPSSpeed                        : 0.015
+[GoPro]         GPSSpeed3D                      : 0.05
+[GoPro]         GPSLatitude                     : 52.255268 N
+[GoPro]         GPSLongitude                    : 6.779877 E
+[GoPro]         GPSAltitude                     : 14.111 m
+[GoPro]         GPSSpeed                        : 0.127
+[GoPro]         GPSSpeed3D                      : 0.05
+[GoPro]         GPSLatitude                     : 52.255268 N
+[GoPro]         GPSLongitude                    : 6.779878 E
+[GoPro]         GPSAltitude                     : 14.107 m
+[GoPro]         GPSSpeed                        : 0.035
+[GoPro]         GPSSpeed3D                      : 0.05
+[GoPro]         GPSLatitude                     : 52.255268 N
+[GoPro]         GPSLongitude                    : 6.779878 E
+[GoPro]         GPSAltitude                     : 14.068 m
+[GoPro]         GPSSpeed                        : 0.112
+[GoPro]         GPSSpeed3D                      : 0.04
+[GoPro]         TimeStamp                       : 9.160571
+[GoPro]         TimeStamp                       : 9.160571
+[GoPro]         TimeStamp                       : 9.160571
+[GoPro]         TimeStamp                       : 9.160571
+[GoPro]         TimeStamp                       : 9.151571
+[GoPro]         TimeStamp                       : 9.151571
+[GoPro]         TimeStamp                       : 9.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 10.158128
+[GoPro]         CameraTemperature               : 27.517578125 C
+[GoPro]         Accelerometer                   : (Binary data 10970 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 10.161016
+[GoPro]         CameraTemperature               : 27.517578125 C
+[GoPro]         Gyroscope                       : (Binary data 40201 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 10.136158
+[GoPro]         Magnetometer                    : 295 -18 171 7120 295 -21 171 7122 294 -18 171 7122 297 -18 172 7119 294 -20 170 7123 294 -19 172 7121 296 -20 171 7122 293 -20 171 7119 297 -18 171 7122 295 -19 171 7122 295 -19 172 7122 297 -20 170 7121 294 -20 171 7122 293 -21 171 7123 294 -18 170 7121 294 -19 170 7118 296 -20 171 7122 294 -20 170 7122 297 -17 171 7121 295 -19 171 7119 294 -18 170 7120 294 -18 170 7121 295 -18 169 7119 295 -20 173 7121 295 -19 168 7117
+[GoPro]         TimeStamp                       : 10.161571
+[GoPro]         ExposureTimes                   : 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901
+[GoPro]         TimeStamp                       : 10.161571
+[GoPro]         ColorTemperatures               : 6620 6620 6620 6620 6620 6620 6620 6620 6620 6620
+[GoPro]         TimeStamp                       : 10.161571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 219 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 10.161571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 10.161571
+[GoPro]         TimeStamp                       : 10.033417
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:14.895
+[GoPro]         GPSHPositioningError            : 3.32
+[GoPro]         GPSLatitude                     : 52.255268 N
+[GoPro]         GPSLongitude                    : 6.779878 E
+[GoPro]         GPSAltitude                     : 14.064 m
+[GoPro]         GPSSpeed                        : 0.053
+[GoPro]         GPSSpeed3D                      : 0.06
+[GoPro]         GPSLatitude                     : 52.255268 N
+[GoPro]         GPSLongitude                    : 6.779878 E
+[GoPro]         GPSAltitude                     : 14.028 m
+[GoPro]         GPSSpeed                        : 0.085
+[GoPro]         GPSSpeed3D                      : 0.08
+[GoPro]         GPSLatitude                     : 52.255268 N
+[GoPro]         GPSLongitude                    : 6.779878 E
+[GoPro]         GPSAltitude                     : 13.994 m
+[GoPro]         GPSSpeed                        : 0.087
+[GoPro]         GPSSpeed3D                      : 0.08
+[GoPro]         GPSLatitude                     : 52.255268 N
+[GoPro]         GPSLongitude                    : 6.779878 E
+[GoPro]         GPSAltitude                     : 14.01 m
+[GoPro]         GPSSpeed                        : 0.059
+[GoPro]         GPSSpeed3D                      : 0.08
+[GoPro]         TimeStamp                       : 10.161571
+[GoPro]         TimeStamp                       : 10.161571
+[GoPro]         TimeStamp                       : 10.161571
+[GoPro]         TimeStamp                       : 10.161571
+[GoPro]         TimeStamp                       : 10.151571
+[GoPro]         TimeStamp                       : 10.151571
+[GoPro]         TimeStamp                       : 10.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 11.162219
+[GoPro]         CameraTemperature               : 27.609375 C
+[GoPro]         Accelerometer                   : (Binary data 10915 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 11.161404
+[GoPro]         CameraTemperature               : 27.609375 C
+[GoPro]         Gyroscope                       : (Binary data 40035 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 11.135247
+[GoPro]         Magnetometer                    : 294 -19 170 7119 295 -21 169 7116 295 -20 168 7120 296 -18 171 7119 295 -18 172 7117 295 -20 169 7119 294 -22 172 7121 295 -18 171 7119 295 -22 171 7121 295 -19 170 7119 295 -21 170 7120 294 -21 169 7119 294 -19 172 7121 293 -21 172 7120 296 -22 170 7120 292 -21 172 7120 294 -19 170 7118 297 -20 172 7118 296 -19 170 7117 296 -20 171 7118 294 -20 171 7116 295 -19 174 7118 294 -19 171 7120 298 -21 172 7119 294 -18 172 7118
+[GoPro]         TimeStamp                       : 11.162571
+[GoPro]         ExposureTimes                   : 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901
+[GoPro]         TimeStamp                       : 11.162571
+[GoPro]         ColorTemperatures               : 6620 6620 6620 6620 6620 6620 6620 6620 6620 6620
+[GoPro]         TimeStamp                       : 11.162571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 219 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 11.162571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 11.162571
+[GoPro]         TimeStamp                       : 11.000391
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:15.280
+[GoPro]         GPSHPositioningError            : 3.32
+[GoPro]         GPSLatitude                     : 52.255268 N
+[GoPro]         GPSLongitude                    : 6.779878 E
+[GoPro]         GPSAltitude                     : 13.967 m
+[GoPro]         GPSSpeed                        : 0.101
+[GoPro]         GPSSpeed3D                      : 0.08
+[GoPro]         GPSLatitude                     : 52.255269 N
+[GoPro]         GPSLongitude                    : 6.779879 E
+[GoPro]         GPSAltitude                     : 13.86 m
+[GoPro]         GPSSpeed                        : 0.048
+[GoPro]         GPSSpeed3D                      : 0.02
+[GoPro]         GPSLatitude                     : 52.255268 N
+[GoPro]         GPSLongitude                    : 6.779877 E
+[GoPro]         GPSAltitude                     : 13.972 m
+[GoPro]         GPSSpeed                        : 0.15
+[GoPro]         GPSSpeed3D                      : 0.19
+[GoPro]         GPSLatitude                     : 52.255269 N
+[GoPro]         GPSLongitude                    : 6.779879 E
+[GoPro]         GPSAltitude                     : 13.86 m
+[GoPro]         GPSSpeed                        : 0.048
+[GoPro]         GPSSpeed3D                      : 0.02
+[GoPro]         GPSLatitude                     : 52.255269 N
+[GoPro]         GPSLongitude                    : 6.779879 E
+[GoPro]         GPSAltitude                     : 13.859 m
+[GoPro]         GPSSpeed                        : 0.013
+[GoPro]         GPSSpeed3D                      : 0.04
+[GoPro]         TimeStamp                       : 11.162571
+[GoPro]         TimeStamp                       : 11.162571
+[GoPro]         TimeStamp                       : 11.162571
+[GoPro]         TimeStamp                       : 11.162571
+[GoPro]         TimeStamp                       : 11.151571
+[GoPro]         TimeStamp                       : 11.151571
+[GoPro]         TimeStamp                       : 11.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 12.161303
+[GoPro]         CameraTemperature               : 27.66015625 C
+[GoPro]         Accelerometer                   : (Binary data 10918 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 12.162992
+[GoPro]         CameraTemperature               : 27.66015625 C
+[GoPro]         Gyroscope                       : (Binary data 40138 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 12.134338
+[GoPro]         Magnetometer                    : 292 -18 171 7120 296 -17 173 7120 295 -19 172 7120 294 -20 171 7120 295 -20 171 7121 294 -16 173 7119 295 -22 170 7119 294 -17 171 7120 295 -19 168 7120 296 -21 171 7120 295 -20 170 7122 293 -16 171 7122 292 -18 169 7117 293 -21 170 7121 295 -20 172 7118 296 -18 171 7120 294 -18 168 7118 294 -19 172 7119 294 -21 171 7120 296 -19 169 7118 294 -18 172 7118 294 -18 170 7118 295 -18 170 7120 294 -18 171 7118 295 -19 171 7120
+[GoPro]         TimeStamp                       : 12.163571
+[GoPro]         ExposureTimes                   : 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901
+[GoPro]         TimeStamp                       : 12.163571
+[GoPro]         ColorTemperatures               : 6620 6620 6620 6620 6620 6620 6620 6596 6596 6596
+[GoPro]         TimeStamp                       : 12.163571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 216 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 12.163571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 12.163571
+[GoPro]         TimeStamp                       : 11.609312
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:16.545
+[GoPro]         GPSHPositioningError            : 3.32
+[GoPro]         GPSLatitude                     : 52.255269 N
+[GoPro]         GPSLongitude                    : 6.779879 E
+[GoPro]         GPSAltitude                     : 13.883 m
+[GoPro]         GPSSpeed                        : 0.032
+[GoPro]         GPSSpeed3D                      : 0.06
+[GoPro]         GPSLatitude                     : 52.255269 N
+[GoPro]         GPSLongitude                    : 6.779879 E
+[GoPro]         GPSAltitude                     : 13.874 m
+[GoPro]         GPSSpeed                        : 0.019
+[GoPro]         GPSSpeed3D                      : 0.03
+[GoPro]         GPSLatitude                     : 52.255269 N
+[GoPro]         GPSLongitude                    : 6.779879 E
+[GoPro]         GPSAltitude                     : 13.836 m
+[GoPro]         GPSSpeed                        : 0.059
+[GoPro]         GPSSpeed3D                      : 0.02
+[GoPro]         GPSLatitude                     : 52.255270 N
+[GoPro]         GPSLongitude                    : 6.779882 E
+[GoPro]         GPSAltitude                     : 13.746 m
+[GoPro]         GPSSpeed                        : 0.065
+[GoPro]         GPSSpeed3D                      : 0.1
+[GoPro]         TimeStamp                       : 12.163571
+[GoPro]         TimeStamp                       : 12.163571
+[GoPro]         TimeStamp                       : 12.163571
+[GoPro]         TimeStamp                       : 12.163571
+[GoPro]         TimeStamp                       : 12.151571
+[GoPro]         TimeStamp                       : 12.151571
+[GoPro]         TimeStamp                       : 12.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 13.160402
+[GoPro]         CameraTemperature               : 27.69140625 C
+[GoPro]         Accelerometer                   : (Binary data 10954 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 13.163333
+[GoPro]         CameraTemperature               : 27.69140625 C
+[GoPro]         Gyroscope                       : (Binary data 40668 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 13.13343
+[GoPro]         Magnetometer                    : 296 -18 169 7121 294 -18 171 7117 294 -20 170 7120 295 -18 171 7116 294 -20 170 7118 295 -19 170 7120 296 -20 170 7117 295 -19 169 7118 294 -19 171 7117 295 -20 172 7119 294 -19 172 7120 295 -19 172 7120 295 -20 171 7119 295 -19 172 7119 292 -19 173 7119 295 -20 170 7120 292 -19 171 7120 294 -20 170 7119 296 -21 170 7120 294 -19 169 7119 294 -19 171 7119 293 -18 170 7118 294 -22 171 7119 295 -19 170 7118 293 -17 170 7119
+[GoPro]         TimeStamp                       : 13.164571
+[GoPro]         ExposureTimes                   : 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/906 1/906 1/906 1/906 1/906 1/906 1/906 1/906
+[GoPro]         TimeStamp                       : 13.164571
+[GoPro]         ColorTemperatures               : 6596 6620 6620 6620 6620 6620 6596 6596 6596 6596
+[GoPro]         TimeStamp                       : 13.164571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 222 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 13.164571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 101 101 101 101 101 101 101 101
+[GoPro]         TimeStamp                       : 13.164571
+[GoPro]         TimeStamp                       : 13.118136
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:17.645
+[GoPro]         GPSHPositioningError            : 3.32
+[GoPro]         GPSLatitude                     : 52.255270 N
+[GoPro]         GPSLongitude                    : 6.779882 E
+[GoPro]         GPSAltitude                     : 13.75 m
+[GoPro]         GPSSpeed                        : 0.045
+[GoPro]         GPSSpeed3D                      : 0.06
+[GoPro]         TimeStamp                       : 13.164571
+[GoPro]         TimeStamp                       : 13.164571
+[GoPro]         TimeStamp                       : 13.164571
+[GoPro]         TimeStamp                       : 13.164571
+[GoPro]         TimeStamp                       : 13.151571
+[GoPro]         TimeStamp                       : 13.151571
+[GoPro]         TimeStamp                       : 13.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 14.164483
+[GoPro]         CameraTemperature               : 27.76953125 C
+[GoPro]         Accelerometer                   : (Binary data 10919 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 14.16487
+[GoPro]         CameraTemperature               : 27.76953125 C
+[GoPro]         Gyroscope                       : (Binary data 40217 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 14.132524
+[GoPro]         Magnetometer                    : 294 -19 170 7118 292 -18 170 7117 295 -20 170 7117 295 -20 169 7116 296 -20 172 7119 293 -18 171 7120 293 -18 168 7118 293 -19 172 7118 294 -19 170 7118 293 -19 168 7118 297 -19 168 7118 294 -18 171 7118 293 -21 170 7114 294 -21 171 7118 295 -19 171 7118 291 -20 172 7119 295 -19 170 7117 294 -20 172 7118 294 -18 170 7119 295 -21 170 7118 294 -18 170 7118 292 -20 170 7117 292 -20 170 7117 294 -20 170 7118 296 -18 169 7118
+[GoPro]         TimeStamp                       : 14.165571
+[GoPro]         ExposureTimes                   : 1/906 1/906 1/906 1/906 1/906 1/906 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901
+[GoPro]         TimeStamp                       : 14.165571
+[GoPro]         ColorTemperatures               : 6596 6596 6596 6596 6596 6596 6596 6596 6596 6596
+[GoPro]         TimeStamp                       : 14.165571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 229 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 14.165571
+[GoPro]         ISOSpeeds                       : 101 101 101 101 101 101 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 14.165571
+[GoPro]         TimeStamp                       : 13.458533
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:19.020
+[GoPro]         GPSHPositioningError            : 2.95
+[GoPro]         GPSLatitude                     : 52.255270 N
+[GoPro]         GPSLongitude                    : 6.779883 E
+[GoPro]         GPSAltitude                     : 13.673 m
+[GoPro]         GPSSpeed                        : 0.05
+[GoPro]         GPSSpeed3D                      : 0.07
+[GoPro]         GPSLatitude                     : 52.255271 N
+[GoPro]         GPSLongitude                    : 6.779883 E
+[GoPro]         GPSAltitude                     : 13.61 m
+[GoPro]         GPSSpeed                        : 0.037
+[GoPro]         GPSSpeed3D                      : 0.04
+[GoPro]         GPSLatitude                     : 52.255271 N
+[GoPro]         GPSLongitude                    : 6.779884 E
+[GoPro]         GPSAltitude                     : 13.566 m
+[GoPro]         GPSSpeed                        : 0.059
+[GoPro]         GPSSpeed3D                      : 0.05
+[GoPro]         TimeStamp                       : 14.165571
+[GoPro]         TimeStamp                       : 14.165571
+[GoPro]         TimeStamp                       : 14.165571
+[GoPro]         TimeStamp                       : 14.165571
+[GoPro]         TimeStamp                       : 14.151571
+[GoPro]         TimeStamp                       : 14.151571
+[GoPro]         TimeStamp                       : 14.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 15.163579
+[GoPro]         CameraTemperature               : 27.82421875 C
+[GoPro]         Accelerometer                   : (Binary data 10903 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 15.166463
+[GoPro]         CameraTemperature               : 27.82421875 C
+[GoPro]         Gyroscope                       : (Binary data 40312 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 15.131619
+[GoPro]         Magnetometer                    : 295 -19 170 7118 294 -18 170 7116 293 -19 171 7114 294 -17 169 7116 292 -20 169 7116 293 -20 172 7115 294 -20 170 7112 293 -19 172 7116 293 -21 171 7117 294 -19 169 7118 293 -17 172 7115 292 -21 171 7115 294 -20 169 7114 292 -19 168 7118 291 -20 169 7119 292 -20 172 7119 291 -19 171 7118 292 -19 171 7118 295 -19 171 7118 292 -19 168 7117 295 -18 173 7116 294 -21 171 7117 294 -19 171 7117 292 -21 171 7115 293 -19 171 7118
+[GoPro]         TimeStamp                       : 15.166571
+[GoPro]         ExposureTimes                   : 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901
+[GoPro]         TimeStamp                       : 15.166571
+[GoPro]         ColorTemperatures               : 6596 6596 6596 6596 6596 6596 6596 6596 6596 6596
+[GoPro]         TimeStamp                       : 15.166571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 229 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 15.166571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 101 101 101 101 101 101 101
+[GoPro]         TimeStamp                       : 15.166571
+[GoPro]         TimeStamp                       : 15.151071
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:19.350
+[GoPro]         GPSHPositioningError            : 2.95
+[GoPro]         GPSLatitude                     : 52.255271 N
+[GoPro]         GPSLongitude                    : 6.779883 E
+[GoPro]         GPSAltitude                     : 13.582 m
+[GoPro]         GPSSpeed                        : 0.009
+[GoPro]         GPSSpeed3D                      : 0.02
+[GoPro]         TimeStamp                       : 15.166571
+[GoPro]         TimeStamp                       : 15.166571
+[GoPro]         TimeStamp                       : 15.166571
+[GoPro]         TimeStamp                       : 15.166571
+[GoPro]         TimeStamp                       : 15.151571
+[GoPro]         TimeStamp                       : 15.151571
+[GoPro]         TimeStamp                       : 15.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 16.162683
+[GoPro]         CameraTemperature               : 27.880859375 C
+[GoPro]         Accelerometer                   : (Binary data 10984 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 16.166861
+[GoPro]         CameraTemperature               : 27.880859375 C
+[GoPro]         Gyroscope                       : (Binary data 40263 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 16.130716
+[GoPro]         Magnetometer                    : 295 -20 172 7115 292 -19 168 7118 294 -18 170 7116 297 -20 168 7116 293 -20 168 7117 294 -20 170 7117 291 -20 170 7116 293 -19 170 7117 293 -21 170 7116 291 -21 169 7116 294 -20 171 7117 295 -17 170 7116 291 -20 172 7116 295 -19 172 7117 296 -18 171 7117 294 -18 172 7113 293 -22 170 7114 290 -19 171 7113 293 -20 171 7116 293 -19 171 7116 294 -19 171 7117 292 -21 170 7114 293 -19 172 7117 295 -19 172 7117 293 -22 170 7112
+[GoPro]         TimeStamp                       : 16.167571
+[GoPro]         ExposureTimes                   : 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901
+[GoPro]         TimeStamp                       : 16.167571
+[GoPro]         ColorTemperatures               : 6596 6596 6596 6596 6596 6596 6596 6596 6596 6596
+[GoPro]         TimeStamp                       : 16.167571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 229 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 16.167571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 101 101 101 101 101 101 101 101 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 16.167571
+[GoPro]         TimeStamp                       : 15.731519
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:20.285
+[GoPro]         GPSHPositioningError            : 2.95
+[GoPro]         GPSLatitude                     : 52.255272 N
+[GoPro]         GPSLongitude                    : 6.779884 E
+[GoPro]         GPSAltitude                     : 13.589 m
+[GoPro]         GPSSpeed                        : 0.077
+[GoPro]         GPSSpeed3D                      : 0.04
+[GoPro]         GPSLatitude                     : 52.255273 N
+[GoPro]         GPSLongitude                    : 6.779885 E
+[GoPro]         GPSAltitude                     : 13.619 m
+[GoPro]         GPSSpeed                        : 0.098
+[GoPro]         GPSSpeed3D                      : 0.08
+[GoPro]         GPSLatitude                     : 52.255273 N
+[GoPro]         GPSLongitude                    : 6.779886 E
+[GoPro]         GPSAltitude                     : 13.504 m
+[GoPro]         GPSSpeed                        : 0.139
+[GoPro]         GPSSpeed3D                      : 0.08
+[GoPro]         GPSLatitude                     : 52.255273 N
+[GoPro]         GPSLongitude                    : 6.779886 E
+[GoPro]         GPSAltitude                     : 13.476 m
+[GoPro]         GPSSpeed                        : 0.098
+[GoPro]         GPSSpeed3D                      : 0.08
+[GoPro]         GPSLatitude                     : 52.255273 N
+[GoPro]         GPSLongitude                    : 6.779885 E
+[GoPro]         GPSAltitude                     : 13.485 m
+[GoPro]         GPSSpeed                        : 0.033
+[GoPro]         GPSSpeed3D                      : 0.09
+[GoPro]         GPSLatitude                     : 52.255274 N
+[GoPro]         GPSLongitude                    : 6.779886 E
+[GoPro]         GPSAltitude                     : 13.49 m
+[GoPro]         GPSSpeed                        : 0.036
+[GoPro]         GPSSpeed3D                      : 0.08
+[GoPro]         GPSLatitude                     : 52.255274 N
+[GoPro]         GPSLongitude                    : 6.779885 E
+[GoPro]         GPSAltitude                     : 13.492 m
+[GoPro]         GPSSpeed                        : 0.011
+[GoPro]         GPSSpeed3D                      : 0.06
+[GoPro]         TimeStamp                       : 16.167571
+[GoPro]         TimeStamp                       : 16.167571
+[GoPro]         TimeStamp                       : 16.167571
+[GoPro]         TimeStamp                       : 16.167571
+[GoPro]         TimeStamp                       : 16.151571
+[GoPro]         TimeStamp                       : 16.151571
+[GoPro]         TimeStamp                       : 16.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 17.166777
+[GoPro]         CameraTemperature               : 27.9375 C
+[GoPro]         Accelerometer                   : (Binary data 10906 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 17.168403
+[GoPro]         CameraTemperature               : 27.9375 C
+[GoPro]         Gyroscope                       : (Binary data 40489 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 17.129814
+[GoPro]         Magnetometer                    : 294 -19 171 7116 295 -19 172 7116 292 -21 170 7114 295 -19 174 7116 293 -19 169 7117 291 -18 172 7116 294 -20 171 7115 292 -20 171 7115 294 -20 171 7116 291 -19 170 7116 294 -19 172 7115 294 -17 172 7117 290 -18 170 7112 295 -19 170 7114 293 -19 170 7116 292 -20 170 7117 295 -20 169 7116 293 -17 168 7115 293 -20 170 7115 292 -18 171 7115 293 -19 170 7116 292 -20 171 7117 292 -19 172 7116 295 -20 171 7113 292 -19 168 7115 291 -19 170 7115
+[GoPro]         TimeStamp                       : 17.168571
+[GoPro]         ExposureTimes                   : 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901
+[GoPro]         TimeStamp                       : 17.168571
+[GoPro]         ColorTemperatures               : 6596 6596 6596 6596 6596 6596 6596 6596 6596 6596
+[GoPro]         TimeStamp                       : 17.168571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 229 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 17.168571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 17.168571
+[GoPro]         TimeStamp                       : 17.250174
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:21.165
+[GoPro]         GPSHPositioningError            : 2.95
+[GoPro]         GPSLatitude                     : 52.255274 N
+[GoPro]         GPSLongitude                    : 6.779885 E
+[GoPro]         GPSAltitude                     : 13.497 m
+[GoPro]         GPSSpeed                        : 0.031
+[GoPro]         GPSSpeed3D                      : 0.02
+[GoPro]         TimeStamp                       : 17.168571
+[GoPro]         TimeStamp                       : 17.168571
+[GoPro]         TimeStamp                       : 17.168571
+[GoPro]         TimeStamp                       : 17.168571
+[GoPro]         TimeStamp                       : 17.151571
+[GoPro]         TimeStamp                       : 17.151571
+[GoPro]         TimeStamp                       : 17.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 18.165876
+[GoPro]         CameraTemperature               : 27.984375 C
+[GoPro]         Accelerometer                   : (Binary data 10980 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 18.168804
+[GoPro]         CameraTemperature               : 27.984375 C
+[GoPro]         Gyroscope                       : (Binary data 40629 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 18.168878
+[GoPro]         Magnetometer                    : 292 -22 170 7116 296 -18 171 7112 293 -18 170 7114 293 -19 172 7114 293 -20 172 7112 294 -18 172 7114 291 -20 170 7112 292 -21 170 7115 292 -18 170 7115 295 -20 170 7112 295 -20 171 7113 292 -22 172 7113 293 -21 170 7115 293 -19 170 7114 291 -21 170 7115 294 -20 171 7111 294 -19 171 7115 294 -19 169 7114 293 -20 170 7116 294 -19 170 7115 292 -18 171 7114 294 -19 171 7114 291 -18 171 7115 293 -18 171 7111 292 -18 170 7114
+[GoPro]         TimeStamp                       : 18.169571
+[GoPro]         ExposureTimes                   : 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901
+[GoPro]         TimeStamp                       : 18.169571
+[GoPro]         ColorTemperatures               : 6596 6596 6596 6596 6596 6596 6596 6596 6596 6596
+[GoPro]         TimeStamp                       : 18.169571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 229 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 18.169571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 18.169571
+[GoPro]         TimeStamp                       : 17.70485
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:22.320
+[GoPro]         GPSHPositioningError            : 2.95
+[GoPro]         GPSLatitude                     : 52.255274 N
+[GoPro]         GPSLongitude                    : 6.779884 E
+[GoPro]         GPSAltitude                     : 13.513 m
+[GoPro]         GPSSpeed                        : 0.127
+[GoPro]         GPSSpeed3D                      : 0.08
+[GoPro]         GPSLatitude                     : 52.255274 N
+[GoPro]         GPSLongitude                    : 6.779884 E
+[GoPro]         GPSAltitude                     : 13.497 m
+[GoPro]         GPSSpeed                        : 0.007
+[GoPro]         GPSSpeed3D                      : 0.06
+[GoPro]         GPSLatitude                     : 52.255274 N
+[GoPro]         GPSLongitude                    : 6.779885 E
+[GoPro]         GPSAltitude                     : 13.494 m
+[GoPro]         GPSSpeed                        : 0.017
+[GoPro]         GPSSpeed3D                      : 0.06
+[GoPro]         GPSLatitude                     : 52.255274 N
+[GoPro]         GPSLongitude                    : 6.779886 E
+[GoPro]         GPSAltitude                     : 13.488 m
+[GoPro]         GPSSpeed                        : 0.07
+[GoPro]         GPSSpeed3D                      : 0.08
+[GoPro]         GPSLatitude                     : 52.255275 N
+[GoPro]         GPSLongitude                    : 6.779886 E
+[GoPro]         GPSAltitude                     : 13.409 m
+[GoPro]         GPSSpeed                        : 0.104
+[GoPro]         GPSSpeed3D                      : 0.08
+[GoPro]         TimeStamp                       : 18.169571
+[GoPro]         TimeStamp                       : 18.169571
+[GoPro]         TimeStamp                       : 18.169571
+[GoPro]         TimeStamp                       : 18.169571
+[GoPro]         TimeStamp                       : 18.151571
+[GoPro]         TimeStamp                       : 18.151571
+[GoPro]         TimeStamp                       : 18.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 19.169973
+[GoPro]         CameraTemperature               : 28.048828125 C
+[GoPro]         Accelerometer                   : (Binary data 10887 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 19.170402
+[GoPro]         CameraTemperature               : 28.048828125 C
+[GoPro]         Gyroscope                       : (Binary data 40437 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 19.167979
+[GoPro]         Magnetometer                    : 296 -19 170 7115 294 -22 171 7113 293 -20 169 7114 293 -19 170 7112 295 -21 170 7115 295 -18 171 7113 295 -19 172 7114 292 -20 170 7114 292 -19 169 7115 293 -21 172 7114 292 -18 170 7113 292 -18 171 7114 292 -19 170 7115 295 -19 169 7113 295 -20 170 7111 294 -21 169 7111 294 -19 170 7113 293 -18 171 7115 291 -21 171 7113 293 -20 170 7110 295 -20 169 7111 293 -21 171 7109 295 -19 171 7114 293 -18 169 7112 294 -18 171 7113
+[GoPro]         TimeStamp                       : 19.170571
+[GoPro]         ExposureTimes                   : 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901
+[GoPro]         TimeStamp                       : 19.170571
+[GoPro]         ColorTemperatures               : 6596 6596 6596 6596 6596 6596 6596 6596 6596 6596
+[GoPro]         TimeStamp                       : 19.170571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 229 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 19.170571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 101 101
+[GoPro]         TimeStamp                       : 19.170571
+[GoPro]         TimeStamp                       : 18.968166
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:23.640
+[GoPro]         GPSHPositioningError            : 2.95
+[GoPro]         GPSLatitude                     : 52.255275 N
+[GoPro]         GPSLongitude                    : 6.779888 E
+[GoPro]         GPSAltitude                     : 13.364 m
+[GoPro]         GPSSpeed                        : 0.185
+[GoPro]         GPSSpeed3D                      : 0.13
+[GoPro]         TimeStamp                       : 19.170571
+[GoPro]         TimeStamp                       : 19.170571
+[GoPro]         TimeStamp                       : 19.170571
+[GoPro]         TimeStamp                       : 19.170571
+[GoPro]         TimeStamp                       : 19.151571
+[GoPro]         TimeStamp                       : 19.151571
+[GoPro]         TimeStamp                       : 19.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 20.169068
+[GoPro]         CameraTemperature               : 28.09375 C
+[GoPro]         Accelerometer                   : (Binary data 10908 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 20.170753
+[GoPro]         CameraTemperature               : 28.09375 C
+[GoPro]         Gyroscope                       : (Binary data 40255 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 20.167082
+[GoPro]         Magnetometer                    : 294 -19 170 7113 294 -20 170 7112 295 -19 172 7112 292 -19 169 7113 295 -21 169 7114 294 -21 169 7114 292 -19 172 7113 291 -19 170 7114 296 -20 170 7112 294 -20 170 7113 294 -22 170 7112 294 -19 173 7109 291 -19 170 7108 294 -21 170 7111 291 -20 170 7111 295 -21 172 7111 294 -19 171 7111 293 -19 172 7111 295 -18 172 7114 292 -17 171 7113 294 -19 171 7112 294 -19 168 7111 293 -16 170 7109 295 -19 171 7110 292 -19 172 7112
+[GoPro]         TimeStamp                       : 20.171571
+[GoPro]         ExposureTimes                   : 1/901 1/901 1/901 1/901 1/901 1/901 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895
+[GoPro]         TimeStamp                       : 20.171571
+[GoPro]         ColorTemperatures               : 6596 6596 6596 6596 6596 6596 6596 6596 6596 6596
+[GoPro]         TimeStamp                       : 20.171571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 229 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 20.171571
+[GoPro]         ISOSpeeds                       : 101 101 101 101 101 101 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 20.171571
+[GoPro]         TimeStamp                       : 20.00476
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:24.300
+[GoPro]         GPSHPositioningError            : 2.95
+[GoPro]         GPSLatitude                     : 52.255277 N
+[GoPro]         GPSLongitude                    : 6.779890 E
+[GoPro]         GPSAltitude                     : 13.16 m
+[GoPro]         GPSSpeed                        : 0.2
+[GoPro]         GPSSpeed3D                      : 0.18
+[GoPro]         GPSLatitude                     : 52.255277 N
+[GoPro]         GPSLongitude                    : 6.779891 E
+[GoPro]         GPSAltitude                     : 13.154 m
+[GoPro]         GPSSpeed                        : 0.172
+[GoPro]         GPSSpeed3D                      : 0.22
+[GoPro]         TimeStamp                       : 20.171571
+[GoPro]         TimeStamp                       : 20.171571
+[GoPro]         TimeStamp                       : 20.171571
+[GoPro]         TimeStamp                       : 20.171571
+[GoPro]         TimeStamp                       : 20.151571
+[GoPro]         TimeStamp                       : 20.151571
+[GoPro]         TimeStamp                       : 20.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 21.168171
+[GoPro]         CameraTemperature               : 28.134765625 C
+[GoPro]         Accelerometer                   : (Binary data 10966 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 21.1723
+[GoPro]         CameraTemperature               : 28.134765625 C
+[GoPro]         Gyroscope                       : (Binary data 40239 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 21.166186
+[GoPro]         Magnetometer                    : 295 -23 172 7113 295 -20 170 7111 293 -23 172 7109 295 -20 170 7112 293 -19 171 7109 294 -21 169 7113 297 -18 171 7111 295 -20 170 7111 292 -18 171 7110 294 -22 171 7109 293 -20 169 7109 291 -19 171 7110 293 -20 172 7111 295 -19 171 7111 292 -22 170 7112 294 -20 171 7110 292 -20 170 7109 293 -20 169 7111 293 -20 169 7111 294 -20 171 7110 292 -20 171 7105 291 -20 170 7107 293 -21 171 7110 294 -19 170 7108 295 -16 169 7111
+[GoPro]         TimeStamp                       : 21.172571
+[GoPro]         ExposureTimes                   : 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901
+[GoPro]         TimeStamp                       : 21.172571
+[GoPro]         ColorTemperatures               : 6596 6596 6596 6596 6596 6596 6596 6596 6596 6596
+[GoPro]         TimeStamp                       : 21.172571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 229 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 21.172571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 101 101 101 101 101 101 101 101 101 101 101 101 101 101 101
+[GoPro]         TimeStamp                       : 21.172571
+[GoPro]         TimeStamp                       : 20.797114
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:25.235
+[GoPro]         GPSHPositioningError            : 2.95
+[GoPro]         GPSLatitude                     : 52.255278 N
+[GoPro]         GPSLongitude                    : 6.779891 E
+[GoPro]         GPSAltitude                     : 13.104 m
+[GoPro]         GPSSpeed                        : 0.153
+[GoPro]         GPSSpeed3D                      : 0.1
+[GoPro]         GPSLatitude                     : 52.255278 N
+[GoPro]         GPSLongitude                    : 6.779892 E
+[GoPro]         GPSAltitude                     : 13.087 m
+[GoPro]         GPSSpeed                        : 0.11
+[GoPro]         GPSSpeed3D                      : 0.16
+[GoPro]         GPSLatitude                     : 52.255279 N
+[GoPro]         GPSLongitude                    : 6.779894 E
+[GoPro]         GPSAltitude                     : 13.059 m
+[GoPro]         GPSSpeed                        : 0.155
+[GoPro]         GPSSpeed3D                      : 0.16
+[GoPro]         GPSLatitude                     : 52.255279 N
+[GoPro]         GPSLongitude                    : 6.779894 E
+[GoPro]         GPSAltitude                     : 13.084 m
+[GoPro]         GPSSpeed                        : 0.159
+[GoPro]         GPSSpeed3D                      : 0.14
+[GoPro]         GPSLatitude                     : 52.255280 N
+[GoPro]         GPSLongitude                    : 6.779895 E
+[GoPro]         GPSAltitude                     : 13.017 m
+[GoPro]         GPSSpeed                        : 0.068
+[GoPro]         GPSSpeed3D                      : 0.09
+[GoPro]         TimeStamp                       : 21.172571
+[GoPro]         TimeStamp                       : 21.172571
+[GoPro]         TimeStamp                       : 21.172571
+[GoPro]         TimeStamp                       : 21.172571
+[GoPro]         TimeStamp                       : 21.151571
+[GoPro]         TimeStamp                       : 21.151571
+[GoPro]         TimeStamp                       : 21.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 22.17228
+[GoPro]         CameraTemperature               : 28.1953125 C
+[GoPro]         Accelerometer                   : (Binary data 10930 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 22.172655
+[GoPro]         CameraTemperature               : 28.205078125 C
+[GoPro]         Gyroscope                       : (Binary data 39794 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 22.165291
+[GoPro]         Magnetometer                    : 294 -20 169 7108 295 -18 171 7108 295 -19 172 7110 295 -19 170 7108 295 -17 169 7106 293 -18 169 7107 296 -19 172 7106 294 -19 170 7108 296 -19 171 7109 295 -20 171 7110 295 -19 171 7111 295 -19 170 7110 295 -22 172 7108 294 -21 171 7110 295 -20 168 7109 295 -18 171 7108 295 -17 171 7110 296 -20 171 7111 294 -18 171 7111 293 -20 170 7109 296 -18 172 7110 295 -19 171 7111 294 -20 169 7110 294 -18 170 7111 294 -19 171 7110
+[GoPro]         TimeStamp                       : 22.173571
+[GoPro]         ExposureTimes                   : 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895 1/895
+[GoPro]         TimeStamp                       : 22.173571
+[GoPro]         ColorTemperatures               : 6596 6596 6596 6596 6596 6596 6596 6596 6596 6596
+[GoPro]         TimeStamp                       : 22.173571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 229 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 22.173571
+[GoPro]         ISOSpeeds                       : 101 101 101 101 101 101 101 101 101 101 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 22.173571
+[GoPro]         TimeStamp                       : 21.688168
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:26.335
+[GoPro]         GPSHPositioningError            : 2.95
+[GoPro]         GPSLatitude                     : 52.255280 N
+[GoPro]         GPSLongitude                    : 6.779895 E
+[GoPro]         GPSAltitude                     : 13.011 m
+[GoPro]         GPSSpeed                        : 0.055
+[GoPro]         GPSSpeed3D                      : 0.08
+[GoPro]         GPSLatitude                     : 52.255280 N
+[GoPro]         GPSLongitude                    : 6.779896 E
+[GoPro]         GPSAltitude                     : 13.022 m
+[GoPro]         GPSSpeed                        : 0.064
+[GoPro]         GPSSpeed3D                      : 0.08
+[GoPro]         GPSLatitude                     : 52.255280 N
+[GoPro]         GPSLongitude                    : 6.779896 E
+[GoPro]         GPSAltitude                     : 12.923 m
+[GoPro]         GPSSpeed                        : 0.057
+[GoPro]         GPSSpeed3D                      : 0.08
+[GoPro]         GPSLatitude                     : 52.255280 N
+[GoPro]         GPSLongitude                    : 6.779897 E
+[GoPro]         GPSAltitude                     : 12.907 m
+[GoPro]         GPSSpeed                        : 0.078
+[GoPro]         GPSSpeed3D                      : 0.08
+[GoPro]         GPSLatitude                     : 52.255280 N
+[GoPro]         GPSLongitude                    : 6.779897 E
+[GoPro]         GPSAltitude                     : 12.892 m
+[GoPro]         GPSSpeed                        : 0.062
+[GoPro]         GPSSpeed3D                      : 0.06
+[GoPro]         GPSLatitude                     : 52.255279 N
+[GoPro]         GPSLongitude                    : 6.779897 E
+[GoPro]         GPSAltitude                     : 13.103 m
+[GoPro]         GPSSpeed                        : 0.207
+[GoPro]         GPSSpeed3D                      : 0.04
+[GoPro]         TimeStamp                       : 22.173571
+[GoPro]         TimeStamp                       : 22.173571
+[GoPro]         TimeStamp                       : 22.173571
+[GoPro]         TimeStamp                       : 22.173571
+[GoPro]         TimeStamp                       : 22.151571
+[GoPro]         TimeStamp                       : 22.151571
+[GoPro]         TimeStamp                       : 22.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 23.171387
+[GoPro]         CameraTemperature               : 28.2421875 C
+[GoPro]         Accelerometer                   : (Binary data 10967 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 23.174311
+[GoPro]         CameraTemperature               : 28.2421875 C
+[GoPro]         Gyroscope                       : (Binary data 40408 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 23.164398
+[GoPro]         Magnetometer                    : 295 -18 170 7110 293 -21 173 7109 296 -20 172 7106 295 -18 172 7107 295 -19 170 7107 294 -20 169 7108 296 -20 173 7108 295 -17 169 7107 294 -20 168 7110 295 -18 171 7107 296 -19 170 7109 295 -20 169 7110 293 -20 169 7110 295 -19 170 7111 293 -19 172 7108 293 -19 172 7107 295 -20 171 7109 293 -19 172 7107 294 -22 170 7107 294 -18 170 7110 295 -22 170 7110 294 -21 170 7107 296 -21 172 7106 295 -19 172 7108 295 -19 170 7108
+[GoPro]         TimeStamp                       : 23.174571
+[GoPro]         ExposureTimes                   : 1/895 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901
+[GoPro]         TimeStamp                       : 23.174571
+[GoPro]         ColorTemperatures               : 6596 6596 6596 6596 6596 6596 6596 6596 6596 6596
+[GoPro]         TimeStamp                       : 23.174571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 229 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 23.174571
+[GoPro]         ISOSpeeds                       : 100 101 101 101 101 101 101 101 101 101 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 23.174571
+[GoPro]         TimeStamp                       : 23.181236
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:27.325
+[GoPro]         GPSHPositioningError            : 2.95
+[GoPro]         GPSLatitude                     : 52.255279 N
+[GoPro]         GPSLongitude                    : 6.779897 E
+[GoPro]         GPSAltitude                     : 13.1 m
+[GoPro]         GPSSpeed                        : 0.144
+[GoPro]         GPSSpeed3D                      : 0.22
+[GoPro]         GPSLatitude                     : 52.255281 N
+[GoPro]         GPSLongitude                    : 6.779901 E
+[GoPro]         GPSAltitude                     : 12.702 m
+[GoPro]         GPSSpeed                        : 0.108
+[GoPro]         GPSSpeed3D                      : 0.05
+[GoPro]         GPSLatitude                     : 52.255281 N
+[GoPro]         GPSLongitude                    : 6.779902 E
+[GoPro]         GPSAltitude                     : 12.69 m
+[GoPro]         GPSSpeed                        : 0.169
+[GoPro]         GPSSpeed3D                      : 0.05
+[GoPro]         TimeStamp                       : 23.174571
+[GoPro]         TimeStamp                       : 23.174571
+[GoPro]         TimeStamp                       : 23.174571
+[GoPro]         TimeStamp                       : 23.174571
+[GoPro]         TimeStamp                       : 23.151571
+[GoPro]         TimeStamp                       : 23.151571
+[GoPro]         TimeStamp                       : 23.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 24.17549
+[GoPro]         CameraTemperature               : 28.298828125 C
+[GoPro]         Accelerometer                   : (Binary data 10928 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 24.174668
+[GoPro]         CameraTemperature               : 28.298828125 C
+[GoPro]         Gyroscope                       : (Binary data 39736 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 24.163506
+[GoPro]         Magnetometer                    : 295 -18 169 7111 297 -20 172 7109 295 -20 171 7109 295 -20 170 7107 295 -22 171 7108 293 -21 169 7106 294 -20 170 7108 295 -19 168 7107 294 -18 172 7109 297 -18 169 7108 295 -18 170 7109 297 -18 171 7108 297 -20 171 7108 294 -19 171 7109 296 -18 172 7105 295 -22 170 7108 296 -19 170 7107 295 -18 172 7104 296 -21 172 7106 296 -18 172 7106 295 -19 170 7104 294 -20 170 7105 295 -18 173 7103 294 -19 170 7107 295 -19 170 7106
+[GoPro]         TimeStamp                       : 24.175571
+[GoPro]         ExposureTimes                   : 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901
+[GoPro]         TimeStamp                       : 24.175571
+[GoPro]         ColorTemperatures               : 6596 6596 6596 6596 6596 6596 6596 6596 6596 6596
+[GoPro]         TimeStamp                       : 24.175571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 229 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 24.175571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 24.175571
+[GoPro]         TimeStamp                       : 23.969714
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:28.040
+[GoPro]         GPSHPositioningError            : 2.95
+[GoPro]         GPSLatitude                     : 52.255281 N
+[GoPro]         GPSLongitude                    : 6.779902 E
+[GoPro]         GPSAltitude                     : 12.647 m
+[GoPro]         GPSSpeed                        : 0.199
+[GoPro]         GPSSpeed3D                      : 0.05
+[GoPro]         GPSLatitude                     : 52.255281 N
+[GoPro]         GPSLongitude                    : 6.779903 E
+[GoPro]         GPSAltitude                     : 12.595 m
+[GoPro]         GPSSpeed                        : 0.16
+[GoPro]         GPSSpeed3D                      : 0.15
+[GoPro]         TimeStamp                       : 24.175571
+[GoPro]         TimeStamp                       : 24.175571
+[GoPro]         TimeStamp                       : 24.175571
+[GoPro]         TimeStamp                       : 24.175571
+[GoPro]         TimeStamp                       : 24.151571
+[GoPro]         TimeStamp                       : 24.151571
+[GoPro]         TimeStamp                       : 24.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 25.174602
+[GoPro]         CameraTemperature               : 28.3515625 C
+[GoPro]         Accelerometer                   : (Binary data 10908 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 25.176291
+[GoPro]         CameraTemperature               : 28.3515625 C
+[GoPro]         Gyroscope                       : (Binary data 39681 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 25.162615
+[GoPro]         Magnetometer                    : 295 -17 171 7107 297 -20 172 7108 295 -20 172 7106 294 -21 173 7108 297 -19 173 7107 294 -17 170 7109 295 -18 171 7109 295 -19 171 7108 293 -19 171 7108 295 -19 170 7109 296 -18 170 7108 298 -18 170 7106 295 -18 171 7105 295 -18 171 7104 294 -20 170 7109 295 -18 170 7103 299 -18 172 7104 294 -20 172 7109 295 -17 171 7107 296 -18 171 7105 297 -19 172 7106 293 -18 170 7107 298 -20 171 7109 296 -19 169 7105 294 -19 171 7108
+[GoPro]         TimeStamp                       : 25.178258
+[GoPro]         ExposureTimes                   : 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/901 1/895 1/885 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879
+[GoPro]         TimeStamp                       : 25.177128
+[GoPro]         ColorTemperatures               : 6596 6596 6596 6596 6596 6596 6596 6596 6596
+[GoPro]         TimeStamp                       : 25.177128
+[GoPro]         WhiteBalanceRGB                 : (Binary data 206 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 25.178258
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 25.177128
+[GoPro]         TimeStamp                       : 24.580972
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:29.085
+[GoPro]         GPSHPositioningError            : 2.95
+[GoPro]         GPSLatitude                     : 52.255282 N
+[GoPro]         GPSLongitude                    : 6.779903 E
+[GoPro]         GPSAltitude                     : 12.336 m
+[GoPro]         GPSSpeed                        : 0.042
+[GoPro]         GPSSpeed3D                      : 0.11
+[GoPro]         GPSLatitude                     : 52.255282 N
+[GoPro]         GPSLongitude                    : 6.779904 E
+[GoPro]         GPSAltitude                     : 12.353 m
+[GoPro]         GPSSpeed                        : 0.041
+[GoPro]         GPSSpeed3D                      : 0.09
+[GoPro]         GPSLatitude                     : 52.255282 N
+[GoPro]         GPSLongitude                    : 6.779903 E
+[GoPro]         GPSAltitude                     : 12.312 m
+[GoPro]         GPSSpeed                        : 0.088
+[GoPro]         GPSSpeed3D                      : 0.07
+[GoPro]         GPSLatitude                     : 52.255282 N
+[GoPro]         GPSLongitude                    : 6.779903 E
+[GoPro]         GPSAltitude                     : 12.296 m
+[GoPro]         GPSSpeed                        : 0.05
+[GoPro]         GPSSpeed3D                      : 0.11
+[GoPro]         GPSLatitude                     : 52.255282 N
+[GoPro]         GPSLongitude                    : 6.779903 E
+[GoPro]         GPSAltitude                     : 12.283 m
+[GoPro]         GPSSpeed                        : 0.047
+[GoPro]         GPSSpeed3D                      : 0.07
+[GoPro]         GPSLatitude                     : 52.255283 N
+[GoPro]         GPSLongitude                    : 6.779905 E
+[GoPro]         GPSAltitude                     : 12.192 m
+[GoPro]         GPSSpeed                        : 0.078
+[GoPro]         GPSSpeed3D                      : 0.07
+[GoPro]         GPSLatitude                     : 52.255283 N
+[GoPro]         GPSLongitude                    : 6.779905 E
+[GoPro]         GPSAltitude                     : 12.222 m
+[GoPro]         GPSSpeed                        : 0.077
+[GoPro]         GPSSpeed3D                      : 0.07
+[GoPro]         TimeStamp                       : 25.176571
+[GoPro]         TimeStamp                       : 25.176571
+[GoPro]         TimeStamp                       : 25.176571
+[GoPro]         TimeStamp                       : 25.176571
+[GoPro]         TimeStamp                       : 25.151571
+[GoPro]         TimeStamp                       : 25.151571
+[GoPro]         TimeStamp                       : 25.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 26.173704
+[GoPro]         CameraTemperature               : 28.412109375 C
+[GoPro]         Accelerometer                   : (Binary data 10980 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 26.176633
+[GoPro]         CameraTemperature               : 28.412109375 C
+[GoPro]         Gyroscope                       : (Binary data 40451 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 26.161726
+[GoPro]         Magnetometer                    : 295 -19 171 7107 296 -19 167 7107 295 -17 169 7107 295 -18 171 7107 295 -19 172 7106 295 -20 170 7107 292 -19 170 7105 295 -18 169 7106 296 -20 172 7107 294 -19 170 7107 295 -20 171 7106 293 -18 168 7107 295 -18 171 7108 298 -18 170 7107 296 -20 170 7107 295 -19 170 7106 294 -19 170 7106 296 -17 171 7106 295 -19 169 7105 295 -19 171 7105 293 -19 172 7106 295 -18 171 7104 297 -21 169 7107 294 -18 170 7104 296 -19 169 7104
+[GoPro]         TimeStamp                       : 26.144205
+[GoPro]         ExposureTimes                   : 1/879 1/879 1/879 1/879 1/879 1/879 1/874 1/874 1/874 1/874 1/874 1/874 1/874 1/874 1/874 1/874 1/874 1/874 1/874 1/874 1/874 1/874 1/874 1/874 1/874 1/874 1/874 1/874 1/879 1/879 1/879
+[GoPro]         TimeStamp                       : 26.085076
+[GoPro]         ColorTemperatures               : 6596 6596 6596 6596 6596 6596 6596 6573 6573 6573 6573
+[GoPro]         TimeStamp                       : 26.085076
+[GoPro]         WhiteBalanceRGB                 : (Binary data 256 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 26.144205
+[GoPro]         ISOSpeeds                       : 101 101 101 101 101 101 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 101 101 101
+[GoPro]         TimeStamp                       : 26.085076
+[GoPro]         TimeStamp                       : 25.956644
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:30.460
+[GoPro]         GPSHPositioningError            : 2.95
+[GoPro]         GPSLatitude                     : 52.255283 N
+[GoPro]         GPSLongitude                    : 6.779905 E
+[GoPro]         GPSAltitude                     : 12.124 m
+[GoPro]         GPSSpeed                        : 0.073
+[GoPro]         GPSSpeed3D                      : 0.1
+[GoPro]         GPSLatitude                     : 52.255283 N
+[GoPro]         GPSLongitude                    : 6.779905 E
+[GoPro]         GPSAltitude                     : 12.11 m
+[GoPro]         GPSSpeed                        : 0.069
+[GoPro]         GPSSpeed3D                      : 0.1
+[GoPro]         TimeStamp                       : 26.177571
+[GoPro]         TimeStamp                       : 26.177571
+[GoPro]         TimeStamp                       : 26.177571
+[GoPro]         TimeStamp                       : 26.177571
+[GoPro]         TimeStamp                       : 26.151571
+[GoPro]         TimeStamp                       : 26.151571
+[GoPro]         TimeStamp                       : 26.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 27.17782
+[GoPro]         CameraTemperature               : 28.4296875 C
+[GoPro]         Accelerometer                   : (Binary data 10930 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 27.178259
+[GoPro]         CameraTemperature               : 28.4296875 C
+[GoPro]         Gyroscope                       : (Binary data 39542 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 27.160837
+[GoPro]         Magnetometer                    : 297 -19 169 7107 294 -17 171 7106 296 -20 173 7105 294 -19 171 7105 294 -21 171 7104 296 -17 171 7107 296 -18 169 7103 296 -20 170 7106 295 -18 171 7106 296 -19 169 7107 297 -18 172 7104 296 -18 170 7106 296 -18 169 7106 297 -20 169 7107 295 -17 172 7104 294 -20 170 7101 295 -18 173 7103 296 -18 171 7106 294 -20 171 7105 294 -19 169 7105 296 -18 172 7104 297 -19 172 7103 294 -18 171 7106 295 -19 170 7106 295 -20 172 7100
+[GoPro]         TimeStamp                       : 27.178571
+[GoPro]         ExposureTimes                   : 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879
+[GoPro]         TimeStamp                       : 27.178571
+[GoPro]         ColorTemperatures               : 6573 6573 6573 6573 6573 6573 6573 6573 6573 6573
+[GoPro]         TimeStamp                       : 27.178571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 239 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 27.178571
+[GoPro]         ISOSpeeds                       : 101 101 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 27.178571
+[GoPro]         TimeStamp                       : 26.775128
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:31.615
+[GoPro]         GPSHPositioningError            : 2.95
+[GoPro]         GPSLatitude                     : 52.255284 N
+[GoPro]         GPSLongitude                    : 6.779907 E
+[GoPro]         GPSAltitude                     : 12.029 m
+[GoPro]         GPSSpeed                        : 0.069
+[GoPro]         GPSSpeed3D                      : 0.06
+[GoPro]         GPSLatitude                     : 52.255284 N
+[GoPro]         GPSLongitude                    : 6.779908 E
+[GoPro]         GPSAltitude                     : 11.977 m
+[GoPro]         GPSSpeed                        : 0.101
+[GoPro]         GPSSpeed3D                      : 0.06
+[GoPro]         GPSLatitude                     : 52.255285 N
+[GoPro]         GPSLongitude                    : 6.779908 E
+[GoPro]         GPSAltitude                     : 11.94 m
+[GoPro]         GPSSpeed                        : 0.02
+[GoPro]         GPSSpeed3D                      : 0.06
+[GoPro]         TimeStamp                       : 27.178571
+[GoPro]         TimeStamp                       : 27.178571
+[GoPro]         TimeStamp                       : 27.178571
+[GoPro]         TimeStamp                       : 27.178571
+[GoPro]         TimeStamp                       : 27.151571
+[GoPro]         TimeStamp                       : 27.151571
+[GoPro]         TimeStamp                       : 27.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 28.176933
+[GoPro]         CameraTemperature               : 28.439453125 C
+[GoPro]         Accelerometer                   : (Binary data 10897 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 28.178621
+[GoPro]         CameraTemperature               : 28.439453125 C
+[GoPro]         Gyroscope                       : (Binary data 40709 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 28.15995
+[GoPro]         Magnetometer                    : 296 -18 170 7105 295 -19 171 7105 297 -20 172 7106 297 -17 169 7103 296 -17 171 7104 296 -19 170 7105 298 -16 169 7103 298 -19 171 7103 298 -18 170 7103 296 -18 169 7103 295 -20 169 7104 293 -20 171 7105 296 -18 172 7105 297 -19 170 7104 295 -19 168 7105 297 -18 169 7106 295 -20 170 7106 295 -19 171 7103 295 -17 170 7103 295 -21 171 7103 295 -18 170 7102 295 -20 169 7104 295 -18 171 7103 297 -18 170 7104 297 -20 171 7103
+[GoPro]         TimeStamp                       : 28.179571
+[GoPro]         ExposureTimes                   : 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/879 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885
+[GoPro]         TimeStamp                       : 28.179571
+[GoPro]         ColorTemperatures               : 6573 6573 6573 6573 6573 6573 6573 6573 6573 6573
+[GoPro]         TimeStamp                       : 28.179571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 239 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 28.179571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 101 101 101 101 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 28.179571
+[GoPro]         TimeStamp                       : 27.83724
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:32.275
+[GoPro]         GPSHPositioningError            : 2.95
+[GoPro]         GPSLatitude                     : 52.255285 N
+[GoPro]         GPSLongitude                    : 6.779909 E
+[GoPro]         GPSAltitude                     : 11.927 m
+[GoPro]         GPSSpeed                        : 0.048
+[GoPro]         GPSSpeed3D                      : 0.05
+[GoPro]         GPSLatitude                     : 52.255285 N
+[GoPro]         GPSLongitude                    : 6.779909 E
+[GoPro]         GPSAltitude                     : 11.744 m
+[GoPro]         GPSSpeed                        : 0.074
+[GoPro]         GPSSpeed3D                      : 0.11
+[GoPro]         GPSLatitude                     : 52.255285 N
+[GoPro]         GPSLongitude                    : 6.779909 E
+[GoPro]         GPSAltitude                     : 11.678 m
+[GoPro]         GPSSpeed                        : 0.1
+[GoPro]         GPSSpeed3D                      : 0.13
+[GoPro]         GPSLatitude                     : 52.255285 N
+[GoPro]         GPSLongitude                    : 6.779910 E
+[GoPro]         GPSAltitude                     : 11.606 m
+[GoPro]         GPSSpeed                        : 0.041
+[GoPro]         GPSSpeed3D                      : 0.08
+[GoPro]         TimeStamp                       : 28.179571
+[GoPro]         TimeStamp                       : 28.179571
+[GoPro]         TimeStamp                       : 28.179571
+[GoPro]         TimeStamp                       : 28.179571
+[GoPro]         TimeStamp                       : 28.151571
+[GoPro]         TimeStamp                       : 28.151571
+[GoPro]         TimeStamp                       : 28.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 29.176047
+[GoPro]         CameraTemperature               : 28.513671875 C
+[GoPro]         Accelerometer                   : (Binary data 10979 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 29.180231
+[GoPro]         CameraTemperature               : 28.513671875 C
+[GoPro]         Gyroscope                       : (Binary data 39991 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 29.159064
+[GoPro]         Magnetometer                    : 293 -19 171 7104 295 -17 170 7105 295 -19 169 7103 295 -20 172 7104 294 -17 171 7104 294 -18 171 7103 293 -21 170 7102 296 -19 170 7103 293 -19 170 7102 296 -18 172 7103 295 -20 169 7100 293 -18 169 7101 295 -20 169 7104 296 -20 169 7103 294 -19 169 7103 295 -20 171 7104 295 -20 168 7103 293 -21 168 7102 293 -18 168 7104 294 -20 172 7102 293 -18 167 7103 294 -18 171 7101 293 -19 170 7101 295 -21 171 7100 293 -17 169 7102
+[GoPro]         TimeStamp                       : 29.180571
+[GoPro]         ExposureTimes                   : 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890
+[GoPro]         TimeStamp                       : 29.180571
+[GoPro]         ColorTemperatures               : 6573 6573 6573 6573 6573 6573 6573 6573 6573 6596
+[GoPro]         TimeStamp                       : 29.180571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 238 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 29.180571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 101 101 101 101 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 29.180571
+[GoPro]         TimeStamp                       : 29.110876
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:33.320
+[GoPro]         GPSHPositioningError            : 2.95
+[GoPro]         GPSLatitude                     : 52.255285 N
+[GoPro]         GPSLongitude                    : 6.779910 E
+[GoPro]         GPSAltitude                     : 11.659 m
+[GoPro]         GPSSpeed                        : 0.086
+[GoPro]         GPSSpeed3D                      : 0.17
+[GoPro]         GPSLatitude                     : 52.255285 N
+[GoPro]         GPSLongitude                    : 6.779912 E
+[GoPro]         GPSAltitude                     : 11.489 m
+[GoPro]         GPSSpeed                        : 0.038
+[GoPro]         GPSSpeed3D                      : 0.04
+[GoPro]         GPSLatitude                     : 52.255286 N
+[GoPro]         GPSLongitude                    : 6.779912 E
+[GoPro]         GPSAltitude                     : 11.429 m
+[GoPro]         GPSSpeed                        : 0.017
+[GoPro]         GPSSpeed3D                      : 0.04
+[GoPro]         GPSLatitude                     : 52.255286 N
+[GoPro]         GPSLongitude                    : 6.779913 E
+[GoPro]         GPSAltitude                     : 11.383 m
+[GoPro]         GPSSpeed                        : 0.024
+[GoPro]         GPSSpeed3D                      : 0.03
+[GoPro]         GPSLatitude                     : 52.255286 N
+[GoPro]         GPSLongitude                    : 6.779913 E
+[GoPro]         GPSAltitude                     : 11.353 m
+[GoPro]         GPSSpeed                        : 0.061
+[GoPro]         GPSSpeed3D                      : 0.03
+[GoPro]         GPSLatitude                     : 52.255286 N
+[GoPro]         GPSLongitude                    : 6.779913 E
+[GoPro]         GPSAltitude                     : 11.338 m
+[GoPro]         GPSSpeed                        : 0.06
+[GoPro]         GPSSpeed3D                      : 0.06
+[GoPro]         TimeStamp                       : 29.180571
+[GoPro]         TimeStamp                       : 29.180571
+[GoPro]         TimeStamp                       : 29.180571
+[GoPro]         TimeStamp                       : 29.180571
+[GoPro]         TimeStamp                       : 29.151571
+[GoPro]         TimeStamp                       : 29.151571
+[GoPro]         TimeStamp                       : 29.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 30.180148
+[GoPro]         CameraTemperature               : 28.58203125 C
+[GoPro]         Accelerometer                   : (Binary data 10912 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 30.180595
+[GoPro]         CameraTemperature               : 28.58203125 C
+[GoPro]         Gyroscope                       : (Binary data 40214 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 30.15818
+[GoPro]         Magnetometer                    : 294 -19 170 7102 291 -18 170 7101 293 -22 168 7102 295 -21 169 7102 293 -20 170 7102 293 -20 171 7103 293 -17 170 7099 296 -20 171 7103 295 -20 169 7103 294 -21 171 7101 292 -20 172 7103 295 -22 171 7103 294 -20 170 7102 294 -20 168 7104 293 -19 169 7101 293 -20 171 7100 294 -21 170 7100 293 -20 170 7101 294 -20 170 7103 295 -19 171 7101 292 -21 172 7101 293 -20 171 7101 296 -20 170 7102 292 -21 170 7103 294 -20 170 7102
+[GoPro]         TimeStamp                       : 30.181571
+[GoPro]         ExposureTimes                   : 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890
+[GoPro]         TimeStamp                       : 30.181571
+[GoPro]         ColorTemperatures               : 6573 6596 6596 6596 6596 6596 6573 6596 6596 6596
+[GoPro]         TimeStamp                       : 30.181571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 227 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 30.181571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 30.181571
+[GoPro]         TimeStamp                       : 30.052298
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:34.530
+[GoPro]         GPSHPositioningError            : 2.95
+[GoPro]         GPSLatitude                     : 52.255286 N
+[GoPro]         GPSLongitude                    : 6.779913 E
+[GoPro]         GPSAltitude                     : 11.312 m
+[GoPro]         GPSSpeed                        : 0.035
+[GoPro]         GPSSpeed3D                      : 0.06
+[GoPro]         GPSLatitude                     : 52.255286 N
+[GoPro]         GPSLongitude                    : 6.779914 E
+[GoPro]         GPSAltitude                     : 11.246 m
+[GoPro]         GPSSpeed                        : 0.04
+[GoPro]         GPSSpeed3D                      : 0.06
+[GoPro]         TimeStamp                       : 30.181571
+[GoPro]         TimeStamp                       : 30.181571
+[GoPro]         TimeStamp                       : 30.181571
+[GoPro]         TimeStamp                       : 30.181571
+[GoPro]         TimeStamp                       : 30.151571
+[GoPro]         TimeStamp                       : 30.151571
+[GoPro]         TimeStamp                       : 30.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 31.179274
+[GoPro]         CameraTemperature               : 28.603515625 C
+[GoPro]         Accelerometer                   : (Binary data 10958 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 31.182209
+[GoPro]         CameraTemperature               : 28.603515625 C
+[GoPro]         Gyroscope                       : (Binary data 40471 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 31.157296
+[GoPro]         Magnetometer                    : 293 -19 169 7103 292 -16 171 7101 293 -19 169 7102 292 -20 171 7102 292 -19 170 7097 295 -18 171 7101 294 -19 171 7103 295 -20 168 7102 293 -20 170 7102 293 -19 171 7097 292 -21 170 7100 293 -20 170 7101 293 -19 171 7102 293 -21 170 7100 293 -20 170 7100 292 -22 169 7100 295 -19 169 7099 292 -20 169 7100 293 -20 168 7100 292 -18 170 7100 291 -23 168 7099 293 -18 169 7100 292 -19 170 7098 293 -18 169 7098 292 -19 171 7100
+[GoPro]         TimeStamp                       : 31.182571
+[GoPro]         ExposureTimes                   : 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890
+[GoPro]         TimeStamp                       : 31.182571
+[GoPro]         ColorTemperatures               : 6596 6596 6596 6596 6596 6596 6596 6596 6596 6596
+[GoPro]         TimeStamp                       : 31.182571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 215 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 31.182571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 31.182571
+[GoPro]         TimeStamp                       : 31.09737
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:35.465
+[GoPro]         GPSHPositioningError            : 2.95
+[GoPro]         GPSLatitude                     : 52.255287 N
+[GoPro]         GPSLongitude                    : 6.779915 E
+[GoPro]         GPSAltitude                     : 11.137 m
+[GoPro]         GPSSpeed                        : 0.078
+[GoPro]         GPSSpeed3D                      : 0.07
+[GoPro]         GPSLatitude                     : 52.255287 N
+[GoPro]         GPSLongitude                    : 6.779916 E
+[GoPro]         GPSAltitude                     : 11.001 m
+[GoPro]         GPSSpeed                        : 0.036
+[GoPro]         GPSSpeed3D                      : 0.02
+[GoPro]         TimeStamp                       : 31.182571
+[GoPro]         TimeStamp                       : 31.182571
+[GoPro]         TimeStamp                       : 31.182571
+[GoPro]         TimeStamp                       : 31.182571
+[GoPro]         TimeStamp                       : 31.151571
+[GoPro]         TimeStamp                       : 31.151571
+[GoPro]         TimeStamp                       : 31.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 32.183386
+[GoPro]         CameraTemperature               : 28.626953125 C
+[GoPro]         Accelerometer                   : (Binary data 10923 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 32.182521
+[GoPro]         CameraTemperature               : 28.626953125 C
+[GoPro]         Gyroscope                       : (Binary data 41015 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 32.156413
+[GoPro]         Magnetometer                    : 291 -19 169 7100 294 -18 170 7099 293 -20 171 7099 293 -19 170 7098 292 -17 170 7099 292 -21 171 7097 292 -19 169 7098 292 -19 169 7097 292 -19 168 7097 293 -17 169 7098 293 -20 170 7099 292 -20 170 7098 293 -20 169 7100 291 -17 170 7097 293 -19 172 7098 292 -19 169 7098 293 -19 169 7096 293 -17 169 7094 291 -19 170 7098 292 -20 170 7098 293 -21 170 7098 293 -21 169 7097 292 -19 170 7098 295 -21 169 7097 292 -19 171 7097
+[GoPro]         TimeStamp                       : 32.183571
+[GoPro]         ExposureTimes                   : 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890 1/890
+[GoPro]         TimeStamp                       : 32.183571
+[GoPro]         ColorTemperatures               : 6596 6596 6596 6596 6596 6596 6596 6596 6573 6573
+[GoPro]         TimeStamp                       : 32.183571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 221 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 32.183571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 32.183571
+[GoPro]         TimeStamp                       : 31.65796
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:35.465
+[GoPro]         GPSHPositioningError            : 2.95
+[GoPro]         GPSLatitude                     : 52.255287 N
+[GoPro]         GPSLongitude                    : 6.779916 E
+[GoPro]         GPSAltitude                     : 10.908 m
+[GoPro]         GPSSpeed                        : 0.032
+[GoPro]         GPSSpeed3D                      : 0.04
+[GoPro]         GPSLatitude                     : 52.255287 N
+[GoPro]         GPSLongitude                    : 6.779918 E
+[GoPro]         GPSAltitude                     : 10.797 m
+[GoPro]         GPSSpeed                        : 0.097
+[GoPro]         GPSSpeed3D                      : 0.06
+[GoPro]         GPSLatitude                     : 52.255287 N
+[GoPro]         GPSLongitude                    : 6.779918 E
+[GoPro]         GPSAltitude                     : 10.759 m
+[GoPro]         GPSSpeed                        : 0.049
+[GoPro]         GPSSpeed3D                      : 0.08
+[GoPro]         GPSLatitude                     : 52.255287 N
+[GoPro]         GPSLongitude                    : 6.779918 E
+[GoPro]         GPSAltitude                     : 10.787 m
+[GoPro]         GPSSpeed                        : 0.026
+[GoPro]         GPSSpeed3D                      : 0.08
+[GoPro]         GPSLatitude                     : 52.255287 N
+[GoPro]         GPSLongitude                    : 6.779918 E
+[GoPro]         GPSAltitude                     : 10.66 m
+[GoPro]         GPSSpeed                        : 0.103
+[GoPro]         GPSSpeed3D                      : 0.03
+[GoPro]         GPSLatitude                     : 52.255287 N
+[GoPro]         GPSLongitude                    : 6.779918 E
+[GoPro]         GPSAltitude                     : 10.703 m
+[GoPro]         GPSSpeed                        : 0.02
+[GoPro]         GPSSpeed3D                      : 0.12
+[GoPro]         GPSLatitude                     : 52.255287 N
+[GoPro]         GPSLongitude                    : 6.779918 E
+[GoPro]         GPSAltitude                     : 10.745 m
+[GoPro]         GPSSpeed                        : 0.052
+[GoPro]         GPSSpeed3D                      : 0.12
+[GoPro]         GPSLatitude                     : 52.255287 N
+[GoPro]         GPSLongitude                    : 6.779918 E
+[GoPro]         GPSAltitude                     : 10.706 m
+[GoPro]         GPSSpeed                        : 0.048
+[GoPro]         GPSSpeed3D                      : 0.06
+[GoPro]         TimeStamp                       : 32.183571
+[GoPro]         TimeStamp                       : 32.183571
+[GoPro]         TimeStamp                       : 32.183571
+[GoPro]         TimeStamp                       : 32.183571
+[GoPro]         TimeStamp                       : 32.151571
+[GoPro]         TimeStamp                       : 32.151571
+[GoPro]         TimeStamp                       : 32.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 33.182505
+[GoPro]         CameraTemperature               : 28.697265625 C
+[GoPro]         Accelerometer                   : (Binary data 10916 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 33.18419
+[GoPro]         CameraTemperature               : 28.697265625 C
+[GoPro]         Gyroscope                       : (Binary data 40554 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 33.155532
+[GoPro]         Magnetometer                    : 292 -23 173 7098 291 -20 170 7098 294 -20 170 7098 292 -20 168 7095 291 -20 167 7098 292 -21 171 7098 293 -21 172 7095 290 -19 170 7095 292 -18 167 7096 291 -21 170 7096 289 -22 170 7094 293 -22 170 7097 291 -22 170 7098 291 -20 170 7098 294 -18 169 7096 294 -21 171 7097 292 -21 170 7097 293 -20 170 7095 292 -22 170 7097 293 -20 171 7097 293 -21 167 7094 292 -21 172 7096 293 -21 169 7095 292 -20 170 7093 294 -18 171 7097
+[GoPro]         TimeStamp                       : 33.184571
+[GoPro]         ExposureTimes                   : 1/890 1/890 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/885 1/879 1/879 1/879 1/879 1/879 1/879 1/874 1/874 1/874 1/869 1/869 1/864 1/864 1/864 1/859 1/859 1/859 1/859 1/854
+[GoPro]         TimeStamp                       : 33.184571
+[GoPro]         ColorTemperatures               : 6573 6573 6573 6596 6596 6596 6596 6596 6596 6620
+[GoPro]         TimeStamp                       : 33.184571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 219 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 33.184571
+[GoPro]         ISOSpeeds                       : 100 101 100 100 100 100 100 100 100 100 100 100 100 100 100 101 101 100 100 100 100 101 100 100 100 100 100 100 101 100
+[GoPro]         TimeStamp                       : 33.184571
+[GoPro]         TimeStamp                       : 34.002991
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:37.445
+[GoPro]         GPSHPositioningError            : 2.95
+[GoPro]         GPSLatitude                     : 52.255287 N
+[GoPro]         GPSLongitude                    : 6.779922 E
+[GoPro]         GPSAltitude                     : 10.419 m
+[GoPro]         GPSSpeed                        : 0.087
+[GoPro]         GPSSpeed3D                      : 0.08
+[GoPro]         TimeStamp                       : 33.184571
+[GoPro]         TimeStamp                       : 33.184571
+[GoPro]         TimeStamp                       : 33.184571
+[GoPro]         TimeStamp                       : 33.184571
+[GoPro]         TimeStamp                       : 33.151571
+[GoPro]         TimeStamp                       : 33.151571
+[GoPro]         TimeStamp                       : 33.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 34.181625
+[GoPro]         CameraTemperature               : 28.740234375 C
+[GoPro]         Accelerometer                   : (Binary data 10968 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 34.184559
+[GoPro]         CameraTemperature               : 28.740234375 C
+[GoPro]         Gyroscope                       : (Binary data 40166 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 34.154652
+[GoPro]         Magnetometer                    : 291 -19 170 7094 292 -19 169 7096 293 -21 170 7093 292 -20 169 7097 291 -19 172 7096 292 -19 171 7097 292 -20 170 7097 294 -18 170 7095 290 -20 170 7097 292 -19 170 7095 292 -21 168 7098 292 -20 171 7095 293 -20 171 7095 292 -20 170 7095 291 -19 168 7095 293 -19 172 7093 291 -20 171 7093 294 -19 169 7094 292 -19 171 7094 293 -21 170 7096 293 -20 171 7094 294 -25 171 7094 292 -19 170 7094 291 -18 169 7093 292 -21 170 7096
+[GoPro]         TimeStamp                       : 34.185571
+[GoPro]         ExposureTimes                   : 1/854 1/849 1/849 1/849 1/849 1/844 1/844 1/844 1/844 1/839 1/839 1/839 1/839 1/834 1/834 1/834 1/834 1/830 1/830 1/830 1/830 1/825 1/825 1/825 1/825 1/825 1/825 1/825 1/820 1/820
+[GoPro]         TimeStamp                       : 34.185571
+[GoPro]         ColorTemperatures               : 6620 6620 6620 6620 6620 6644 6644 6644 6644 6644
+[GoPro]         TimeStamp                       : 34.185571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 217 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 34.185571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 34.185571
+[GoPro]         TimeStamp                       : 34.023274
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:38.380
+[GoPro]         GPSHPositioningError            : 2.95
+[GoPro]         GPSLatitude                     : 52.255288 N
+[GoPro]         GPSLongitude                    : 6.779922 E
+[GoPro]         GPSAltitude                     : 10.38 m
+[GoPro]         GPSSpeed                        : 0.098
+[GoPro]         GPSSpeed3D                      : 0.09
+[GoPro]         GPSLatitude                     : 52.255288 N
+[GoPro]         GPSLongitude                    : 6.779922 E
+[GoPro]         GPSAltitude                     : 10.331 m
+[GoPro]         GPSSpeed                        : 0.07
+[GoPro]         GPSSpeed3D                      : 0.1
+[GoPro]         GPSLatitude                     : 52.255288 N
+[GoPro]         GPSLongitude                    : 6.779922 E
+[GoPro]         GPSAltitude                     : 10.336 m
+[GoPro]         GPSSpeed                        : 0.051
+[GoPro]         GPSSpeed3D                      : 0.08
+[GoPro]         GPSLatitude                     : 52.255288 N
+[GoPro]         GPSLongitude                    : 6.779922 E
+[GoPro]         GPSAltitude                     : 10.277 m
+[GoPro]         GPSSpeed                        : 0.053
+[GoPro]         GPSSpeed3D                      : 0.08
+[GoPro]         TimeStamp                       : 34.185571
+[GoPro]         TimeStamp                       : 34.185571
+[GoPro]         TimeStamp                       : 34.185571
+[GoPro]         TimeStamp                       : 34.185571
+[GoPro]         TimeStamp                       : 34.151571
+[GoPro]         TimeStamp                       : 34.151571
+[GoPro]         TimeStamp                       : 34.151571
+[GoPro]         DeviceName                      : GoPro Max
+[GoPro]         TimeStamp                       : 35.18574
+[GoPro]         CameraTemperature               : 28.763671875 C
+[GoPro]         Accelerometer                   : (Binary data 5451 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 35.186175
+[GoPro]         CameraTemperature               : 28.763671875 C
+[GoPro]         Gyroscope                       : (Binary data 22829 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 35.153772
+[GoPro]         Magnetometer                    : 292 -18 170 7095 292 -22 169 7096 290 -22 169 7092 291 -22 171 7093 292 -17 170 7095 290 -21 171 7096 286 -21 171 7095 286 -19 169 7096 286 -17 169 7097 285 -17 170 7095 284 -18 170 7093 284 -16 168 7093 282 -16 171 7093
+[GoPro]         TimeStamp                       : 35.186571
+[GoPro]         ExposureTimes                   : 1/820 1/820 1/820 1/820 1/820 1/820 1/820 1/820 1/820 1/820 1/820 1/820 1/820 1/820
+[GoPro]         TimeStamp                       : 35.186571
+[GoPro]         ColorTemperatures               : 6644 6644 6644 6644
+[GoPro]         TimeStamp                       : 35.186571
+[GoPro]         WhiteBalanceRGB                 : (Binary data 68 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 35.186571
+[GoPro]         ISOSpeeds                       : 100 100 100 100 100 100 100 100 100 100 100 100 100 100
+[GoPro]         TimeStamp                       : 35.186571
+[GoPro]         TimeStamp                       : 34.929181
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:05:10 06:45:39.535
+[GoPro]         GPSHPositioningError            : 2.95
+[GoPro]         TimeStamp                       : 35.186576
+[GoPro]         TimeStamp                       : 35.186576
+[GoPro]         TimeStamp                       : 35.186576
+[GoPro]         TimeStamp                       : 35.186576
+[GoPro]         TimeStamp                       : 35.151571
+[GoPro]         TimeStamp                       : 35.151571
+[GoPro]         TimeStamp                       : 35.151571
+[Composite]     ImageSize                       : 4096x2048
+[Composite]     Megapixels                      : 8.4
+[Composite]     AvgBitrate                      : 70.8 Mbps
+[Composite]     Rotation                        : 0
+[Composite]     BaseName                        : GS012804
+[Composite]     FileExtension                   : mp4
+[Composite]     FileTypeDescription             : MPEG-4 video
+[Composite]     GPSPosition                     : 52.255262 N, 6.779869 E

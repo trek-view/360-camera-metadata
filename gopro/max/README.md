@@ -1,2 +1,0 @@
-# GoPro MAX Metadata
-

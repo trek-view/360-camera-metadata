@@ -1,0 +1,1860 @@
+[ExifTool]      ExifToolVersion                 : 11.99
+[ExifTool]      Now                             : 2020:06:03 09:00:20+01:00
+[ExifTool]      NewGUID                         : 20200603-0900-2000-7A10-F527DCD7E954
+[ExifTool]      FileSequence                    : 0
+[ExifTool]      ProcessingTime                  : 0.564 s
+[File]          FileName                        : VIDEO_7152.mp4
+[File]          Directory                       : .
+[File]          FilePath                        : C:\Users\david\Downloads\tests\VIDEO_7152.mp4
+[File]          FileSize                        : 86 MB
+[File]          FileModifyDate                  : 2020:06:03 08:48:42+01:00
+[File]          FileAccessDate                  : 2020:06:03 08:48:42+01:00
+[File]          FileCreateDate                  : 2020:06:03 08:48:35+01:00
+[File]          FilePermissions                 : rw-rw-rw-
+[File]          FileAttributes                  : Regular; (none); Archive
+[File]          FileDeviceNumber                : 0
+[File]          FileInodeNumber                 : 0
+[File]          FileHardLinks                   : 1
+[File]          FileUserID                      : 0
+[File]          FileGroupID                     : 0
+[File]          FileDeviceID                    : 0.0
+[File]          FileBlockSize                   : 
+[File]          FileBlockCount                  : 
+[File]          FileType                        : MP4
+[File]          FileTypeExtension               : mp4
+[File]          MIMEType                        : video/quicktime
+[QuickTime]     MajorBrand                      : Apple QuickTime (.MOV/QT)
+[QuickTime]     MinorVersion                    : 2005.3.0
+[QuickTime]     CompatibleBrands                : qt
+[QuickTime]     MediaDataSize                   : 90384939
+[QuickTime]     MediaDataOffset                 : 36
+[QuickTime]     MovieHeaderVersion              : 0
+[QuickTime]     CreateDate                      : 2020:04:15 09:14:04
+[QuickTime]     ModifyDate                      : 2020:04:15 09:14:04
+[QuickTime]     TimeScale                       : 2997
+[QuickTime]     Duration                        : 15.98 s
+[QuickTime]     PreferredRate                   : 1
+[QuickTime]     PreferredVolume                 : 100.00%
+[QuickTime]     MatrixStructure                 : 1 0 0 0 1 0 0 0 1
+[QuickTime]     PreviewTime                     : 0 s
+[QuickTime]     PreviewDuration                 : 0 s
+[QuickTime]     PosterTime                      : 0 s
+[QuickTime]     SelectionTime                   : 0 s
+[QuickTime]     SelectionDuration               : 0 s
+[QuickTime]     CurrentTime                     : 0 s
+[QuickTime]     NextTrackID                     : 4
+[QuickTime]     TrackHeaderVersion              : 0
+[QuickTime]     TrackCreateDate                 : 2020:04:15 09:14:04
+[QuickTime]     TrackModifyDate                 : 2020:04:15 09:14:04
+[QuickTime]     TrackID                         : 1
+[QuickTime]     TrackDuration                   : 15.98 s
+[QuickTime]     TrackLayer                      : 0
+[QuickTime]     TrackVolume                     : 0.00%
+[QuickTime]     MatrixStructure                 : 1 0 0 0 1 0 0 0 1
+[QuickTime]     ImageWidth                      : 3840
+[QuickTime]     ImageHeight                     : 1920
+[QuickTime]     MediaHeaderVersion              : 0
+[QuickTime]     MediaCreateDate                 : 2020:04:15 09:14:04
+[QuickTime]     MediaModifyDate                 : 2020:04:15 09:14:04
+[QuickTime]     MediaTimeScale                  : 2997
+[QuickTime]     MediaDuration                   : 15.98 s
+[QuickTime]     HandlerClass                    : Media Handler
+[QuickTime]     HandlerType                     : Video Track
+[QuickTime]     HandlerDescription              : VideoHandler
+[QuickTime]     GraphicsMode                    : ditherCopy
+[QuickTime]     OpColor                         : 32768 32768 32768
+[QuickTime]     HandlerClass                    : Data Handler
+[QuickTime]     HandlerType                     : Alias Data
+[QuickTime]     CompressorID                    : avc1
+[QuickTime]     SourceImageWidth                : 3840
+[QuickTime]     SourceImageHeight               : 1920
+[QuickTime]     XResolution                     : 72
+[QuickTime]     YResolution                     : 72
+[QuickTime]     BitDepth                        : 24
+[QuickTime]     VideoFrameRate                  : 29.97
+[QuickTime]     TrackHeaderVersion              : 0
+[QuickTime]     TrackCreateDate                 : 2020:04:15 09:14:04
+[QuickTime]     TrackModifyDate                 : 2020:04:15 09:14:04
+[QuickTime]     TrackID                         : 2
+[QuickTime]     TrackDuration                   : 15.96 s
+[QuickTime]     TrackLayer                      : 0
+[QuickTime]     TrackVolume                     : 100.00%
+[QuickTime]     MatrixStructure                 : 1 0 0 0 1 0 0 0 1
+[QuickTime]     MediaHeaderVersion              : 0
+[QuickTime]     MediaCreateDate                 : 2020:04:15 09:14:04
+[QuickTime]     MediaModifyDate                 : 2020:04:15 09:14:04
+[QuickTime]     MediaTimeScale                  : 48000
+[QuickTime]     MediaDuration                   : 15.96 s
+[QuickTime]     HandlerClass                    : Media Handler
+[QuickTime]     HandlerType                     : Audio Track
+[QuickTime]     HandlerDescription              : SoundHandler
+[QuickTime]     Balance                         : 0
+[QuickTime]     HandlerClass                    : Data Handler
+[QuickTime]     HandlerType                     : Alias Data
+[QuickTime]     AudioFormat                     : mp4a
+[QuickTime]     AudioChannels                   : 2
+[QuickTime]     AudioBitsPerSample              : 16
+[QuickTime]     AudioSampleRate                 : 48000
+[QuickTime]     PurchaseFileFormat              : mp4a
+[QuickTime]     TrackHeaderVersion              : 0
+[QuickTime]     TrackCreateDate                 : 2020:04:15 09:14:04
+[QuickTime]     TrackModifyDate                 : 2020:04:15 09:14:04
+[QuickTime]     TrackID                         : 3
+[QuickTime]     TrackDuration                   : 16.02 s
+[QuickTime]     TrackLayer                      : 0
+[QuickTime]     TrackVolume                     : 0.00%
+[QuickTime]     MatrixStructure                 : 1 0 0 0 1 0 0 0 1
+[QuickTime]     MediaHeaderVersion              : 0
+[QuickTime]     MediaCreateDate                 : 2020:04:15 09:14:04
+[QuickTime]     MediaModifyDate                 : 2020:04:15 09:14:04
+[QuickTime]     MediaTimeScale                  : 36000
+[QuickTime]     MediaDuration                   : 16.02 s
+[QuickTime]     HandlerClass                    : Media Handler
+[QuickTime]     HandlerType                     : NRT Metadata
+[QuickTime]     HandlerDescription              : GoPro MET
+[QuickTime]     GenMediaVersion                 : 0
+[QuickTime]     GenFlags                        : 0 0 0
+[QuickTime]     GenGraphicsMode                 : srcCopy
+[QuickTime]     GenOpColor                      : 0 0 0
+[QuickTime]     GenBalance                      : 0
+[QuickTime]     TextFont                        : System
+[QuickTime]     TextFace                        : Plain
+[QuickTime]     TextSize                        : 0
+[QuickTime]     TextColor                       : 0 0 0
+[QuickTime]     BackgroundColor                 : 0 0
+[QuickTime]     HandlerClass                    : Data Handler
+[QuickTime]     HandlerType                     : Alias Data
+[QuickTime]     MetaFormat                      : gpmd
+[QuickTime]     SampleTime                      : 0 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 1.00 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 2.00 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 3.00 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 4.00 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 5.00 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 6.01 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 7.01 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 8.01 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 9.01 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 10.01 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 11.01 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 12.01 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 13.01 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 14.01 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     SampleTime                      : 15.02 s
+[QuickTime]     SampleDuration                  : 1.00 s
+[QuickTime]     GPSCoordinates                  : 51.248500 N, 0.782400 W
+[QuickTime]     FirmwareVersion                 : FS1.04.01.80.00
+[XMP]           Spherical                       : true
+[XMP]           Stitched                        : true
+[XMP]           StitchingSoftware               : Fusion Studio / GStreamer
+[XMP]           ProjectionType                  : equirectangular
+[XMP]           StereoMode                      : mono
+[XMP]           SourceCount                     : 2
+[XMP]           InitialViewHeadingDegrees       : 0
+[XMP]           InitialViewPitchDegrees         : 0
+[XMP]           InitialViewRollDegrees          : 0
+[XMP]           XMPToolkit                      : GStreamer
+[GoPro]         DeviceName                      : Fusion
+[GoPro]         TimeStamp                       : 1066.344245
+[GoPro]         CameraTemperature               : 27.048828125 C
+[GoPro]         Accelerometer                   : (Binary data 10227 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1066.365138
+[GoPro]         CameraTemperature               : 27.048828125 C
+[GoPro]         Gyroscope                       : (Binary data 179297 bytes, use -b option to extract)
+[GoPro]         Magnetometer                    : 11.4000005722046 -4.59999990463257 7.30000019073486 11 -4.59999990463257 8.90000057220459 11 -4 8.10000038146973 11 -4 7.30000019073486 9.90000057220459 -2.90000009536743 7 9.90000057220459 -2.90000009536743 7 9.90000057220459 -2.90000009536743 7 9.90000057220459 -4.80000019073486 7.70000028610229 8.30000019073486 -4.70000028610229 8.5 8.30000019073486 -4.70000028610229 8.5 10.6000003814697 -4.70000028610229 7.30000019073486 9.5 -3.20000004768372 7 8.30000019073486 -2.40000009536743 8.90000057220459 8.30000019073486 -2.40000009536743 8.90000057220459 9.90000057220459 -3.90000009536743 8.60000038146973 11 -4.70000028610229 7.09999990463257 11 -4.70000028610229 7.09999990463257 13.3000001907349 -5 9.30000019073486 13.3000001907349 -5 9.30000019073486 12.6000003814697 -5.40000009536743 6.59999990463257 11.4000005722046 -5.70000028610229 9.40000057220459 13.3000001907349 -6.09999990463257 7.40000009536743 12.5 -7.20000028610229 5.80000019073486 13.6999998092651 -5.70000028610229 7 13.3000001907349 -4.5 8.19999980926514
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:04:13 15:37:22.444
+[GoPro]         GPSHPositioningError            : 2.03
+[GoPro]         GPSLatitude                     : 51.248476 N
+[GoPro]         GPSLongitude                    : 0.782445 W
+[GoPro]         GPSAltitude                     : 157.641 m
+[GoPro]         GPSSpeed                        : 1.348
+[GoPro]         GPSSpeed3D                      : 1.28
+[GoPro]         GPSLatitude                     : 51.248477 N
+[GoPro]         GPSLongitude                    : 0.782447 W
+[GoPro]         GPSAltitude                     : 157.616 m
+[GoPro]         GPSSpeed                        : 1.57
+[GoPro]         GPSSpeed3D                      : 1.38
+[GoPro]         GPSLatitude                     : 51.248477 N
+[GoPro]         GPSLongitude                    : 0.782448 W
+[GoPro]         GPSAltitude                     : 157.627 m
+[GoPro]         GPSSpeed                        : 1.549
+[GoPro]         GPSSpeed3D                      : 1.6
+[GoPro]         GPSLatitude                     : 51.248477 N
+[GoPro]         GPSLongitude                    : 0.782450 W
+[GoPro]         GPSAltitude                     : 157.635 m
+[GoPro]         GPSSpeed                        : 1.527
+[GoPro]         GPSSpeed3D                      : 1.57
+[GoPro]         GPSLatitude                     : 51.248477 N
+[GoPro]         GPSLongitude                    : 0.782451 W
+[GoPro]         GPSAltitude                     : 157.637 m
+[GoPro]         GPSSpeed                        : 1.42
+[GoPro]         GPSSpeed3D                      : 1.55
+[GoPro]         GPSLatitude                     : 51.248476 N
+[GoPro]         GPSLongitude                    : 0.782452 W
+[GoPro]         GPSAltitude                     : 157.646 m
+[GoPro]         GPSSpeed                        : 1.429
+[GoPro]         GPSSpeed3D                      : 1.45
+[GoPro]         GPSLatitude                     : 51.248476 N
+[GoPro]         GPSLongitude                    : 0.782453 W
+[GoPro]         GPSAltitude                     : 157.587 m
+[GoPro]         GPSSpeed                        : 1.415
+[GoPro]         GPSSpeed3D                      : 1.45
+[GoPro]         GPSLatitude                     : 51.248476 N
+[GoPro]         GPSLongitude                    : 0.782454 W
+[GoPro]         GPSAltitude                     : 157.528 m
+[GoPro]         GPSSpeed                        : 1.414
+[GoPro]         GPSSpeed3D                      : 1.44
+[GoPro]         GPSLatitude                     : 51.248476 N
+[GoPro]         GPSLongitude                    : 0.782455 W
+[GoPro]         GPSAltitude                     : 157.469 m
+[GoPro]         GPSSpeed                        : 1.472
+[GoPro]         GPSSpeed3D                      : 1.45
+[GoPro]         GPSLatitude                     : 51.248476 N
+[GoPro]         GPSLongitude                    : 0.782457 W
+[GoPro]         GPSAltitude                     : 157.402 m
+[GoPro]         GPSSpeed                        : 1.532
+[GoPro]         GPSSpeed3D                      : 1.51
+[GoPro]         GPSLatitude                     : 51.248477 N
+[GoPro]         GPSLongitude                    : 0.782458 W
+[GoPro]         GPSAltitude                     : 157.343 m
+[GoPro]         GPSSpeed                        : 1.558
+[GoPro]         GPSSpeed3D                      : 1.57
+[GoPro]         GPSLatitude                     : 51.248477 N
+[GoPro]         GPSLongitude                    : 0.782459 W
+[GoPro]         GPSAltitude                     : 157.256 m
+[GoPro]         GPSSpeed                        : 1.601
+[GoPro]         GPSSpeed3D                      : 1.6
+[GoPro]         GPSLatitude                     : 51.248478 N
+[GoPro]         GPSLongitude                    : 0.782460 W
+[GoPro]         GPSAltitude                     : 157.287 m
+[GoPro]         GPSSpeed                        : 1.427
+[GoPro]         GPSSpeed3D                      : 1.64
+[GoPro]         GPSLatitude                     : 51.248478 N
+[GoPro]         GPSLongitude                    : 0.782461 W
+[GoPro]         GPSAltitude                     : 157.285 m
+[GoPro]         GPSSpeed                        : 1.33
+[GoPro]         GPSSpeed3D                      : 1.47
+[GoPro]         GPSLatitude                     : 51.248477 N
+[GoPro]         GPSLongitude                    : 0.782462 W
+[GoPro]         GPSAltitude                     : 157.221 m
+[GoPro]         GPSSpeed                        : 1.354
+[GoPro]         GPSSpeed3D                      : 1.37
+[GoPro]         GPSLatitude                     : 51.248477 N
+[GoPro]         GPSLongitude                    : 0.782463 W
+[GoPro]         GPSAltitude                     : 157.131 m
+[GoPro]         GPSSpeed                        : 1.371
+[GoPro]         GPSSpeed3D                      : 1.4
+[GoPro]         GPSLatitude                     : 51.248477 N
+[GoPro]         GPSLongitude                    : 0.782465 W
+[GoPro]         GPSAltitude                     : 157.074 m
+[GoPro]         GPSSpeed                        : 1.5
+[GoPro]         GPSSpeed3D                      : 1.42
+[GoPro]         GPSLatitude                     : 51.248478 N
+[GoPro]         GPSLongitude                    : 0.782466 W
+[GoPro]         GPSAltitude                     : 157.006 m
+[GoPro]         GPSSpeed                        : 1.649
+[GoPro]         GPSSpeed3D                      : 1.55
+[GoPro]         GPSLatitude                     : 51.248479 N
+[GoPro]         GPSLongitude                    : 0.782468 W
+[GoPro]         GPSAltitude                     : 156.968 m
+[GoPro]         GPSSpeed                        : 1.75
+[GoPro]         GPSSpeed3D                      : 1.7
+[GoPro]         ImageSensorGain                 : (Binary data 526 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1066.333437
+[GoPro]         ExposureTimes                   : 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517
+[GoPro]         DeviceName                      : Fusion
+[GoPro]         TimeStamp                       : 1067.374416
+[GoPro]         CameraTemperature               : 27.046875 C
+[GoPro]         Accelerometer                   : (Binary data 9703 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1067.380297
+[GoPro]         CameraTemperature               : 27.046875 C
+[GoPro]         Gyroscope                       : (Binary data 178492 bytes, use -b option to extract)
+[GoPro]         Magnetometer                    : 15.1999998092651 -4.90000009536743 7 16.3000011444092 -4.5 6.59999990463257 14 -5.30000019073486 6.59999990463257 13.6000003814697 -6.70000028610229 8.90000057220459 13.6000003814697 -6.70000028610229 8.90000057220459 14 -6 7 13.6000003814697 -6.40000009536743 7.40000009536743 13.1999998092651 -4.90000009536743 9.40000057220459 13.1999998092651 -4.90000009536743 9.40000057220459 13.1999998092651 -7.09999990463257 5.80000019073486 11.3000001907349 -7.5 7.70000028610229 13.1999998092651 -6.30000019073486 9.30000019073486 12.4000005722046 -5.59999990463257 7.80000019073486 12.4000005722046 -5.59999990463257 7.80000019073486 11.6000003814697 -6.40000009536743 9.40000057220459 12.3000001907349 -7.30000019073486 9.30000019073486 12.3000001907349 -7.40000009536743 5.80000019073486 12.6999998092651 -8.5 7.40000009536743 11.5 -8.10000038146973 8.90000057220459 12.6999998092651 -9.19999980926514 7.40000009536743 11.1000003814697 -8.5 7.40000009536743 11.1999998092651 -7.70000028610229 7 11.1000003814697 -7 9.40000057220459 10 -7.80000019073486 7.40000009536743
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:04:13 15:37:23.489
+[GoPro]         GPSHPositioningError            : 2.03
+[GoPro]         GPSLatitude                     : 51.248479 N
+[GoPro]         GPSLongitude                    : 0.782469 W
+[GoPro]         GPSAltitude                     : 156.899 m
+[GoPro]         GPSSpeed                        : 1.679
+[GoPro]         GPSSpeed3D                      : 1.8
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782470 W
+[GoPro]         GPSAltitude                     : 156.827 m
+[GoPro]         GPSSpeed                        : 1.565
+[GoPro]         GPSSpeed3D                      : 1.73
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782471 W
+[GoPro]         GPSAltitude                     : 156.727 m
+[GoPro]         GPSSpeed                        : 1.505
+[GoPro]         GPSSpeed3D                      : 1.63
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782473 W
+[GoPro]         GPSAltitude                     : 156.632 m
+[GoPro]         GPSSpeed                        : 1.675
+[GoPro]         GPSSpeed3D                      : 1.58
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782473 W
+[GoPro]         GPSAltitude                     : 156.523 m
+[GoPro]         GPSSpeed                        : 1.466
+[GoPro]         GPSSpeed3D                      : 1.75
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782474 W
+[GoPro]         GPSAltitude                     : 156.44 m
+[GoPro]         GPSSpeed                        : 1.327
+[GoPro]         GPSSpeed3D                      : 1.55
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782475 W
+[GoPro]         GPSAltitude                     : 156.401 m
+[GoPro]         GPSSpeed                        : 1.424
+[GoPro]         GPSSpeed3D                      : 1.43
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782477 W
+[GoPro]         GPSAltitude                     : 156.365 m
+[GoPro]         GPSSpeed                        : 1.632
+[GoPro]         GPSSpeed3D                      : 1.52
+[GoPro]         GPSLatitude                     : 51.248479 N
+[GoPro]         GPSLongitude                    : 0.782479 W
+[GoPro]         GPSAltitude                     : 156.355 m
+[GoPro]         GPSSpeed                        : 1.811
+[GoPro]         GPSSpeed3D                      : 1.72
+[GoPro]         GPSLatitude                     : 51.248479 N
+[GoPro]         GPSLongitude                    : 0.782481 W
+[GoPro]         GPSAltitude                     : 156.348 m
+[GoPro]         GPSSpeed                        : 1.984
+[GoPro]         GPSSpeed3D                      : 1.88
+[GoPro]         GPSLatitude                     : 51.248478 N
+[GoPro]         GPSLongitude                    : 0.782483 W
+[GoPro]         GPSAltitude                     : 156.364 m
+[GoPro]         GPSSpeed                        : 2.061
+[GoPro]         GPSSpeed3D                      : 2.05
+[GoPro]         GPSLatitude                     : 51.248478 N
+[GoPro]         GPSLongitude                    : 0.782485 W
+[GoPro]         GPSAltitude                     : 156.343 m
+[GoPro]         GPSSpeed                        : 2.077
+[GoPro]         GPSSpeed3D                      : 2.12
+[GoPro]         GPSLatitude                     : 51.248478 N
+[GoPro]         GPSLongitude                    : 0.782487 W
+[GoPro]         GPSAltitude                     : 156.302 m
+[GoPro]         GPSSpeed                        : 2.142
+[GoPro]         GPSSpeed3D                      : 2.13
+[GoPro]         GPSLatitude                     : 51.248479 N
+[GoPro]         GPSLongitude                    : 0.782488 W
+[GoPro]         GPSAltitude                     : 156.172 m
+[GoPro]         GPSSpeed                        : 2.024
+[GoPro]         GPSSpeed3D                      : 2.2
+[GoPro]         GPSLatitude                     : 51.248478 N
+[GoPro]         GPSLongitude                    : 0.782489 W
+[GoPro]         GPSAltitude                     : 156.09 m
+[GoPro]         GPSSpeed                        : 1.85
+[GoPro]         GPSSpeed3D                      : 2.09
+[GoPro]         GPSLatitude                     : 51.248478 N
+[GoPro]         GPSLongitude                    : 0.782490 W
+[GoPro]         GPSAltitude                     : 156.033 m
+[GoPro]         GPSSpeed                        : 1.716
+[GoPro]         GPSSpeed3D                      : 1.93
+[GoPro]         GPSLatitude                     : 51.248478 N
+[GoPro]         GPSLongitude                    : 0.782492 W
+[GoPro]         GPSAltitude                     : 155.979 m
+[GoPro]         GPSSpeed                        : 1.737
+[GoPro]         GPSSpeed3D                      : 1.8
+[GoPro]         GPSLatitude                     : 51.248478 N
+[GoPro]         GPSLongitude                    : 0.782493 W
+[GoPro]         GPSAltitude                     : 155.943 m
+[GoPro]         GPSSpeed                        : 1.736
+[GoPro]         GPSSpeed3D                      : 1.82
+[GoPro]         ImageSensorGain                 : (Binary data 509 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1067.367742
+[GoPro]         ExposureTimes                   : 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517
+[GoPro]         DeviceName                      : Fusion
+[GoPro]         TimeStamp                       : 1068.372783
+[GoPro]         CameraTemperature               : 27.041015625 C
+[GoPro]         Accelerometer                   : (Binary data 9877 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1068.395456
+[GoPro]         CameraTemperature               : 27.041015625 C
+[GoPro]         Gyroscope                       : (Binary data 173326 bytes, use -b option to extract)
+[GoPro]         Magnetometer                    : 10 -7.80000019073486 7.40000009536743 10.8000001907349 -7 7.70000028610229 12.6999998092651 -5.90000009536743 7 11.1999998092651 -7 7 11.1999998092651 -5.90000009536743 7 11.1999998092651 -5.5 8.90000057220459 11.1999998092651 -5.5 8.90000057220459 11.1999998092651 -6.30000019073486 5.80000019073486 11.1000003814697 -6.90000009536743 10.1000003814697 11.1000003814697 -7.30000019073486 8.90000057220459 10.8000001907349 -7.70000028610229 8.19999980926514 10.3000001907349 -6.30000019073486 7 8.80000019073486 -3.90000009536743 10.1999998092651 10.6999998092651 -3.90000009536743 9.40000057220459 11.1000003814697 -5.5 6.70000028610229 11.1000003814697 -6.90000009536743 7.40000009536743 12.1999998092651 -8 9.30000019073486 12.6000003814697 -8 7 12.6000003814697 -8 6.30000019073486 12.6000003814697 -8 6.30000019073486 11.8000001907349 -6.90000009536743 8.30000019073486 13 -8 8.19999980926514 11.1000003814697 -8.80000019073486 6.30000019073486 10.6999998092651 -8.40000057220459 6.70000028610229
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:04:13 15:37:24.479
+[GoPro]         GPSHPositioningError            : 2.21
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782494 W
+[GoPro]         GPSAltitude                     : 155.903 m
+[GoPro]         GPSSpeed                        : 1.589
+[GoPro]         GPSSpeed3D                      : 1.82
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782496 W
+[GoPro]         GPSAltitude                     : 155.899 m
+[GoPro]         GPSSpeed                        : 1.698
+[GoPro]         GPSSpeed3D                      : 1.68
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782498 W
+[GoPro]         GPSAltitude                     : 155.868 m
+[GoPro]         GPSSpeed                        : 1.811
+[GoPro]         GPSSpeed3D                      : 1.78
+[GoPro]         GPSLatitude                     : 51.248481 N
+[GoPro]         GPSLongitude                    : 0.782499 W
+[GoPro]         GPSAltitude                     : 155.843 m
+[GoPro]         GPSSpeed                        : 1.777
+[GoPro]         GPSSpeed3D                      : 1.89
+[GoPro]         GPSLatitude                     : 51.248481 N
+[GoPro]         GPSLongitude                    : 0.782500 W
+[GoPro]         GPSAltitude                     : 155.834 m
+[GoPro]         GPSSpeed                        : 1.65
+[GoPro]         GPSSpeed3D                      : 1.85
+[GoPro]         GPSLatitude                     : 51.248481 N
+[GoPro]         GPSLongitude                    : 0.782502 W
+[GoPro]         GPSAltitude                     : 155.757 m
+[GoPro]         GPSSpeed                        : 1.654
+[GoPro]         GPSSpeed3D                      : 1.73
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782503 W
+[GoPro]         GPSAltitude                     : 155.732 m
+[GoPro]         GPSSpeed                        : 1.714
+[GoPro]         GPSSpeed3D                      : 1.74
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782505 W
+[GoPro]         GPSAltitude                     : 155.768 m
+[GoPro]         GPSSpeed                        : 1.655
+[GoPro]         GPSSpeed3D                      : 1.79
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782506 W
+[GoPro]         GPSAltitude                     : 155.725 m
+[GoPro]         GPSSpeed                        : 1.679
+[GoPro]         GPSSpeed3D                      : 1.73
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782508 W
+[GoPro]         GPSAltitude                     : 155.687 m
+[GoPro]         GPSSpeed                        : 1.612
+[GoPro]         GPSSpeed3D                      : 1.75
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782509 W
+[GoPro]         GPSAltitude                     : 155.652 m
+[GoPro]         GPSSpeed                        : 1.518
+[GoPro]         GPSSpeed3D                      : 1.69
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782509 W
+[GoPro]         GPSAltitude                     : 155.619 m
+[GoPro]         GPSSpeed                        : 1.43
+[GoPro]         GPSSpeed3D                      : 1.6
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782511 W
+[GoPro]         GPSAltitude                     : 155.613 m
+[GoPro]         GPSSpeed                        : 1.409
+[GoPro]         GPSSpeed3D                      : 1.52
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782512 W
+[GoPro]         GPSAltitude                     : 155.591 m
+[GoPro]         GPSSpeed                        : 1.435
+[GoPro]         GPSSpeed3D                      : 1.49
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782513 W
+[GoPro]         GPSAltitude                     : 155.508 m
+[GoPro]         GPSSpeed                        : 1.423
+[GoPro]         GPSSpeed3D                      : 1.52
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782514 W
+[GoPro]         GPSAltitude                     : 155.389 m
+[GoPro]         GPSSpeed                        : 1.396
+[GoPro]         GPSSpeed3D                      : 1.51
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782515 W
+[GoPro]         GPSAltitude                     : 155.401 m
+[GoPro]         GPSSpeed                        : 1.355
+[GoPro]         GPSSpeed3D                      : 1.5
+[GoPro]         GPSLatitude                     : 51.248481 N
+[GoPro]         GPSLongitude                    : 0.782516 W
+[GoPro]         GPSAltitude                     : 155.434 m
+[GoPro]         GPSSpeed                        : 1.308
+[GoPro]         GPSSpeed3D                      : 1.45
+[GoPro]         GPSLatitude                     : 51.248481 N
+[GoPro]         GPSLongitude                    : 0.782518 W
+[GoPro]         GPSAltitude                     : 155.409 m
+[GoPro]         GPSSpeed                        : 1.403
+[GoPro]         GPSSpeed3D                      : 1.4
+[GoPro]         ImageSensorGain                 : (Binary data 509 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1068.368742
+[GoPro]         ExposureTimes                   : 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517
+[GoPro]         DeviceName                      : Fusion
+[GoPro]         TimeStamp                       : 1069.373335
+[GoPro]         CameraTemperature               : 27.048828125 C
+[GoPro]         Accelerometer                   : (Binary data 9752 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1069.37889
+[GoPro]         CameraTemperature               : 27.048828125 C
+[GoPro]         Gyroscope                       : (Binary data 178300 bytes, use -b option to extract)
+[GoPro]         Magnetometer                    : 11.8000001907349 -7.20000028610229 9.40000057220459 13.4000005722046 -7.59999990463257 7.09999990463257 12.1999998092651 -6.59999990463257 7.90000009536743 11.4000005722046 -6.59999990463257 8.30000019073486 10.6000003814697 -6.90000009536743 9.80000019073486 10.3000001907349 -6.90000009536743 7.09999990463257 11.1000003814697 -5.80000019073486 7.09999990463257 10.3000001907349 -6.20000028610229 9 10.3000001907349 -6.20000028610229 9 10.3000001907349 -6.20000028610229 9 9.90000057220459 -6.20000028610229 7.09999990463257 9.5 -6.59999990463257 9.5 9.10000038146973 -5.80000019073486 8.30000019073486 9.19999980926514 -4.70000028610229 6.80000019073486 11.1000003814697 -2.79999995231628 6.80000019073486 10.6999998092651 -2.5 8.69999980926514 12.3000001907349 -3.60000014305115 7.09999990463257 12.1000003814697 -4.59999990463257 8.30000019073486 13.6999998092651 -5 6.59999990463257 12.9000005722046 -4.90000009536743 9.40000057220459 14.8000001907349 -5.30000019073486 6.59999990463257 14.8000001907349 -5.30000019073486 6.59999990463257 13.3000001907349 -4.90000009536743 7 13.1999998092651 -5.59999990463257 8.19999980926514
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:04:13 15:37:25.524
+[GoPro]         GPSHPositioningError            : 2.21
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782519 W
+[GoPro]         GPSAltitude                     : 155.488 m
+[GoPro]         GPSSpeed                        : 1.439
+[GoPro]         GPSSpeed3D                      : 1.49
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782520 W
+[GoPro]         GPSAltitude                     : 155.458 m
+[GoPro]         GPSSpeed                        : 1.413
+[GoPro]         GPSSpeed3D                      : 1.51
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782521 W
+[GoPro]         GPSAltitude                     : 155.397 m
+[GoPro]         GPSSpeed                        : 1.345
+[GoPro]         GPSSpeed3D                      : 1.49
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782522 W
+[GoPro]         GPSAltitude                     : 155.344 m
+[GoPro]         GPSSpeed                        : 1.305
+[GoPro]         GPSSpeed3D                      : 1.43
+[GoPro]         GPSLatitude                     : 51.248479 N
+[GoPro]         GPSLongitude                    : 0.782523 W
+[GoPro]         GPSAltitude                     : 155.298 m
+[GoPro]         GPSSpeed                        : 1.221
+[GoPro]         GPSSpeed3D                      : 1.39
+[GoPro]         GPSLatitude                     : 51.248479 N
+[GoPro]         GPSLongitude                    : 0.782524 W
+[GoPro]         GPSAltitude                     : 155.271 m
+[GoPro]         GPSSpeed                        : 1.222
+[GoPro]         GPSSpeed3D                      : 1.32
+[GoPro]         GPSLatitude                     : 51.248479 N
+[GoPro]         GPSLongitude                    : 0.782525 W
+[GoPro]         GPSAltitude                     : 155.217 m
+[GoPro]         GPSSpeed                        : 1.266
+[GoPro]         GPSSpeed3D                      : 1.32
+[GoPro]         GPSLatitude                     : 51.248479 N
+[GoPro]         GPSLongitude                    : 0.782526 W
+[GoPro]         GPSAltitude                     : 155.147 m
+[GoPro]         GPSSpeed                        : 1.233
+[GoPro]         GPSSpeed3D                      : 1.36
+[GoPro]         GPSLatitude                     : 51.248478 N
+[GoPro]         GPSLongitude                    : 0.782527 W
+[GoPro]         GPSAltitude                     : 155.128 m
+[GoPro]         GPSSpeed                        : 1.218
+[GoPro]         GPSSpeed3D                      : 1.34
+[GoPro]         GPSLatitude                     : 51.248478 N
+[GoPro]         GPSLongitude                    : 0.782527 W
+[GoPro]         GPSAltitude                     : 155.128 m
+[GoPro]         GPSSpeed                        : 1.116
+[GoPro]         GPSSpeed3D                      : 1.32
+[GoPro]         GPSLatitude                     : 51.248478 N
+[GoPro]         GPSLongitude                    : 0.782527 W
+[GoPro]         GPSAltitude                     : 155.089 m
+[GoPro]         GPSSpeed                        : 1.048
+[GoPro]         GPSSpeed3D                      : 1.23
+[GoPro]         GPSLatitude                     : 51.248478 N
+[GoPro]         GPSLongitude                    : 0.782528 W
+[GoPro]         GPSAltitude                     : 155.08 m
+[GoPro]         GPSSpeed                        : 0.943
+[GoPro]         GPSSpeed3D                      : 1.17
+[GoPro]         GPSLatitude                     : 51.248478 N
+[GoPro]         GPSLongitude                    : 0.782528 W
+[GoPro]         GPSAltitude                     : 155.102 m
+[GoPro]         GPSSpeed                        : 0.851
+[GoPro]         GPSSpeed3D                      : 1.07
+[GoPro]         GPSLatitude                     : 51.248478 N
+[GoPro]         GPSLongitude                    : 0.782529 W
+[GoPro]         GPSAltitude                     : 155.097 m
+[GoPro]         GPSSpeed                        : 0.91
+[GoPro]         GPSSpeed3D                      : 0.99
+[GoPro]         GPSLatitude                     : 51.248479 N
+[GoPro]         GPSLongitude                    : 0.782531 W
+[GoPro]         GPSAltitude                     : 155.054 m
+[GoPro]         GPSSpeed                        : 1.011
+[GoPro]         GPSSpeed3D                      : 1.03
+[GoPro]         GPSLatitude                     : 51.248479 N
+[GoPro]         GPSLongitude                    : 0.782532 W
+[GoPro]         GPSAltitude                     : 155.017 m
+[GoPro]         GPSSpeed                        : 0.989
+[GoPro]         GPSSpeed3D                      : 1.13
+[GoPro]         GPSLatitude                     : 51.248479 N
+[GoPro]         GPSLongitude                    : 0.782532 W
+[GoPro]         GPSAltitude                     : 154.976 m
+[GoPro]         GPSSpeed                        : 1.01
+[GoPro]         GPSSpeed3D                      : 1.11
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782535 W
+[GoPro]         GPSAltitude                     : 154.895 m
+[GoPro]         GPSSpeed                        : 1.194
+[GoPro]         GPSSpeed3D                      : 1.13
+[GoPro]         ImageSensorGain                 : (Binary data 509 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1069.369744
+[GoPro]         ExposureTimes                   : 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/517 1/519 1/519 1/519 1/522 1/522 1/522 1/525 1/525 1/525
+[GoPro]         DeviceName                      : Fusion
+[GoPro]         TimeStamp                       : 1070.375785
+[GoPro]         CameraTemperature               : 26.978515625 C
+[GoPro]         Accelerometer                   : (Binary data 9891 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1070.394047
+[GoPro]         CameraTemperature               : 26.978515625 C
+[GoPro]         Gyroscope                       : (Binary data 173106 bytes, use -b option to extract)
+[GoPro]         Magnetometer                    : 12 -7.80000019073486 6.30000019073486 11.3000001907349 -7.09999990463257 6.59999990463257 10.8000001907349 -6.70000028610229 8.90000057220459 11.6000003814697 -7.5 6.20000028610229 13.1999998092651 -7.80000019073486 6.20000028610229 12 -7 8.5 11.1999998092651 -7 9.30000019073486 10.1000003814697 -7.80000019073486 8.19999980926514 10.1000003814697 -7.80000019073486 7.40000009536743 8.90000057220459 -8.5 9.30000019073486 9.69999980926514 -8.60000038146973 8.19999980926514 8.80000019073486 -8.5 7.30000019073486 7.20000028610229 -10 7.70000028610229 6.5 -9.10000038146973 9.90000057220459 8 -7.59999990463257 8.40000057220459 7.30000019073486 -6.5 7.59999990463257 8.40000057220459 -6.20000028610229 8 9.60000038146973 -6.5 9.10000038146973 10.4000005722046 -7.20000028610229 7.20000028610229 10.4000005722046 -7.20000028610229 7.20000028610229 10.4000005722046 -7.59999990463257 6.80000019073486 10.6999998092651 -7.20000028610229 8.30000019073486 11.4000005722046 -6.40000009536743 6 11.8000001907349 -5.70000028610229 6
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:04:13 15:37:26.514
+[GoPro]         GPSHPositioningError            : 2.21
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782536 W
+[GoPro]         GPSAltitude                     : 154.846 m
+[GoPro]         GPSSpeed                        : 1.33
+[GoPro]         GPSSpeed3D                      : 1.3
+[GoPro]         GPSLatitude                     : 51.248481 N
+[GoPro]         GPSLongitude                    : 0.782538 W
+[GoPro]         GPSAltitude                     : 154.913 m
+[GoPro]         GPSSpeed                        : 1.419
+[GoPro]         GPSSpeed3D                      : 1.43
+[GoPro]         GPSLatitude                     : 51.248482 N
+[GoPro]         GPSLongitude                    : 0.782540 W
+[GoPro]         GPSAltitude                     : 154.974 m
+[GoPro]         GPSSpeed                        : 1.553
+[GoPro]         GPSSpeed3D                      : 1.51
+[GoPro]         GPSLatitude                     : 51.248482 N
+[GoPro]         GPSLongitude                    : 0.782543 W
+[GoPro]         GPSAltitude                     : 155.022 m
+[GoPro]         GPSSpeed                        : 1.658
+[GoPro]         GPSSpeed3D                      : 1.63
+[GoPro]         GPSLatitude                     : 51.248483 N
+[GoPro]         GPSLongitude                    : 0.782543 W
+[GoPro]         GPSAltitude                     : 154.948 m
+[GoPro]         GPSSpeed                        : 1.484
+[GoPro]         GPSSpeed3D                      : 1.72
+[GoPro]         GPSLatitude                     : 51.248483 N
+[GoPro]         GPSLongitude                    : 0.782542 W
+[GoPro]         GPSAltitude                     : 154.889 m
+[GoPro]         GPSSpeed                        : 1.27
+[GoPro]         GPSSpeed3D                      : 1.56
+[GoPro]         GPSLatitude                     : 51.248482 N
+[GoPro]         GPSLongitude                    : 0.782543 W
+[GoPro]         GPSAltitude                     : 154.849 m
+[GoPro]         GPSSpeed                        : 1.266
+[GoPro]         GPSSpeed3D                      : 1.36
+[GoPro]         GPSLatitude                     : 51.248481 N
+[GoPro]         GPSLongitude                    : 0.782548 W
+[GoPro]         GPSAltitude                     : 154.63 m
+[GoPro]         GPSSpeed                        : 1.865
+[GoPro]         GPSSpeed3D                      : 1.36
+[GoPro]         GPSLatitude                     : 51.248479 N
+[GoPro]         GPSLongitude                    : 0.782549 W
+[GoPro]         GPSAltitude                     : 154.508 m
+[GoPro]         GPSSpeed                        : 1.87
+[GoPro]         GPSSpeed3D                      : 1.94
+[GoPro]         GPSLatitude                     : 51.248479 N
+[GoPro]         GPSLongitude                    : 0.782550 W
+[GoPro]         GPSAltitude                     : 154.537 m
+[GoPro]         GPSSpeed                        : 1.782
+[GoPro]         GPSSpeed3D                      : 1.96
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782552 W
+[GoPro]         GPSAltitude                     : 154.528 m
+[GoPro]         GPSSpeed                        : 1.833
+[GoPro]         GPSSpeed3D                      : 1.87
+[GoPro]         GPSLatitude                     : 51.248481 N
+[GoPro]         GPSLongitude                    : 0.782554 W
+[GoPro]         GPSAltitude                     : 154.626 m
+[GoPro]         GPSSpeed                        : 1.738
+[GoPro]         GPSSpeed3D                      : 1.91
+[GoPro]         GPSLatitude                     : 51.248482 N
+[GoPro]         GPSLongitude                    : 0.782555 W
+[GoPro]         GPSAltitude                     : 154.759 m
+[GoPro]         GPSSpeed                        : 1.64
+[GoPro]         GPSSpeed3D                      : 1.81
+[GoPro]         GPSLatitude                     : 51.248483 N
+[GoPro]         GPSLongitude                    : 0.782556 W
+[GoPro]         GPSAltitude                     : 154.727 m
+[GoPro]         GPSSpeed                        : 1.636
+[GoPro]         GPSSpeed3D                      : 1.7
+[GoPro]         GPSLatitude                     : 51.248482 N
+[GoPro]         GPSLongitude                    : 0.782557 W
+[GoPro]         GPSAltitude                     : 154.764 m
+[GoPro]         GPSSpeed                        : 1.476
+[GoPro]         GPSSpeed3D                      : 1.7
+[GoPro]         GPSLatitude                     : 51.248482 N
+[GoPro]         GPSLongitude                    : 0.782559 W
+[GoPro]         GPSAltitude                     : 154.572 m
+[GoPro]         GPSSpeed                        : 1.652
+[GoPro]         GPSSpeed3D                      : 1.54
+[GoPro]         GPSLatitude                     : 51.248482 N
+[GoPro]         GPSLongitude                    : 0.782560 W
+[GoPro]         GPSAltitude                     : 154.564 m
+[GoPro]         GPSSpeed                        : 1.444
+[GoPro]         GPSSpeed3D                      : 1.73
+[GoPro]         GPSLatitude                     : 51.248483 N
+[GoPro]         GPSLongitude                    : 0.782560 W
+[GoPro]         GPSAltitude                     : 154.303 m
+[GoPro]         GPSSpeed                        : 1.28
+[GoPro]         GPSSpeed3D                      : 1.53
+[GoPro]         ImageSensorGain                 : (Binary data 509 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1070.370743
+[GoPro]         ExposureTimes                   : 1/528 1/528 1/528 1/531 1/531 1/531 1/534 1/534 1/534 1/537 1/537 1/537 1/540 1/540 1/540 1/544 1/544 1/544 1/544 1/544 1/544 1/547 1/547 1/547 1/550 1/550 1/550 1/553 1/553 1/553
+[GoPro]         DeviceName                      : Fusion
+[GoPro]         TimeStamp                       : 1071.37709
+[GoPro]         CameraTemperature               : 27.033203125 C
+[GoPro]         Accelerometer                   : (Binary data 9792 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1071.377481
+[GoPro]         CameraTemperature               : 27.033203125 C
+[GoPro]         Gyroscope                       : (Binary data 178231 bytes, use -b option to extract)
+[GoPro]         Magnetometer                    : 10.6000003814697 -5.70000028610229 9.19999980926514 9.90000057220459 -5.70000028610229 9.10000038146973 11.1000003814697 -5 6.80000019073486 9.80000019073486 -5.40000009536743 6.5 10.5 -6 9.10000038146973 10.6000003814697 -5.30000019073486 8.40000057220459 11 -5 7.20000028610229 11 -5 7.20000028610229 10.6000003814697 -4.20000028610229 8.80000019073486 9.80000019073486 -5 8 10.1999998092651 -5.70000028610229 7.59999990463257 10.1999998092651 -5.70000028610229 7.59999990463257 9 -7.20000028610229 6.40000009536743 9.40000057220459 -6.09999990463257 7.20000028610229 7.5 -4.90000009536743 7.20000028610229 7.09999990463257 -3.70000004768372 9.19999980926514 8.30000019073486 -4.09999990463257 7.70000028610229 8.30000019073486 -5.30000019073486 6.80000019073486 9 -6.70000028610229 8.69999980926514 9.40000057220459 -6.70000028610229 8.69999980926514 11.3000001907349 -6.70000028610229 6.80000019073486 12.5 -7.40000009536743 6.80000019073486 11 -4.40000009536743 8.80000019073486 11.6999998092651 -5.09999990463257 9.30000019073486
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:04:13 15:37:27.504
+[GoPro]         GPSHPositioningError            : 2.21
+[GoPro]         GPSLatitude                     : 51.248484 N
+[GoPro]         GPSLongitude                    : 0.782561 W
+[GoPro]         GPSAltitude                     : 154.148 m
+[GoPro]         GPSSpeed                        : 1.397
+[GoPro]         GPSSpeed3D                      : 1.4
+[GoPro]         GPSLatitude                     : 51.248485 N
+[GoPro]         GPSLongitude                    : 0.782563 W
+[GoPro]         GPSAltitude                     : 154.12 m
+[GoPro]         GPSSpeed                        : 1.535
+[GoPro]         GPSSpeed3D                      : 1.52
+[GoPro]         GPSLatitude                     : 51.248486 N
+[GoPro]         GPSLongitude                    : 0.782564 W
+[GoPro]         GPSAltitude                     : 154.078 m
+[GoPro]         GPSSpeed                        : 1.683
+[GoPro]         GPSSpeed3D                      : 1.64
+[GoPro]         GPSLatitude                     : 51.248486 N
+[GoPro]         GPSLongitude                    : 0.782566 W
+[GoPro]         GPSAltitude                     : 154.071 m
+[GoPro]         GPSSpeed                        : 1.724
+[GoPro]         GPSSpeed3D                      : 1.79
+[GoPro]         GPSLatitude                     : 51.248486 N
+[GoPro]         GPSLongitude                    : 0.782567 W
+[GoPro]         GPSAltitude                     : 154.016 m
+[GoPro]         GPSSpeed                        : 1.586
+[GoPro]         GPSSpeed3D                      : 1.82
+[GoPro]         GPSLatitude                     : 51.248486 N
+[GoPro]         GPSLongitude                    : 0.782568 W
+[GoPro]         GPSAltitude                     : 154.092 m
+[GoPro]         GPSSpeed                        : 1.513
+[GoPro]         GPSSpeed3D                      : 1.69
+[GoPro]         GPSLatitude                     : 51.248486 N
+[GoPro]         GPSLongitude                    : 0.782569 W
+[GoPro]         GPSAltitude                     : 154.08 m
+[GoPro]         GPSSpeed                        : 1.468
+[GoPro]         GPSSpeed3D                      : 1.61
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782571 W
+[GoPro]         GPSAltitude                     : 153.854 m
+[GoPro]         GPSSpeed                        : 1.684
+[GoPro]         GPSSpeed3D                      : 1.57
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782571 W
+[GoPro]         GPSAltitude                     : 153.639 m
+[GoPro]         GPSSpeed                        : 1.57
+[GoPro]         GPSSpeed3D                      : 1.79
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782573 W
+[GoPro]         GPSAltitude                     : 153.482 m
+[GoPro]         GPSSpeed                        : 1.64
+[GoPro]         GPSSpeed3D                      : 1.7
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782574 W
+[GoPro]         GPSAltitude                     : 153.457 m
+[GoPro]         GPSSpeed                        : 1.719
+[GoPro]         GPSSpeed3D                      : 1.78
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782576 W
+[GoPro]         GPSAltitude                     : 153.524 m
+[GoPro]         GPSSpeed                        : 1.746
+[GoPro]         GPSSpeed3D                      : 1.85
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782578 W
+[GoPro]         GPSAltitude                     : 153.548 m
+[GoPro]         GPSSpeed                        : 1.69
+[GoPro]         GPSSpeed3D                      : 1.87
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782580 W
+[GoPro]         GPSAltitude                     : 153.532 m
+[GoPro]         GPSSpeed                        : 1.86
+[GoPro]         GPSSpeed3D                      : 1.81
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782582 W
+[GoPro]         GPSAltitude                     : 153.587 m
+[GoPro]         GPSSpeed                        : 1.924
+[GoPro]         GPSSpeed3D                      : 1.97
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782583 W
+[GoPro]         GPSAltitude                     : 153.662 m
+[GoPro]         GPSSpeed                        : 1.912
+[GoPro]         GPSSpeed3D                      : 2.02
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782585 W
+[GoPro]         GPSAltitude                     : 153.734 m
+[GoPro]         GPSSpeed                        : 1.917
+[GoPro]         GPSSpeed3D                      : 2
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782587 W
+[GoPro]         GPSAltitude                     : 153.679 m
+[GoPro]         GPSSpeed                        : 1.924
+[GoPro]         GPSSpeed3D                      : 1.99
+[GoPro]         ImageSensorGain                 : (Binary data 509 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1071.371745
+[GoPro]         ExposureTimes                   : 1/557 1/557 1/557 1/560 1/560 1/560 1/563 1/563 1/563 1/567 1/567 1/567 1/570 1/570 1/570 1/574 1/574 1/574 1/574 1/574 1/574 1/574 1/574 1/574 1/574 1/577 1/577 1/577 1/577 1/577
+[GoPro]         DeviceName                      : Fusion
+[GoPro]         TimeStamp                       : 1072.374704
+[GoPro]         CameraTemperature               : 27.04296875 C
+[GoPro]         Accelerometer                   : (Binary data 9802 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1072.39264
+[GoPro]         CameraTemperature               : 27.04296875 C
+[GoPro]         Gyroscope                       : (Binary data 173369 bytes, use -b option to extract)
+[GoPro]         Magnetometer                    : 11.6999998092651 -5.09999990463257 9.30000019073486 10.9000005722046 -4.40000009536743 7.30000019073486 11.6000003814697 -5.09999990463257 9.30000019073486 10.9000005722046 -4.70000028610229 6.80000019073486 10.9000005722046 -4.70000028610229 6.80000019073486 9.30000019073486 -5.09999990463257 6.5 9.69999980926514 -3.60000014305115 8 10.5 -2.90000009536743 8 10.5 -2.90000009536743 8 9.40000057220459 -2.5 7.30000019073486 9.30000019073486 -2.90000009536743 10.1000003814697 10.1000003814697 -5.5 7.30000019073486 9.30000019073486 -6.20000028610229 6.90000009536743 9.30000019073486 -6.20000028610229 6.90000009536743 7.30000019073486 -6.90000009536743 9.60000038146973 8.40000057220459 -4.70000028610229 8 8.5 -4 6.09999990463257 8.10000038146973 -3.5 8.90000057220459 8.40000057220459 -5 8.5 9.60000038146973 -6.80000019073486 7.5 10.6999998092651 -7.20000028610229 7.09999990463257 9.5 -7.59999990463257 9.10000038146973 10.6000003814697 -7.40000009536743 9.10000038146973 10.1999998092651 -6.30000019073486 8.40000057220459
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:04:13 15:37:28.494
+[GoPro]         GPSHPositioningError            : 2.03
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782589 W
+[GoPro]         GPSAltitude                     : 153.634 m
+[GoPro]         GPSSpeed                        : 1.944
+[GoPro]         GPSSpeed3D                      : 2
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782590 W
+[GoPro]         GPSAltitude                     : 153.559 m
+[GoPro]         GPSSpeed                        : 1.859
+[GoPro]         GPSSpeed3D                      : 2.02
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782591 W
+[GoPro]         GPSAltitude                     : 153.538 m
+[GoPro]         GPSSpeed                        : 1.852
+[GoPro]         GPSSpeed3D                      : 1.95
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782593 W
+[GoPro]         GPSAltitude                     : 153.516 m
+[GoPro]         GPSSpeed                        : 1.863
+[GoPro]         GPSSpeed3D                      : 1.94
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782595 W
+[GoPro]         GPSAltitude                     : 153.53 m
+[GoPro]         GPSSpeed                        : 1.915
+[GoPro]         GPSSpeed3D                      : 1.95
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782597 W
+[GoPro]         GPSAltitude                     : 153.445 m
+[GoPro]         GPSSpeed                        : 1.984
+[GoPro]         GPSSpeed3D                      : 1.99
+[GoPro]         GPSLatitude                     : 51.248490 N
+[GoPro]         GPSLongitude                    : 0.782599 W
+[GoPro]         GPSAltitude                     : 153.396 m
+[GoPro]         GPSSpeed                        : 2.252
+[GoPro]         GPSSpeed3D                      : 2.06
+[GoPro]         GPSLatitude                     : 51.248490 N
+[GoPro]         GPSLongitude                    : 0.782602 W
+[GoPro]         GPSAltitude                     : 153.286 m
+[GoPro]         GPSSpeed                        : 2.374
+[GoPro]         GPSSpeed3D                      : 2.33
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782603 W
+[GoPro]         GPSAltitude                     : 153.219 m
+[GoPro]         GPSSpeed                        : 2.296
+[GoPro]         GPSSpeed3D                      : 2.45
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782604 W
+[GoPro]         GPSAltitude                     : 153.19 m
+[GoPro]         GPSSpeed                        : 2.01
+[GoPro]         GPSSpeed3D                      : 2.38
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782606 W
+[GoPro]         GPSAltitude                     : 153.265 m
+[GoPro]         GPSSpeed                        : 2.088
+[GoPro]         GPSSpeed3D                      : 2.1
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782608 W
+[GoPro]         GPSAltitude                     : 153.293 m
+[GoPro]         GPSSpeed                        : 2.048
+[GoPro]         GPSSpeed3D                      : 2.17
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782610 W
+[GoPro]         GPSAltitude                     : 153.315 m
+[GoPro]         GPSSpeed                        : 2.092
+[GoPro]         GPSSpeed3D                      : 2.13
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782611 W
+[GoPro]         GPSAltitude                     : 153.378 m
+[GoPro]         GPSSpeed                        : 1.965
+[GoPro]         GPSSpeed3D                      : 2.16
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782613 W
+[GoPro]         GPSAltitude                     : 153.384 m
+[GoPro]         GPSSpeed                        : 1.873
+[GoPro]         GPSSpeed3D                      : 2.04
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782614 W
+[GoPro]         GPSAltitude                     : 153.381 m
+[GoPro]         GPSSpeed                        : 1.831
+[GoPro]         GPSSpeed3D                      : 1.95
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782615 W
+[GoPro]         GPSAltitude                     : 153.394 m
+[GoPro]         GPSSpeed                        : 1.728
+[GoPro]         GPSSpeed3D                      : 1.9
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782616 W
+[GoPro]         GPSAltitude                     : 153.497 m
+[GoPro]         GPSSpeed                        : 1.596
+[GoPro]         GPSSpeed3D                      : 1.8
+[GoPro]         ImageSensorGain                 : (Binary data 509 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1072.372747
+[GoPro]         ExposureTimes                   : 1/577 1/581 1/581 1/581 1/584 1/584 1/584 1/588 1/588 1/588 1/592 1/592 1/592 1/596 1/596 1/596 1/599 1/599 1/599 1/603 1/603 1/603 1/607 1/607 1/607 1/607 1/607 1/607 1/611 1/611
+[GoPro]         DeviceName                      : Fusion
+[GoPro]         TimeStamp                       : 1073.376068
+[GoPro]         CameraTemperature               : 27.03125 C
+[GoPro]         Accelerometer                   : (Binary data 9827 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1073.376077
+[GoPro]         CameraTemperature               : 27.03125 C
+[GoPro]         Gyroscope                       : (Binary data 178623 bytes, use -b option to extract)
+[GoPro]         Magnetometer                    : 9.5 -7.09999990463257 7.30000019073486 9.10000038146973 -6.70000028610229 9.19999980926514 10.1999998092651 -7.5 6.90000009536743 9.10000038146973 -7.90000009536743 8.10000038146973 10.6000003814697 -6.70000028610229 8.80000019073486 10.6000003814697 -6.40000009536743 6.90000009536743 11.4000005722046 -6.40000009536743 6.5 9.90000057220459 -6.70000028610229 8.10000038146973 9.10000038146973 -5.70000028610229 9.60000038146973 9.90000057220459 -6.40000009536743 6.20000028610229 9.90000057220459 -6 6.90000009536743 7.59999990463257 -6.40000009536743 7.70000028610229 8.60000038146973 -7 9.60000038146973 9 -7.80000019073486 6.5 8.60000038146973 -8.90000057220459 7.90000009536743 7 -9.19999980926514 10.1999998092651 8.10000038146973 -7.70000028610229 8.80000019073486 8.40000057220459 -5.80000019073486 7.30000019073486 7.20000028610229 -7.20000028610229 8 6.09999990463257 -8.30000019073486 8.90000057220459 7.90000009536743 -9.30000019073486 9 7.5 -10.1000003814697 7.20000028610229 8.69999980926514 -9.69999980926514 7.20000028610229 8.30000019073486 -8.19999980926514 9.60000038146973
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:04:13 15:37:29.484
+[GoPro]         GPSHPositioningError            : 2.03
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782617 W
+[GoPro]         GPSAltitude                     : 153.422 m
+[GoPro]         GPSSpeed                        : 1.482
+[GoPro]         GPSSpeed3D                      : 1.66
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782618 W
+[GoPro]         GPSAltitude                     : 153.351 m
+[GoPro]         GPSSpeed                        : 1.407
+[GoPro]         GPSSpeed3D                      : 1.56
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782619 W
+[GoPro]         GPSAltitude                     : 153.344 m
+[GoPro]         GPSSpeed                        : 1.465
+[GoPro]         GPSSpeed3D                      : 1.49
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782621 W
+[GoPro]         GPSAltitude                     : 153.597 m
+[GoPro]         GPSSpeed                        : 1.521
+[GoPro]         GPSSpeed3D                      : 1.55
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782623 W
+[GoPro]         GPSAltitude                     : 153.638 m
+[GoPro]         GPSSpeed                        : 1.564
+[GoPro]         GPSSpeed3D                      : 1.58
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782625 W
+[GoPro]         GPSAltitude                     : 153.532 m
+[GoPro]         GPSSpeed                        : 1.719
+[GoPro]         GPSSpeed3D                      : 1.62
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782628 W
+[GoPro]         GPSAltitude                     : 153.606 m
+[GoPro]         GPSSpeed                        : 1.865
+[GoPro]         GPSSpeed3D                      : 1.77
+[GoPro]         GPSLatitude                     : 51.248486 N
+[GoPro]         GPSLongitude                    : 0.782631 W
+[GoPro]         GPSAltitude                     : 153.686 m
+[GoPro]         GPSSpeed                        : 1.899
+[GoPro]         GPSSpeed3D                      : 1.99
+[GoPro]         GPSLatitude                     : 51.248486 N
+[GoPro]         GPSLongitude                    : 0.782634 W
+[GoPro]         GPSAltitude                     : 153.75 m
+[GoPro]         GPSSpeed                        : 2.038
+[GoPro]         GPSSpeed3D                      : 1.93
+[GoPro]         GPSLatitude                     : 51.248486 N
+[GoPro]         GPSLongitude                    : 0.782636 W
+[GoPro]         GPSAltitude                     : 153.741 m
+[GoPro]         GPSSpeed                        : 2.095
+[GoPro]         GPSSpeed3D                      : 2.07
+[GoPro]         GPSLatitude                     : 51.248485 N
+[GoPro]         GPSLongitude                    : 0.782638 W
+[GoPro]         GPSAltitude                     : 153.745 m
+[GoPro]         GPSSpeed                        : 2.14
+[GoPro]         GPSSpeed3D                      : 2.12
+[GoPro]         GPSLatitude                     : 51.248485 N
+[GoPro]         GPSLongitude                    : 0.782640 W
+[GoPro]         GPSAltitude                     : 153.805 m
+[GoPro]         GPSSpeed                        : 2.162
+[GoPro]         GPSSpeed3D                      : 2.17
+[GoPro]         GPSLatitude                     : 51.248484 N
+[GoPro]         GPSLongitude                    : 0.782641 W
+[GoPro]         GPSAltitude                     : 153.824 m
+[GoPro]         GPSSpeed                        : 2.111
+[GoPro]         GPSSpeed3D                      : 2.19
+[GoPro]         GPSLatitude                     : 51.248485 N
+[GoPro]         GPSLongitude                    : 0.782643 W
+[GoPro]         GPSAltitude                     : 153.821 m
+[GoPro]         GPSSpeed                        : 2.064
+[GoPro]         GPSSpeed3D                      : 2.13
+[GoPro]         GPSLatitude                     : 51.248485 N
+[GoPro]         GPSLongitude                    : 0.782644 W
+[GoPro]         GPSAltitude                     : 153.79 m
+[GoPro]         GPSSpeed                        : 1.994
+[GoPro]         GPSSpeed3D                      : 2.09
+[GoPro]         GPSLatitude                     : 51.248486 N
+[GoPro]         GPSLongitude                    : 0.782646 W
+[GoPro]         GPSAltitude                     : 153.808 m
+[GoPro]         GPSSpeed                        : 1.989
+[GoPro]         GPSSpeed3D                      : 2.02
+[GoPro]         GPSLatitude                     : 51.248486 N
+[GoPro]         GPSLongitude                    : 0.782647 W
+[GoPro]         GPSAltitude                     : 153.891 m
+[GoPro]         GPSSpeed                        : 1.909
+[GoPro]         GPSSpeed3D                      : 2.01
+[GoPro]         ImageSensorGain                 : (Binary data 509 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1073.373743
+[GoPro]         ExposureTimes                   : 1/611 1/615 1/615 1/615 1/619 1/619 1/619 1/623 1/623 1/623 1/628 1/628 1/628 1/628 1/628 1/628 1/632 1/632 1/632 1/636 1/636 1/636 1/640 1/640 1/640 1/645 1/645 1/645 1/645 1/645
+[GoPro]         DeviceName                      : Fusion
+[GoPro]         TimeStamp                       : 1074.377037
+[GoPro]         CameraTemperature               : 27.072265625 C
+[GoPro]         Accelerometer                   : (Binary data 9858 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1074.391266
+[GoPro]         CameraTemperature               : 27.072265625 C
+[GoPro]         Gyroscope                       : (Binary data 172771 bytes, use -b option to extract)
+[GoPro]         Magnetometer                    : 9.10000038146973 -7.80000019073486 7.59999990463257 10.6000003814697 -7.5 6 8.69999980926514 -7.40000009536743 7.30000019073486 9.40000057220459 -7.30000019073486 9.19999980926514 8.19999980926514 -7.40000009536743 6.90000009536743 9 -7.40000009536743 8 8.60000038146973 -5.90000009536743 8.5 11.3000001907349 -5.20000028610229 6.5 10.9000005722046 -5.40000009536743 6.80000019073486 9 -3.90000009536743 9.10000038146973 8.90000057220459 -3.90000009536743 9.10000038146973 10.1000003814697 -4.30000019073486 7.59999990463257 10.4000005722046 -4.70000028610229 8 10 -6.5 8.69999980926514 10 -6.80000019073486 9.5 9.19999980926514 -7.59999990463257 7.5 9.19999980926514 -7.59999990463257 7.5 6.90000009536743 -5.40000009536743 9.60000038146973 8.90000057220459 -3.60000014305115 7.59999990463257 9.30000019073486 -2.5 7.20000028610229 9.30000019073486 -2.5 7.20000028610229 8.5 -4.30000019073486 9.60000038146973 9.30000019073486 -5.09999990463257 6.80000019073486 11.1999998092651 -6.09999990463257 7.90000009536743
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:04:13 15:37:30.474
+[GoPro]         GPSHPositioningError            : 2.03
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782649 W
+[GoPro]         GPSAltitude                     : 153.963 m
+[GoPro]         GPSSpeed                        : 1.85
+[GoPro]         GPSSpeed3D                      : 1.93
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782650 W
+[GoPro]         GPSAltitude                     : 153.991 m
+[GoPro]         GPSSpeed                        : 1.838
+[GoPro]         GPSSpeed3D                      : 1.87
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782652 W
+[GoPro]         GPSAltitude                     : 153.978 m
+[GoPro]         GPSSpeed                        : 1.858
+[GoPro]         GPSSpeed3D                      : 1.85
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782653 W
+[GoPro]         GPSAltitude                     : 153.811 m
+[GoPro]         GPSSpeed                        : 1.934
+[GoPro]         GPSSpeed3D                      : 1.87
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782654 W
+[GoPro]         GPSAltitude                     : 153.761 m
+[GoPro]         GPSSpeed                        : 1.858
+[GoPro]         GPSSpeed3D                      : 1.96
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782655 W
+[GoPro]         GPSAltitude                     : 153.705 m
+[GoPro]         GPSSpeed                        : 1.802
+[GoPro]         GPSSpeed3D                      : 1.88
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782656 W
+[GoPro]         GPSAltitude                     : 153.697 m
+[GoPro]         GPSSpeed                        : 1.723
+[GoPro]         GPSSpeed3D                      : 1.83
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782657 W
+[GoPro]         GPSAltitude                     : 153.674 m
+[GoPro]         GPSSpeed                        : 1.658
+[GoPro]         GPSSpeed3D                      : 1.75
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782658 W
+[GoPro]         GPSAltitude                     : 153.695 m
+[GoPro]         GPSSpeed                        : 1.631
+[GoPro]         GPSSpeed3D                      : 1.69
+[GoPro]         GPSLatitude                     : 51.248490 N
+[GoPro]         GPSLongitude                    : 0.782659 W
+[GoPro]         GPSAltitude                     : 153.699 m
+[GoPro]         GPSSpeed                        : 1.604
+[GoPro]         GPSSpeed3D                      : 1.66
+[GoPro]         GPSLatitude                     : 51.248490 N
+[GoPro]         GPSLongitude                    : 0.782661 W
+[GoPro]         GPSAltitude                     : 153.692 m
+[GoPro]         GPSSpeed                        : 1.624
+[GoPro]         GPSSpeed3D                      : 1.63
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782662 W
+[GoPro]         GPSAltitude                     : 153.655 m
+[GoPro]         GPSSpeed                        : 1.658
+[GoPro]         GPSSpeed3D                      : 1.65
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782664 W
+[GoPro]         GPSAltitude                     : 153.648 m
+[GoPro]         GPSSpeed                        : 1.7
+[GoPro]         GPSSpeed3D                      : 1.68
+[GoPro]         GPSLatitude                     : 51.248490 N
+[GoPro]         GPSLongitude                    : 0.782666 W
+[GoPro]         GPSAltitude                     : 153.644 m
+[GoPro]         GPSSpeed                        : 1.756
+[GoPro]         GPSSpeed3D                      : 1.72
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782667 W
+[GoPro]         GPSAltitude                     : 153.63 m
+[GoPro]         GPSSpeed                        : 1.773
+[GoPro]         GPSSpeed3D                      : 1.78
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782667 W
+[GoPro]         GPSAltitude                     : 153.621 m
+[GoPro]         GPSSpeed                        : 1.501
+[GoPro]         GPSSpeed3D                      : 1.8
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782668 W
+[GoPro]         GPSAltitude                     : 153.621 m
+[GoPro]         GPSSpeed                        : 1.517
+[GoPro]         GPSSpeed3D                      : 1.53
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782670 W
+[GoPro]         GPSAltitude                     : 153.579 m
+[GoPro]         GPSSpeed                        : 1.576
+[GoPro]         GPSSpeed3D                      : 1.54
+[GoPro]         GPSLatitude                     : 51.248490 N
+[GoPro]         GPSLongitude                    : 0.782671 W
+[GoPro]         GPSAltitude                     : 153.421 m
+[GoPro]         GPSSpeed                        : 1.65
+[GoPro]         GPSSpeed3D                      : 1.6
+[GoPro]         ImageSensorGain                 : (Binary data 509 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1074.374747
+[GoPro]         ExposureTimes                   : 1/645 1/649 1/649 1/649 1/654 1/654 1/654 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658
+[GoPro]         DeviceName                      : Fusion
+[GoPro]         TimeStamp                       : 1075.380814
+[GoPro]         CameraTemperature               : 27.0625 C
+[GoPro]         Accelerometer                   : (Binary data 9867 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1075.374666
+[GoPro]         CameraTemperature               : 27.0625 C
+[GoPro]         Gyroscope                       : (Binary data 179481 bytes, use -b option to extract)
+[GoPro]         Magnetometer                    : 11.1999998092651 -6.09999990463257 7.90000009536743 10 -4.30000019073486 9.90000057220459 10.4000005722046 -4.30000019073486 6.80000019073486 10.4000005722046 -2.40000009536743 8 9.40000057220459 -2.70000004768372 8.40000057220459 8.60000038146973 -3.10000014305115 8.80000019073486 9.80000019073486 -3.5 7.30000019073486 9 -5.30000019073486 7.20000028610229 9.30000019073486 -4.20000028610229 9.90000057220459 10.1000003814697 -4.20000028610229 9.5 9 -2.40000009536743 5.70000028610229 9.69999980926514 -2.40000009536743 6.09999990463257 8.5 -0.100000001490116 10.4000005722046 7 -1.60000002384186 9.60000038146973 8.10000038146973 -2.70000004768372 7.70000028610229 8.10000038146973 -3.5 8.40000057220459 7.70000028610229 -4.20000028610229 10.3000001907349 7.70000028610229 -3.5 8.80000019073486 8.10000038146973 -3.5 8 7.70000028610229 -3.10000014305115 8.80000019073486 8.10000038146973 -1.20000004768372 9.60000038146973 9.30000019073486 -2.70000004768372 8.80000019073486 9.30000019073486 -2 7.59999990463257 8.5 -3.5 6.5 8.90000057220459 -5.59999990463257 8.30000019073486
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:04:13 15:37:31.519
+[GoPro]         GPSHPositioningError            : 2.03
+[GoPro]         GPSLatitude                     : 51.248490 N
+[GoPro]         GPSLongitude                    : 0.782671 W
+[GoPro]         GPSAltitude                     : 153.246 m
+[GoPro]         GPSSpeed                        : 1.555
+[GoPro]         GPSSpeed3D                      : 1.68
+[GoPro]         GPSLatitude                     : 51.248490 N
+[GoPro]         GPSLongitude                    : 0.782673 W
+[GoPro]         GPSAltitude                     : 153.365 m
+[GoPro]         GPSSpeed                        : 1.555
+[GoPro]         GPSSpeed3D                      : 1.6
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782674 W
+[GoPro]         GPSAltitude                     : 153.555 m
+[GoPro]         GPSSpeed                        : 1.44
+[GoPro]         GPSSpeed3D                      : 1.59
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782676 W
+[GoPro]         GPSAltitude                     : 153.615 m
+[GoPro]         GPSSpeed                        : 1.55
+[GoPro]         GPSSpeed3D                      : 1.47
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782678 W
+[GoPro]         GPSAltitude                     : 153.608 m
+[GoPro]         GPSSpeed                        : 1.605
+[GoPro]         GPSSpeed3D                      : 1.57
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782679 W
+[GoPro]         GPSAltitude                     : 153.665 m
+[GoPro]         GPSSpeed                        : 1.609
+[GoPro]         GPSSpeed3D                      : 1.63
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782680 W
+[GoPro]         GPSAltitude                     : 153.71 m
+[GoPro]         GPSSpeed                        : 1.352
+[GoPro]         GPSSpeed3D                      : 1.63
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782681 W
+[GoPro]         GPSAltitude                     : 153.692 m
+[GoPro]         GPSSpeed                        : 1.295
+[GoPro]         GPSSpeed3D                      : 1.37
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782682 W
+[GoPro]         GPSAltitude                     : 153.686 m
+[GoPro]         GPSSpeed                        : 1.31
+[GoPro]         GPSSpeed3D                      : 1.32
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782683 W
+[GoPro]         GPSAltitude                     : 153.61 m
+[GoPro]         GPSSpeed                        : 1.307
+[GoPro]         GPSSpeed3D                      : 1.33
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782684 W
+[GoPro]         GPSAltitude                     : 153.509 m
+[GoPro]         GPSSpeed                        : 1.344
+[GoPro]         GPSSpeed3D                      : 1.33
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782685 W
+[GoPro]         GPSAltitude                     : 153.423 m
+[GoPro]         GPSSpeed                        : 1.5
+[GoPro]         GPSSpeed3D                      : 1.37
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782687 W
+[GoPro]         GPSAltitude                     : 153.302 m
+[GoPro]         GPSSpeed                        : 1.81
+[GoPro]         GPSSpeed3D                      : 1.53
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782689 W
+[GoPro]         GPSAltitude                     : 153.176 m
+[GoPro]         GPSSpeed                        : 1.974
+[GoPro]         GPSSpeed3D                      : 1.84
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782692 W
+[GoPro]         GPSAltitude                     : 153.096 m
+[GoPro]         GPSSpeed                        : 2.277
+[GoPro]         GPSSpeed3D                      : 2
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782694 W
+[GoPro]         GPSAltitude                     : 153.064 m
+[GoPro]         GPSSpeed                        : 2.555
+[GoPro]         GPSSpeed3D                      : 2.31
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782696 W
+[GoPro]         GPSAltitude                     : 153.067 m
+[GoPro]         GPSSpeed                        : 2.408
+[GoPro]         GPSSpeed3D                      : 2.58
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782697 W
+[GoPro]         GPSAltitude                     : 153.031 m
+[GoPro]         GPSSpeed                        : 2.251
+[GoPro]         GPSSpeed3D                      : 2.44
+[GoPro]         ImageSensorGain                 : (Binary data 509 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1075.375747
+[GoPro]         ExposureTimes                   : 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658
+[GoPro]         DeviceName                      : Fusion
+[GoPro]         TimeStamp                       : 1076.376827
+[GoPro]         CameraTemperature               : 27.095703125 C
+[GoPro]         Accelerometer                   : (Binary data 9887 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1076.389823
+[GoPro]         CameraTemperature               : 27.095703125 C
+[GoPro]         Gyroscope                       : (Binary data 179325 bytes, use -b option to extract)
+[GoPro]         Magnetometer                    : 9.60000038146973 -5.30000019073486 7.5 10 -6.40000009536743 7.09999990463257 9.19999980926514 -4.90000009536743 9.5 9.60000038146973 -3.79999995231628 10.3000001907349 10.1000003814697 -3.90000009536743 6.80000019073486 10.4000005722046 -4.20000028610229 7.59999990463257 8.5 -4.20000028610229 9.90000057220459 10 -3.79999995231628 8.40000057220459 10.4000005722046 -3.90000009536743 6.40000009536743 9.69999980926514 -4.20000028610229 7.20000028610229 8.5 -3.79999995231628 9.60000038146973 9.69999980926514 -2.29999995231628 8 8.5 -2 7.59999990463257 7.80000019073486 -2.79999995231628 7.59999990463257 8.10000038146973 -2.29999995231628 9.19999980926514 8.90000057220459 -3.10000014305115 7.20000028610229 7.70000028610229 -4.5 6.5 8.40000057220459 -4.09999990463257 7.59999990463257 6.80000019073486 -4.5 8.80000019073486 7.59999990463257 -4.20000028610229 6.5 8.10000038146973 -2.70000004768372 6.5 8.10000038146973 -2.70000004768372 6.5 6.90000009536743 -2.29999995231628 8.10000038146973 8.40000057220459 -3.79999995231628 7.59999990463257
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:04:13 15:37:32.509
+[GoPro]         GPSHPositioningError            : 2.03
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782699 W
+[GoPro]         GPSAltitude                     : 152.987 m
+[GoPro]         GPSSpeed                        : 2.279
+[GoPro]         GPSSpeed3D                      : 2.28
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782701 W
+[GoPro]         GPSAltitude                     : 152.939 m
+[GoPro]         GPSSpeed                        : 2.298
+[GoPro]         GPSSpeed3D                      : 2.31
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782702 W
+[GoPro]         GPSAltitude                     : 152.829 m
+[GoPro]         GPSSpeed                        : 2.142
+[GoPro]         GPSSpeed3D                      : 2.33
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782703 W
+[GoPro]         GPSAltitude                     : 152.839 m
+[GoPro]         GPSSpeed                        : 1.959
+[GoPro]         GPSSpeed3D                      : 2.18
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782704 W
+[GoPro]         GPSAltitude                     : 152.704 m
+[GoPro]         GPSSpeed                        : 1.791
+[GoPro]         GPSSpeed3D                      : 2
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782705 W
+[GoPro]         GPSAltitude                     : 152.687 m
+[GoPro]         GPSSpeed                        : 1.738
+[GoPro]         GPSSpeed3D                      : 1.84
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782707 W
+[GoPro]         GPSAltitude                     : 152.863 m
+[GoPro]         GPSSpeed                        : 1.796
+[GoPro]         GPSSpeed3D                      : 1.79
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782710 W
+[GoPro]         GPSAltitude                     : 153.024 m
+[GoPro]         GPSSpeed                        : 1.915
+[GoPro]         GPSSpeed3D                      : 1.84
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782711 W
+[GoPro]         GPSAltitude                     : 153.078 m
+[GoPro]         GPSSpeed                        : 1.805
+[GoPro]         GPSSpeed3D                      : 1.95
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782711 W
+[GoPro]         GPSAltitude                     : 152.983 m
+[GoPro]         GPSSpeed                        : 1.644
+[GoPro]         GPSSpeed3D                      : 1.84
+[GoPro]         GPSLatitude                     : 51.248486 N
+[GoPro]         GPSLongitude                    : 0.782712 W
+[GoPro]         GPSAltitude                     : 152.797 m
+[GoPro]         GPSSpeed                        : 1.537
+[GoPro]         GPSSpeed3D                      : 1.68
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782713 W
+[GoPro]         GPSAltitude                     : 152.766 m
+[GoPro]         GPSSpeed                        : 1.458
+[GoPro]         GPSSpeed3D                      : 1.59
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782713 W
+[GoPro]         GPSAltitude                     : 152.746 m
+[GoPro]         GPSSpeed                        : 1.357
+[GoPro]         GPSSpeed3D                      : 1.52
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782714 W
+[GoPro]         GPSAltitude                     : 152.738 m
+[GoPro]         GPSSpeed                        : 1.328
+[GoPro]         GPSSpeed3D                      : 1.42
+[GoPro]         GPSLatitude                     : 51.248487 N
+[GoPro]         GPSLongitude                    : 0.782715 W
+[GoPro]         GPSAltitude                     : 152.56 m
+[GoPro]         GPSSpeed                        : 1.254
+[GoPro]         GPSSpeed3D                      : 1.39
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782715 W
+[GoPro]         GPSAltitude                     : 152.473 m
+[GoPro]         GPSSpeed                        : 1.154
+[GoPro]         GPSSpeed3D                      : 1.34
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782715 W
+[GoPro]         GPSAltitude                     : 152.423 m
+[GoPro]         GPSSpeed                        : 1.021
+[GoPro]         GPSSpeed3D                      : 1.25
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782716 W
+[GoPro]         GPSAltitude                     : 152.307 m
+[GoPro]         GPSSpeed                        : 0.976
+[GoPro]         GPSSpeed3D                      : 1.13
+[GoPro]         ImageSensorGain                 : (Binary data 509 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1076.376751
+[GoPro]         ExposureTimes                   : 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658
+[GoPro]         DeviceName                      : Fusion
+[GoPro]         TimeStamp                       : 1077.380866
+[GoPro]         CameraTemperature               : 27.013671875 C
+[GoPro]         Accelerometer                   : (Binary data 9735 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1077.404981
+[GoPro]         CameraTemperature               : 27.013671875 C
+[GoPro]         Gyroscope                       : (Binary data 172732 bytes, use -b option to extract)
+[GoPro]         Magnetometer                    : 9.19999980926514 -4.5 8 9.90000057220459 -6.59999990463257 9.5 9 -7.30000019073486 9.90000057220459 9.40000057220459 -6.59999990463257 6.80000019073486 9.40000057220459 -5.5 7.5 9 -5.09999990463257 8.30000019073486 9 -5.5 8 9.40000057220459 -5.5 7.20000028610229 8.69999980926514 -5.5 7.59999990463257 9 -6.90000009536743 9.19999980926514 9.80000019073486 -6.59999990463257 7.20000028610229 9.80000019073486 -6.59999990463257 6.90000009536743 9.10000038146973 -5.5 6.90000009536743 8.30000019073486 -5.09999990463257 8.10000038146973 9.90000057220459 -4.40000009536743 6.09999990463257 9.90000057220459 -4.40000009536743 6.09999990463257 7.90000009536743 -5.09999990463257 8.80000019073486 8.69999980926514 -5.09999990463257 9.30000019073486 8.69999980926514 -5.09999990463257 7.70000028610229 7.5 -4.40000009536743 7.30000019073486 7.5 -4.40000009536743 7.30000019073486 6.40000009536743 -2.60000014305115 7.40000009536743 6.40000009536743 -2.60000014305115 7.40000009536743 6.40000009536743 -2.60000014305115 7.40000009536743
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:04:13 15:37:33.499
+[GoPro]         GPSHPositioningError            : 2.03
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782716 W
+[GoPro]         GPSAltitude                     : 152.192 m
+[GoPro]         GPSSpeed                        : 1.022
+[GoPro]         GPSSpeed3D                      : 1.1
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782717 W
+[GoPro]         GPSAltitude                     : 152.196 m
+[GoPro]         GPSSpeed                        : 1.056
+[GoPro]         GPSSpeed3D                      : 1.16
+[GoPro]         GPSLatitude                     : 51.248490 N
+[GoPro]         GPSLongitude                    : 0.782719 W
+[GoPro]         GPSAltitude                     : 152.322 m
+[GoPro]         GPSSpeed                        : 1.161
+[GoPro]         GPSSpeed3D                      : 1.18
+[GoPro]         GPSLatitude                     : 51.248490 N
+[GoPro]         GPSLongitude                    : 0.782720 W
+[GoPro]         GPSAltitude                     : 152.374 m
+[GoPro]         GPSSpeed                        : 1.187
+[GoPro]         GPSSpeed3D                      : 1.26
+[GoPro]         GPSLatitude                     : 51.248490 N
+[GoPro]         GPSLongitude                    : 0.782721 W
+[GoPro]         GPSAltitude                     : 152.363 m
+[GoPro]         GPSSpeed                        : 1.12
+[GoPro]         GPSSpeed3D                      : 1.28
+[GoPro]         GPSLatitude                     : 51.248491 N
+[GoPro]         GPSLongitude                    : 0.782721 W
+[GoPro]         GPSAltitude                     : 152.294 m
+[GoPro]         GPSSpeed                        : 1.093
+[GoPro]         GPSSpeed3D                      : 1.22
+[GoPro]         GPSLatitude                     : 51.248491 N
+[GoPro]         GPSLongitude                    : 0.782722 W
+[GoPro]         GPSAltitude                     : 152.25 m
+[GoPro]         GPSSpeed                        : 1.111
+[GoPro]         GPSSpeed3D                      : 1.2
+[GoPro]         GPSLatitude                     : 51.248492 N
+[GoPro]         GPSLongitude                    : 0.782723 W
+[GoPro]         GPSAltitude                     : 152.229 m
+[GoPro]         GPSSpeed                        : 1.153
+[GoPro]         GPSSpeed3D                      : 1.22
+[GoPro]         GPSLatitude                     : 51.248492 N
+[GoPro]         GPSLongitude                    : 0.782724 W
+[GoPro]         GPSAltitude                     : 152.239 m
+[GoPro]         GPSSpeed                        : 1.174
+[GoPro]         GPSSpeed3D                      : 1.26
+[GoPro]         GPSLatitude                     : 51.248492 N
+[GoPro]         GPSLongitude                    : 0.782726 W
+[GoPro]         GPSAltitude                     : 152.215 m
+[GoPro]         GPSSpeed                        : 1.253
+[GoPro]         GPSSpeed3D                      : 1.27
+[GoPro]         GPSLatitude                     : 51.248492 N
+[GoPro]         GPSLongitude                    : 0.782727 W
+[GoPro]         GPSAltitude                     : 152.131 m
+[GoPro]         GPSSpeed                        : 1.356
+[GoPro]         GPSSpeed3D                      : 1.35
+[GoPro]         GPSLatitude                     : 51.248492 N
+[GoPro]         GPSLongitude                    : 0.782729 W
+[GoPro]         GPSAltitude                     : 152.232 m
+[GoPro]         GPSSpeed                        : 1.448
+[GoPro]         GPSSpeed3D                      : 1.45
+[GoPro]         GPSLatitude                     : 51.248491 N
+[GoPro]         GPSLongitude                    : 0.782729 W
+[GoPro]         GPSAltitude                     : 152.232 m
+[GoPro]         GPSSpeed                        : 1.188
+[GoPro]         GPSSpeed3D                      : 1.53
+[GoPro]         GPSLatitude                     : 51.248490 N
+[GoPro]         GPSLongitude                    : 0.782729 W
+[GoPro]         GPSAltitude                     : 152.203 m
+[GoPro]         GPSSpeed                        : 1.075
+[GoPro]         GPSSpeed3D                      : 1.29
+[GoPro]         GPSLatitude                     : 51.248490 N
+[GoPro]         GPSLongitude                    : 0.782730 W
+[GoPro]         GPSAltitude                     : 152.207 m
+[GoPro]         GPSSpeed                        : 1.049
+[GoPro]         GPSSpeed3D                      : 1.19
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782731 W
+[GoPro]         GPSAltitude                     : 152.255 m
+[GoPro]         GPSSpeed                        : 1.042
+[GoPro]         GPSSpeed3D                      : 1.16
+[GoPro]         GPSLatitude                     : 51.248490 N
+[GoPro]         GPSLongitude                    : 0.782732 W
+[GoPro]         GPSAltitude                     : 152.258 m
+[GoPro]         GPSSpeed                        : 1.062
+[GoPro]         GPSSpeed3D                      : 1.15
+[GoPro]         GPSLatitude                     : 51.248490 N
+[GoPro]         GPSLongitude                    : 0.782733 W
+[GoPro]         GPSAltitude                     : 152.287 m
+[GoPro]         GPSSpeed                        : 1.043
+[GoPro]         GPSSpeed3D                      : 1.17
+[GoPro]         ImageSensorGain                 : (Binary data 509 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1077.37775
+[GoPro]         ExposureTimes                   : 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/658 1/654 1/654 1/654 1/649 1/649 1/649 1/645 1/645 1/645
+[GoPro]         DeviceName                      : Fusion
+[GoPro]         TimeStamp                       : 1078.379889
+[GoPro]         CameraTemperature               : 27.044921875 C
+[GoPro]         Accelerometer                   : (Binary data 9789 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1078.388417
+[GoPro]         CameraTemperature               : 27.044921875 C
+[GoPro]         Gyroscope                       : (Binary data 179108 bytes, use -b option to extract)
+[GoPro]         Magnetometer                    : 8.69999980926514 -3.60000014305115 10.8000001907349 9 -4.80000019073486 5.40000009536743 8.60000038146973 -5.5 6.5 9.69999980926514 -5.40000009536743 8.40000057220459 9.69999980926514 -5.5 7.59999990463257 9 -5.09999990463257 7.70000028610229 9.69999980926514 -4.40000009536743 8.10000038146973 9.30000019073486 -5.40000009536743 8.40000057220459 9.40000057220459 -4 6.90000009536743 10.1000003814697 -4.40000009536743 7.30000019073486 9 -4.80000019073486 7.30000019073486 9.30000019073486 -4.40000009536743 8.5 10.1000003814697 -4.40000009536743 5.70000028610229 9 -3.70000004768372 6.90000009536743 7.40000009536743 -2.5 9.30000019073486 6.70000028610229 -1.80000007152557 8.19999980926514 6.70000028610229 -1.80000007152557 8.19999980926514 7.80000019073486 -3.70000004768372 7 7 -4 9.40000057220459 7.80000019073486 -4.80000019073486 9.40000057220459 6.70000028610229 -5.09999990463257 7.40000009536743 6.70000028610229 -4.30000019073486 7.80000019073486 6.70000028610229 -2.40000009536743 9.10000038146973 7.09999990463257 -1.70000004768372 8.30000019073486
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:04:13 15:37:34.489
+[GoPro]         GPSHPositioningError            : 2.03
+[GoPro]         GPSLatitude                     : 51.248491 N
+[GoPro]         GPSLongitude                    : 0.782734 W
+[GoPro]         GPSAltitude                     : 152.328 m
+[GoPro]         GPSSpeed                        : 1.03
+[GoPro]         GPSSpeed3D                      : 1.14
+[GoPro]         GPSLatitude                     : 51.248490 N
+[GoPro]         GPSLongitude                    : 0.782735 W
+[GoPro]         GPSAltitude                     : 152.336 m
+[GoPro]         GPSSpeed                        : 0.991
+[GoPro]         GPSSpeed3D                      : 1.13
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782735 W
+[GoPro]         GPSAltitude                     : 152.37 m
+[GoPro]         GPSSpeed                        : 0.986
+[GoPro]         GPSSpeed3D                      : 1.09
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782737 W
+[GoPro]         GPSAltitude                     : 152.426 m
+[GoPro]         GPSSpeed                        : 1.042
+[GoPro]         GPSSpeed3D                      : 1.08
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782738 W
+[GoPro]         GPSAltitude                     : 152.473 m
+[GoPro]         GPSSpeed                        : 1.094
+[GoPro]         GPSSpeed3D                      : 1.13
+[GoPro]         GPSLatitude                     : 51.248491 N
+[GoPro]         GPSLongitude                    : 0.782740 W
+[GoPro]         GPSAltitude                     : 152.444 m
+[GoPro]         GPSSpeed                        : 1.164
+[GoPro]         GPSSpeed3D                      : 1.17
+[GoPro]         GPSLatitude                     : 51.248490 N
+[GoPro]         GPSLongitude                    : 0.782741 W
+[GoPro]         GPSAltitude                     : 152.49 m
+[GoPro]         GPSSpeed                        : 1.253
+[GoPro]         GPSSpeed3D                      : 1.24
+[GoPro]         GPSLatitude                     : 51.248490 N
+[GoPro]         GPSLongitude                    : 0.782742 W
+[GoPro]         GPSAltitude                     : 152.516 m
+[GoPro]         GPSSpeed                        : 1.241
+[GoPro]         GPSSpeed3D                      : 1.32
+[GoPro]         GPSLatitude                     : 51.248489 N
+[GoPro]         GPSLongitude                    : 0.782744 W
+[GoPro]         GPSAltitude                     : 152.599 m
+[GoPro]         GPSSpeed                        : 1.239
+[GoPro]         GPSSpeed3D                      : 1.31
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782745 W
+[GoPro]         GPSAltitude                     : 152.695 m
+[GoPro]         GPSSpeed                        : 1.235
+[GoPro]         GPSSpeed3D                      : 1.3
+[GoPro]         GPSLatitude                     : 51.248488 N
+[GoPro]         GPSLongitude                    : 0.782746 W
+[GoPro]         GPSAltitude                     : 152.76 m
+[GoPro]         GPSSpeed                        : 1.163
+[GoPro]         GPSSpeed3D                      : 1.29
+[GoPro]         GPSLatitude                     : 51.248486 N
+[GoPro]         GPSLongitude                    : 0.782746 W
+[GoPro]         GPSAltitude                     : 152.813 m
+[GoPro]         GPSSpeed                        : 1.103
+[GoPro]         GPSSpeed3D                      : 1.22
+[GoPro]         GPSLatitude                     : 51.248486 N
+[GoPro]         GPSLongitude                    : 0.782747 W
+[GoPro]         GPSAltitude                     : 152.885 m
+[GoPro]         GPSSpeed                        : 1.035
+[GoPro]         GPSSpeed3D                      : 1.16
+[GoPro]         GPSLatitude                     : 51.248484 N
+[GoPro]         GPSLongitude                    : 0.782748 W
+[GoPro]         GPSAltitude                     : 152.939 m
+[GoPro]         GPSSpeed                        : 1.135
+[GoPro]         GPSSpeed3D                      : 1.09
+[GoPro]         GPSLatitude                     : 51.248483 N
+[GoPro]         GPSLongitude                    : 0.782748 W
+[GoPro]         GPSAltitude                     : 153.012 m
+[GoPro]         GPSSpeed                        : 1.162
+[GoPro]         GPSSpeed3D                      : 1.18
+[GoPro]         GPSLatitude                     : 51.248482 N
+[GoPro]         GPSLongitude                    : 0.782749 W
+[GoPro]         GPSAltitude                     : 153.065 m
+[GoPro]         GPSSpeed                        : 1.164
+[GoPro]         GPSSpeed3D                      : 1.2
+[GoPro]         GPSLatitude                     : 51.248481 N
+[GoPro]         GPSLongitude                    : 0.782750 W
+[GoPro]         GPSAltitude                     : 153.143 m
+[GoPro]         GPSSpeed                        : 1.129
+[GoPro]         GPSSpeed3D                      : 1.2
+[GoPro]         GPSLatitude                     : 51.248480 N
+[GoPro]         GPSLongitude                    : 0.782751 W
+[GoPro]         GPSAltitude                     : 153.42 m
+[GoPro]         GPSSpeed                        : 1.11
+[GoPro]         GPSSpeed3D                      : 1.16
+[GoPro]         GPSLatitude                     : 51.248478 N
+[GoPro]         GPSLongitude                    : 0.782751 W
+[GoPro]         GPSAltitude                     : 153.592 m
+[GoPro]         GPSSpeed                        : 1.12
+[GoPro]         GPSSpeed3D                      : 1.13
+[GoPro]         ImageSensorGain                 : (Binary data 509 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1078.378751
+[GoPro]         ExposureTimes                   : 1/645 1/645 1/645 1/645 1/645 1/645 1/645 1/645 1/645 1/645 1/640 1/640 1/640 1/636 1/636 1/636 1/632 1/632 1/632 1/628 1/628 1/628 1/628 1/628 1/628 1/628 1/628 1/628 1/628 1/628
+[GoPro]         DeviceName                      : Fusion
+[GoPro]         TimeStamp                       : 1079.38419
+[GoPro]         CameraTemperature               : 27.0390625 C
+[GoPro]         Accelerometer                   : (Binary data 9701 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1079.403575
+[GoPro]         CameraTemperature               : 27.0390625 C
+[GoPro]         Gyroscope                       : (Binary data 172256 bytes, use -b option to extract)
+[GoPro]         Magnetometer                    : 8.60000038146973 -2.10000014305115 7.5 8.60000038146973 -3.90000009536743 7.40000009536743 8.19999980926514 -4.30000019073486 8.90000057220459 8.90000057220459 -6.80000019073486 8.5 10 -6.80000019073486 7.30000019073486 9.30000019073486 -7.20000028610229 8.5 9.69999980926514 -5.80000019073486 6.20000028610229 9.69999980926514 -5.80000019073486 6.20000028610229 7.40000009536743 -5.80000019073486 7.40000009536743 8.5 -6.09999990463257 9.30000019073486 9.69999980926514 -5.70000028610229 6.59999990463257 9.40000057220459 -5.80000019073486 6.20000028610229 10.1000003814697 -3.5 8.19999980926514 8.10000038146973 -2 9 8.5 -1.30000007152557 6.30000019073486 8.5 -1.30000007152557 7.09999990463257 6.09999990463257 -0.600000023841858 9.40000057220459 7.20000028610229 -1.70000004768372 9.5 6.5 -0.600000023841858 7.30000019073486 8.40000057220459 -1.30000007152557 8.69999980926514 8.40000057220459 -1.30000007152557 8.69999980926514 8.40000057220459 0.200000002980232 8.40000057220459 9.60000038146973 0.900000035762787 6.5 9.60000038146973 1.30000007152557 5.30000019073486
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:04:13 15:37:35.534
+[GoPro]         GPSHPositioningError            : 2.03
+[GoPro]         GPSLatitude                     : 51.248477 N
+[GoPro]         GPSLongitude                    : 0.782751 W
+[GoPro]         GPSAltitude                     : 153.697 m
+[GoPro]         GPSSpeed                        : 1.126
+[GoPro]         GPSSpeed3D                      : 1.14
+[GoPro]         GPSLatitude                     : 51.248477 N
+[GoPro]         GPSLongitude                    : 0.782752 W
+[GoPro]         GPSAltitude                     : 153.747 m
+[GoPro]         GPSSpeed                        : 1.111
+[GoPro]         GPSSpeed3D                      : 1.14
+[GoPro]         GPSLatitude                     : 51.248477 N
+[GoPro]         GPSLongitude                    : 0.782753 W
+[GoPro]         GPSAltitude                     : 153.858 m
+[GoPro]         GPSSpeed                        : 1.02
+[GoPro]         GPSSpeed3D                      : 1.12
+[GoPro]         GPSLatitude                     : 51.248476 N
+[GoPro]         GPSLongitude                    : 0.782753 W
+[GoPro]         GPSAltitude                     : 153.893 m
+[GoPro]         GPSSpeed                        : 0.99
+[GoPro]         GPSSpeed3D                      : 1.03
+[GoPro]         GPSLatitude                     : 51.248476 N
+[GoPro]         GPSLongitude                    : 0.782753 W
+[GoPro]         GPSAltitude                     : 153.871 m
+[GoPro]         GPSSpeed                        : 0.962
+[GoPro]         GPSSpeed3D                      : 1
+[GoPro]         GPSLatitude                     : 51.248476 N
+[GoPro]         GPSLongitude                    : 0.782753 W
+[GoPro]         GPSAltitude                     : 153.826 m
+[GoPro]         GPSSpeed                        : 0.901
+[GoPro]         GPSSpeed3D                      : 0.97
+[GoPro]         GPSLatitude                     : 51.248475 N
+[GoPro]         GPSLongitude                    : 0.782754 W
+[GoPro]         GPSAltitude                     : 153.843 m
+[GoPro]         GPSSpeed                        : 0.937
+[GoPro]         GPSSpeed3D                      : 0.91
+[GoPro]         GPSLatitude                     : 51.248474 N
+[GoPro]         GPSLongitude                    : 0.782755 W
+[GoPro]         GPSAltitude                     : 153.843 m
+[GoPro]         GPSSpeed                        : 0.981
+[GoPro]         GPSSpeed3D                      : 0.95
+[GoPro]         GPSLatitude                     : 51.248474 N
+[GoPro]         GPSLongitude                    : 0.782756 W
+[GoPro]         GPSAltitude                     : 153.865 m
+[GoPro]         GPSSpeed                        : 1.013
+[GoPro]         GPSSpeed3D                      : 0.99
+[GoPro]         GPSLatitude                     : 51.248473 N
+[GoPro]         GPSLongitude                    : 0.782757 W
+[GoPro]         GPSAltitude                     : 153.984 m
+[GoPro]         GPSSpeed                        : 1.037
+[GoPro]         GPSSpeed3D                      : 1.02
+[GoPro]         GPSLatitude                     : 51.248473 N
+[GoPro]         GPSLongitude                    : 0.782758 W
+[GoPro]         GPSAltitude                     : 153.993 m
+[GoPro]         GPSSpeed                        : 1.009
+[GoPro]         GPSSpeed3D                      : 1.04
+[GoPro]         GPSLatitude                     : 51.248473 N
+[GoPro]         GPSLongitude                    : 0.782759 W
+[GoPro]         GPSAltitude                     : 153.973 m
+[GoPro]         GPSSpeed                        : 1.037
+[GoPro]         GPSSpeed3D                      : 1.02
+[GoPro]         GPSLatitude                     : 51.248472 N
+[GoPro]         GPSLongitude                    : 0.782759 W
+[GoPro]         GPSAltitude                     : 153.988 m
+[GoPro]         GPSSpeed                        : 1.06
+[GoPro]         GPSSpeed3D                      : 1.04
+[GoPro]         GPSLatitude                     : 51.248472 N
+[GoPro]         GPSLongitude                    : 0.782760 W
+[GoPro]         GPSAltitude                     : 153.87 m
+[GoPro]         GPSSpeed                        : 1.114
+[GoPro]         GPSSpeed3D                      : 1.07
+[GoPro]         GPSLatitude                     : 51.248471 N
+[GoPro]         GPSLongitude                    : 0.782761 W
+[GoPro]         GPSAltitude                     : 153.749 m
+[GoPro]         GPSSpeed                        : 1.263
+[GoPro]         GPSSpeed3D                      : 1.12
+[GoPro]         GPSLatitude                     : 51.248470 N
+[GoPro]         GPSLongitude                    : 0.782764 W
+[GoPro]         GPSAltitude                     : 153.814 m
+[GoPro]         GPSSpeed                        : 1.529
+[GoPro]         GPSSpeed3D                      : 1.27
+[GoPro]         GPSLatitude                     : 51.248470 N
+[GoPro]         GPSLongitude                    : 0.782766 W
+[GoPro]         GPSAltitude                     : 153.811 m
+[GoPro]         GPSSpeed                        : 1.549
+[GoPro]         GPSSpeed3D                      : 1.54
+[GoPro]         GPSLatitude                     : 51.248470 N
+[GoPro]         GPSLongitude                    : 0.782767 W
+[GoPro]         GPSAltitude                     : 153.819 m
+[GoPro]         GPSSpeed                        : 1.467
+[GoPro]         GPSSpeed3D                      : 1.56
+[GoPro]         ImageSensorGain                 : (Binary data 509 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1079.379751
+[GoPro]         ExposureTimes                   : 1/628 1/628 1/628 1/628 1/628 1/628 1/628 1/628 1/628 1/628 1/628 1/628 1/628 1/628 1/628 1/628 1/623 1/623 1/623 1/619 1/619 1/619 1/615 1/615 1/615 1/611 1/611 1/611 1/607 1/607
+[GoPro]         DeviceName                      : Fusion
+[GoPro]         TimeStamp                       : 1080.385651
+[GoPro]         CameraTemperature               : 27.044921875 C
+[GoPro]         Accelerometer                   : (Binary data 9799 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1080.38701
+[GoPro]         CameraTemperature               : 27.044921875 C
+[GoPro]         Gyroscope                       : (Binary data 179699 bytes, use -b option to extract)
+[GoPro]         Magnetometer                    : 8 2.79999995231628 9.40000057220459 8 2.79999995231628 9.40000057220459 7.20000028610229 0.100000001490116 6.40000009536743 8.30000019073486 -1.70000004768372 7.40000009536743 7.90000009536743 -2.79999995231628 10.1000003814697 8 -2.10000014305115 5.5 7.90000009536743 -1.30000007152557 7.09999990463257 7.20000028610229 -0.900000035762787 9 7.09999990463257 -2 9.40000057220459 7.09999990463257 -2 9.40000057220459 9.5 -1.70000004768372 7.09999990463257 7.90000009536743 -1.70000004768372 8.60000038146973 7.90000009536743 -3.5 9.30000019073486 8.69999980926514 -4.30000019073486 6.59999990463257 7.90000009536743 -5 7 7.09999990463257 -3.90000009536743 9.80000019073486 7.09999990463257 -3.90000009536743 9.80000019073486 8.69999980926514 -2.5 6.70000028610229 8.30000019073486 -1.30000007152557 6.30000019073486 10.6000003814697 -1.30000007152557 8.19999980926514 10.3000001907349 -1.39999997615814 7.09999990463257 9.5 -2.20000004768372 7.40000009536743 9.10000038146973 -1.80000007152557 6.70000028610229 7.90000009536743 -2.10000014305115 9.80000019073486 8.69999980926514 -1.10000002384186 6.70000028610229
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:04:13 15:37:36.524
+[GoPro]         GPSHPositioningError            : 2.03
+[GoPro]         GPSLatitude                     : 51.248468 N
+[GoPro]         GPSLongitude                    : 0.782768 W
+[GoPro]         GPSAltitude                     : 153.995 m
+[GoPro]         GPSSpeed                        : 1.531
+[GoPro]         GPSSpeed3D                      : 1.48
+[GoPro]         GPSLatitude                     : 51.248467 N
+[GoPro]         GPSLongitude                    : 0.782769 W
+[GoPro]         GPSAltitude                     : 154.148 m
+[GoPro]         GPSSpeed                        : 1.495
+[GoPro]         GPSSpeed3D                      : 1.54
+[GoPro]         GPSLatitude                     : 51.248466 N
+[GoPro]         GPSLongitude                    : 0.782769 W
+[GoPro]         GPSAltitude                     : 154.262 m
+[GoPro]         GPSSpeed                        : 1.497
+[GoPro]         GPSSpeed3D                      : 1.5
+[GoPro]         GPSLatitude                     : 51.248465 N
+[GoPro]         GPSLongitude                    : 0.782770 W
+[GoPro]         GPSAltitude                     : 154.292 m
+[GoPro]         GPSSpeed                        : 1.447
+[GoPro]         GPSSpeed3D                      : 1.5
+[GoPro]         GPSLatitude                     : 51.248466 N
+[GoPro]         GPSLongitude                    : 0.782771 W
+[GoPro]         GPSAltitude                     : 154.359 m
+[GoPro]         GPSSpeed                        : 1.322
+[GoPro]         GPSSpeed3D                      : 1.45
+[GoPro]         GPSLatitude                     : 51.248466 N
+[GoPro]         GPSLongitude                    : 0.782772 W
+[GoPro]         GPSAltitude                     : 154.371 m
+[GoPro]         GPSSpeed                        : 1.343
+[GoPro]         GPSSpeed3D                      : 1.32
+[GoPro]         GPSLatitude                     : 51.248466 N
+[GoPro]         GPSLongitude                    : 0.782773 W
+[GoPro]         GPSAltitude                     : 154.351 m
+[GoPro]         GPSSpeed                        : 1.309
+[GoPro]         GPSSpeed3D                      : 1.34
+[GoPro]         GPSLatitude                     : 51.248466 N
+[GoPro]         GPSLongitude                    : 0.782775 W
+[GoPro]         GPSAltitude                     : 154.372 m
+[GoPro]         GPSSpeed                        : 1.315
+[GoPro]         GPSSpeed3D                      : 1.31
+[GoPro]         GPSLatitude                     : 51.248466 N
+[GoPro]         GPSLongitude                    : 0.782776 W
+[GoPro]         GPSAltitude                     : 154.408 m
+[GoPro]         GPSSpeed                        : 1.322
+[GoPro]         GPSSpeed3D                      : 1.32
+[GoPro]         GPSLatitude                     : 51.248466 N
+[GoPro]         GPSLongitude                    : 0.782777 W
+[GoPro]         GPSAltitude                     : 154.441 m
+[GoPro]         GPSSpeed                        : 1.312
+[GoPro]         GPSSpeed3D                      : 1.32
+[GoPro]         GPSLatitude                     : 51.248466 N
+[GoPro]         GPSLongitude                    : 0.782779 W
+[GoPro]         GPSAltitude                     : 154.549 m
+[GoPro]         GPSSpeed                        : 1.317
+[GoPro]         GPSSpeed3D                      : 1.31
+[GoPro]         GPSLatitude                     : 51.248465 N
+[GoPro]         GPSLongitude                    : 0.782780 W
+[GoPro]         GPSAltitude                     : 154.641 m
+[GoPro]         GPSSpeed                        : 1.291
+[GoPro]         GPSSpeed3D                      : 1.32
+[GoPro]         GPSLatitude                     : 51.248465 N
+[GoPro]         GPSLongitude                    : 0.782781 W
+[GoPro]         GPSAltitude                     : 154.661 m
+[GoPro]         GPSSpeed                        : 1.219
+[GoPro]         GPSSpeed3D                      : 1.29
+[GoPro]         GPSLatitude                     : 51.248466 N
+[GoPro]         GPSLongitude                    : 0.782781 W
+[GoPro]         GPSAltitude                     : 154.634 m
+[GoPro]         GPSSpeed                        : 1.133
+[GoPro]         GPSSpeed3D                      : 1.22
+[GoPro]         GPSLatitude                     : 51.248466 N
+[GoPro]         GPSLongitude                    : 0.782782 W
+[GoPro]         GPSAltitude                     : 154.621 m
+[GoPro]         GPSSpeed                        : 1.081
+[GoPro]         GPSSpeed3D                      : 1.13
+[GoPro]         GPSLatitude                     : 51.248466 N
+[GoPro]         GPSLongitude                    : 0.782782 W
+[GoPro]         GPSAltitude                     : 154.564 m
+[GoPro]         GPSSpeed                        : 0.994
+[GoPro]         GPSSpeed3D                      : 1.08
+[GoPro]         GPSLatitude                     : 51.248466 N
+[GoPro]         GPSLongitude                    : 0.782782 W
+[GoPro]         GPSAltitude                     : 154.496 m
+[GoPro]         GPSSpeed                        : 0.879
+[GoPro]         GPSSpeed3D                      : 0.99
+[GoPro]         GPSLatitude                     : 51.248466 N
+[GoPro]         GPSLongitude                    : 0.782782 W
+[GoPro]         GPSAltitude                     : 154.364 m
+[GoPro]         GPSSpeed                        : 0.765
+[GoPro]         GPSSpeed3D                      : 0.88
+[GoPro]         ImageSensorGain                 : (Binary data 509 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1080.380754
+[GoPro]         ExposureTimes                   : 1/607 1/607 1/607 1/607 1/607 1/607 1/607 1/607 1/607 1/607 1/607 1/607 1/607 1/607 1/607 1/607 1/607 1/607 1/607 1/607 1/607 1/607 1/607 1/607 1/607 1/607 1/607 1/607 1/607 1/607
+[GoPro]         DeviceName                      : Fusion
+[GoPro]         TimeStamp                       : 1081.384495
+[GoPro]         CameraTemperature               : 27.06640625 C
+[GoPro]         Accelerometer                   : (Binary data 9941 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1081.402168
+[GoPro]         CameraTemperature               : 27.06640625 C
+[GoPro]         Gyroscope                       : (Binary data 174191 bytes, use -b option to extract)
+[GoPro]         Magnetometer                    : 8.69999980926514 -1.10000002384186 6.70000028610229 7.20000028610229 1.20000004768372 6.80000019073486 8.40000057220459 0.400000005960464 7.5 8 0.5 8.69999980926514 10.3000001907349 -1 7.09999990463257 9.5 -2.20000004768372 7.40000009536743 11.4000005722046 -4.40000009536743 7.40000009536743 12.4000005722046 -4 6.59999990463257 11.6999998092651 -3.29999995231628 7 12.4000005722046 -1.70000004768372 8.30000019073486 12.9000005722046 -0.699999988079071 6 13.3000001907349 2.20000004768372 6 13.3000001907349 3.70000004768372 6.30000019073486 13.6000003814697 4.80000019073486 7.20000028610229 14.8000001907349 3.29999995231628 5.59999990463257 14.4000005722046 2.5 5.80000019073486 14.6999998092651 1.80000007152557 7.40000009536743 14.6999998092651 1.80000007152557 7.40000009536743 14.6999998092651 -1.10000002384186 4.5 14 0 4.59999990463257 13.9000005722046 0 6.59999990463257 13.5 -1.5 5.70000028610229 14.6999998092651 -1.10000002384186 5.30000019073486 14.1999998092651 0.300000011920929 5.70000028610229
+[GoPro]         GPSMeasureMode                  : 3-Dimensional Measurement
+[GoPro]         GPSDateTime                     : 2020:04:13 15:37:37.514
+[GoPro]         GPSHPositioningError            : 2.03
+[GoPro]         GPSLatitude                     : 51.248466 N
+[GoPro]         GPSLongitude                    : 0.782782 W
+[GoPro]         GPSAltitude                     : 154.222 m
+[GoPro]         GPSSpeed                        : 0.651
+[GoPro]         GPSSpeed3D                      : 0.77
+[GoPro]         GPSLatitude                     : 51.248467 N
+[GoPro]         GPSLongitude                    : 0.782781 W
+[GoPro]         GPSAltitude                     : 154.096 m
+[GoPro]         GPSSpeed                        : 0.525
+[GoPro]         GPSSpeed3D                      : 0.66
+[GoPro]         GPSLatitude                     : 51.248467 N
+[GoPro]         GPSLongitude                    : 0.782781 W
+[GoPro]         GPSAltitude                     : 153.967 m
+[GoPro]         GPSSpeed                        : 0.438
+[GoPro]         GPSSpeed3D                      : 0.55
+[GoPro]         GPSLatitude                     : 51.248468 N
+[GoPro]         GPSLongitude                    : 0.782782 W
+[GoPro]         GPSAltitude                     : 153.903 m
+[GoPro]         GPSSpeed                        : 0.425
+[GoPro]         GPSSpeed3D                      : 0.47
+[GoPro]         GPSLatitude                     : 51.248468 N
+[GoPro]         GPSLongitude                    : 0.782783 W
+[GoPro]         GPSAltitude                     : 153.915 m
+[GoPro]         GPSSpeed                        : 0.526
+[GoPro]         GPSSpeed3D                      : 0.47
+[GoPro]         GPSLatitude                     : 51.248468 N
+[GoPro]         GPSLongitude                    : 0.782785 W
+[GoPro]         GPSAltitude                     : 154.051 m
+[GoPro]         GPSSpeed                        : 0.711
+[GoPro]         GPSSpeed3D                      : 0.56
+[GoPro]         GPSLatitude                     : 51.248468 N
+[GoPro]         GPSLongitude                    : 0.782788 W
+[GoPro]         GPSAltitude                     : 154.09 m
+[GoPro]         GPSSpeed                        : 1.015
+[GoPro]         GPSSpeed3D                      : 0.73
+[GoPro]         GPSLatitude                     : 51.248467 N
+[GoPro]         GPSLongitude                    : 0.782791 W
+[GoPro]         GPSAltitude                     : 154.183 m
+[GoPro]         GPSSpeed                        : 1.241
+[GoPro]         GPSSpeed3D                      : 1.03
+[GoPro]         GPSLatitude                     : 51.248467 N
+[GoPro]         GPSLongitude                    : 0.782793 W
+[GoPro]         GPSAltitude                     : 154.244 m
+[GoPro]         GPSSpeed                        : 1.337
+[GoPro]         GPSSpeed3D                      : 1.25
+[GoPro]         GPSLatitude                     : 51.248467 N
+[GoPro]         GPSLongitude                    : 0.782794 W
+[GoPro]         GPSAltitude                     : 154.302 m
+[GoPro]         GPSSpeed                        : 1.287
+[GoPro]         GPSSpeed3D                      : 1.34
+[GoPro]         GPSLatitude                     : 51.248467 N
+[GoPro]         GPSLongitude                    : 0.782794 W
+[GoPro]         GPSAltitude                     : 154.357 m
+[GoPro]         GPSSpeed                        : 1.182
+[GoPro]         GPSSpeed3D                      : 1.29
+[GoPro]         GPSLatitude                     : 51.248466 N
+[GoPro]         GPSLongitude                    : 0.782795 W
+[GoPro]         GPSAltitude                     : 154.488 m
+[GoPro]         GPSSpeed                        : 1.196
+[GoPro]         GPSSpeed3D                      : 1.19
+[GoPro]         GPSLatitude                     : 51.248464 N
+[GoPro]         GPSLongitude                    : 0.782796 W
+[GoPro]         GPSAltitude                     : 154.594 m
+[GoPro]         GPSSpeed                        : 1.144
+[GoPro]         GPSSpeed3D                      : 1.2
+[GoPro]         GPSLatitude                     : 51.248463 N
+[GoPro]         GPSLongitude                    : 0.782796 W
+[GoPro]         GPSAltitude                     : 154.73 m
+[GoPro]         GPSSpeed                        : 1.099
+[GoPro]         GPSSpeed3D                      : 1.15
+[GoPro]         GPSLatitude                     : 51.248461 N
+[GoPro]         GPSLongitude                    : 0.782797 W
+[GoPro]         GPSAltitude                     : 154.92 m
+[GoPro]         GPSSpeed                        : 1.21
+[GoPro]         GPSSpeed3D                      : 1.1
+[GoPro]         GPSLatitude                     : 51.248460 N
+[GoPro]         GPSLongitude                    : 0.782798 W
+[GoPro]         GPSAltitude                     : 154.95 m
+[GoPro]         GPSSpeed                        : 1.281
+[GoPro]         GPSSpeed3D                      : 1.21
+[GoPro]         GPSLatitude                     : 51.248459 N
+[GoPro]         GPSLongitude                    : 0.782799 W
+[GoPro]         GPSAltitude                     : 154.947 m
+[GoPro]         GPSSpeed                        : 1.316
+[GoPro]         GPSSpeed3D                      : 1.28
+[GoPro]         GPSLatitude                     : 51.248459 N
+[GoPro]         GPSLongitude                    : 0.782801 W
+[GoPro]         GPSAltitude                     : 154.95 m
+[GoPro]         GPSSpeed                        : 1.411
+[GoPro]         GPSSpeed3D                      : 1.32
+[GoPro]         ImageSensorGain                 : (Binary data 509 bytes, use -b option to extract)
+[GoPro]         TimeStamp                       : 1081.381753
+[GoPro]         ExposureTimes                   : 1/607 1/607 1/603 1/603 1/603 1/603 1/603 1/603 1/603 1/603 1/603 1/603 1/603 1/603 1/603 1/603 1/603 1/603 1/603 1/599 1/599 1/599 1/596 1/596 1/596 1/592 1/592 1/592 1/588 1/588
+[Composite]     ImageSize                       : 3840x1920
+[Composite]     Megapixels                      : 7.4
+[Composite]     AvgBitrate                      : 45.2 Mbps
+[Composite]     GPSLatitude                     : 51.248500 N
+[Composite]     GPSLongitude                    : 0.782400 W
+[Composite]     Rotation                        : 0
+[Composite]     BaseName                        : VIDEO_7152
+[Composite]     FileExtension                   : mp4
+[Composite]     FileTypeDescription             : MPEG-4 video
+[Composite]     GPSPosition                     : 51.248500 N, 0.782400 W

@@ -1,0 +1,78 @@
+[ExifTool]      ExifToolVersion                 : 11.99
+[ExifTool]      Now                             : 2020:06:03 09:00:33+01:00
+[ExifTool]      NewGUID                         : 20200603-0900-3300-6D1C-676E6F371595
+[ExifTool]      FileSequence                    : 0
+[ExifTool]      ProcessingTime                  : 0.298 s
+[File]          FileName                        : MULTISHOT_0611_000000.jpg
+[File]          Directory                       : .
+[File]          FilePath                        : C:\Users\david\Downloads\tests\MULTISHOT_0611_000000.jpg
+[File]          FileSize                        : 13 MB
+[File]          FileModifyDate                  : 2020:06:03 08:49:02+01:00
+[File]          FileAccessDate                  : 2020:06:03 08:49:02+01:00
+[File]          FileCreateDate                  : 2020:06:03 08:49:01+01:00
+[File]          FilePermissions                 : rw-rw-rw-
+[File]          FileAttributes                  : Regular; (none); Archive
+[File]          FileDeviceNumber                : 0
+[File]          FileInodeNumber                 : 0
+[File]          FileHardLinks                   : 1
+[File]          FileUserID                      : 0
+[File]          FileGroupID                     : 0
+[File]          FileDeviceID                    : 0.0
+[File]          FileBlockSize                   : 
+[File]          FileBlockCount                  : 
+[File]          FileType                        : JPEG
+[File]          FileTypeExtension               : jpg
+[File]          MIMEType                        : image/jpeg
+[File]          ExifByteOrder                   : Little-endian (Intel, II)
+[File]          ImageWidth                      : 5760
+[File]          ImageHeight                     : 2880
+[File]          EncodingProcess                 : Baseline DCT, Huffman coding
+[File]          BitsPerSample                   : 8
+[File]          ColorComponents                 : 3
+[File]          YCbCrSubSampling                : YCbCr4:4:4 (1 1)
+[File]          JPEGImageLength                 : 13800913
+[File]          JPEGQualityEstimate             : 100
+[File]          JPEGDigest                      : Independent JPEG Group library (used by many applications), Quality 100
+[JFIF]          JFIFVersion                     : 1.01
+[JFIF]          ResolutionUnit                  : inches
+[JFIF]          XResolution                     : 0
+[JFIF]          YResolution                     : 0
+[EXIF]          ImageWidth                      : 5760
+[EXIF]          ImageHeight                     : 2880
+[EXIF]          Make                            : GoPro
+[EXIF]          Model                           : GoPro Fusion FS1.04.01.80.00
+[EXIF]          Software                        : GoPro Fusion Studio 1.3.0.400
+[EXIF]          ModifyDate                      : 2019:11:23 23:22:38
+[EXIF]          Artist                          : https://www.trekview.org
+[EXIF]          Copyright                       : https://www.trekview.org
+[EXIF]          DateTimeOriginal                : 2019:11:23 10:34:40
+[EXIF]          UserComment                     : Please contact hq@trekview.org if you want to use this photograph commercially.
+[EXIF]          GPSLatitudeRef                  : North
+[EXIF]          GPSLatitude                     : 28.270728
+[EXIF]          GPSLongitudeRef                 : West
+[EXIF]          GPSLongitude                    : 16.617344
+[EXIF]          GPSAltitudeRef                  : Above Sea Level
+[EXIF]          GPSAltitude                     : 2772.878 m
+[EXIF]          GPSTimeStamp                    : 10:34:41
+[EXIF]          GPSDateStamp                    : 2019:11:23
+[XMP]           XMPToolkit                      : XMP Core 4.4.0-Exiv2
+[XMP]           StitchingSoftware               : GoPro Fusion Studio 1.3.0.400
+[XMP]           SourcePhotosCount               : 2
+[XMP]           UsePanoramaViewer               : True
+[XMP]           ProjectionType                  : equirectangular
+[XMP]           CroppedAreaImageHeightPixels    : 2880
+[XMP]           CroppedAreaImageWidthPixels     : 5760
+[XMP]           FullPanoHeightPixels            : 2880
+[XMP]           FullPanoWidthPixels             : 5760
+[XMP]           CroppedAreaLeftPixels           : 0
+[XMP]           CroppedAreaTopPixels            : 0
+[Composite]     ImageSize                       : 5760x2880
+[Composite]     Megapixels                      : 16.6
+[Composite]     GPSAltitude                     : 2772.8 m Above Sea Level
+[Composite]     GPSDateTime                     : 2019:11:23 10:34:41Z
+[Composite]     GPSLatitude                     : 28.270728 N
+[Composite]     GPSLongitude                    : 16.617344 W
+[Composite]     BaseName                        : MULTISHOT_0611_000000
+[Composite]     FileExtension                   : jpg
+[Composite]     FileTypeDescription             : Joint Photographic Experts Group
+[Composite]     GPSPosition                     : 28.270728 N, 16.617344 W

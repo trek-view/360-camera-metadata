@@ -15,17 +15,11 @@ This repository contains our research to aid others building similar tools.
 ## Cameras
 
 * [GoPro](/gopro/README.md)
-	- [MAX](/gopro/max/README.md)
-		- Video
-		- Timelapse
-	- [Fusion](/gopro/fusion/README.md)
-		- Videos
-		- Timelapse
+	- MAX
+	- Fusion
 * Manufacturer
 	- Model
-		- Overview
-		- Video
-		- Timelapse
+	- Model
 
 ## Accessing sample files
 

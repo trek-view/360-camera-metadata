@@ -1,2 +1,0 @@
-# GoPro Fusion Metadata
-
