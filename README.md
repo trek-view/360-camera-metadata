@@ -17,7 +17,10 @@ This repository contains our research to aid others building similar tools.
 * [GoPro](/gopro/README.md)
 	- MAX
 	- Fusion
-* Manufacturer
+* [Ricoh](/ricoh/README.md)
+	- Theta V
+	- Theta Z1
+* [Manufacturer (example structure)](/maufacturer/README.md)
 	- Model
 	- Model
 
