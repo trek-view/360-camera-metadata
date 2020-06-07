@@ -29,12 +29,18 @@ All sample files used to extract metadata are offered free of charge for the ben
 
 You can use the open-source [Exiftool](https://exiftool.org/) to extract and normalise metadata.
 
+_Consider supporting exiftool: Exiftool is a free and very well supported bit of software we use to extract metadata. Let’s make sure it stays that way. [You should consider a small donation to support it if this repository has been useful to you](https://exiftool.org/#donate)_.
+
 Heres a quick introduction on how to use it:
 
-**Images**
+### Exiftool Images
+
+_[Read more about image file metadata](https://www.trekview.org/blog/2020/metadata-exif-xmp-360-photo-files/)_
+
+Some useful exiftool commands:
 
 ```
-exiftool -G -a -s [YOUR_IMAGE] > output.txt
+exiftool -G -s -b -j -a -T MULTISHOT_0611_000000.jpg > MULTISHOT_0611_000000_timelapse_metadata.json
 ```
 
 [This command includes the following arguments](https://exiftool.org/exiftool_pod.html):
@@ -43,25 +49,32 @@ exiftool -G -a -s [YOUR_IMAGE] > output.txt
 -G: Print group name for each tag
 -s: Descriptions, not tag names, are shown by default when extracting information. Use the -s option to see the tag names instead.
 
-_[Read more about image file metadata](https://www.trekview.org/blog/2020/metadata-exif-xmp-360-photo-files/)_
-
-**Videos**
-
-```
-$ exiftool -ee -G3 -s [YOUR_VIDEO] > output.txt
-```
-
-[This command includes the following arguments](https://exiftool.org/exiftool_pod.html):
-
-* -ee: Extract embedded data from mp0 files (and others).
-* -G3: Identify the originating document for extracted information. Embedded documents containing sub-documents are indicated with dashes in the family 3 group name. (eg. Doc2-3 is the 3rd sub-document of the 2nd embedded document.)
-* -s: Descriptions, not tag names, are shown by default when extracting information. Use the -s option to see the tag names instead.
+### Exiftool Videos
 
 _[Read more about video file metadata](https://www.trekview.org/blog/2020/metadata-exif-xmp-360-video-files/)_
 
-_Consider supporting exiftool_
+Some useful exiftool commands:
 
-Exiftool is a free and very well supported bit of software we use to extract metadata. Let’s make sure it stays that way. [You should consider a small donation to support it if this repository has been useful to you](https://exiftool.org/#donate).
+**Video level data**
+
+```
+exiftool -ee -G -s -b -j -a -T VIDEO_7152.mp4 > gopro_fusion_VIDEO_7152_metadata_overview.json
+```
+
+**Track level data (more verbose -- includes telemetry)**
+
+```
+exiftool -ee -G3 -s -b -j -a -T VIDEO_7152.mp4 > gopro_fusion_VIDEO_7152_metadata_track.json
+```
+
+[These commands includes the following arguments](https://exiftool.org/exiftool_pod.html):
+
+* -ee: Extract embedded data from mp0 files (and others).
+* -a: Allow duplicate tags to be extracted
+* -G3: Identify the originating document for extracted information. Embedded documents containing sub-documents are indicated with dashes in the family 3 group name. (eg. Doc2-3 is the 3rd sub-document of the 2nd embedded document.)
+* -s: Descriptions, not tag names, are shown by default when extracting information. Use the -s option to see the tag names instead.
+* -b: Output metadata in binary format (useful because often telemetry data is binary e.g gyroscopes)
+* -j: Use JSON (JavaScript Object Notation) formatting for console output
 
 ## Help us build better software
 
