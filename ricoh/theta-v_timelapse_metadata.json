@@ -1,0 +1,627 @@
+[{
+  "SourceFile": "Theta-v.JPG",
+  "ExifTool:ExifToolVersion": {
+    "id": "ExifToolVersion",
+    "table": "Extra",
+    "val": 11.99
+  },
+  "ExifTool:Now": {
+    "id": "Now",
+    "table": "Extra",
+    "val": "2020:06:07 20:17:56+01:00"
+  },
+  "ExifTool:NewGUID": {
+    "id": "NewGUID",
+    "table": "Extra",
+    "val": "20200607-2017-5600-1124-B86BCAD1E579"
+  },
+  "ExifTool:FileSequence": {
+    "id": "FileSequence",
+    "table": "Extra",
+    "val": 0
+  },
+  "ExifTool:Warning": {
+    "id": "Warning",
+    "table": "Extra",
+    "val": "[minor] Possibly incorrect maker notes offsets (fix by -84?)"
+  },
+  "ExifTool:ProcessingTime": {
+    "id": "ProcessingTime",
+    "table": "Extra",
+    "val": "0.0803 s"
+  },
+  "File:FileName": {
+    "id": "FileName",
+    "table": "Extra",
+    "val": "Theta-v.JPG"
+  },
+  "File:Directory": {
+    "id": "Directory",
+    "table": "Extra",
+    "val": "."
+  },
+  "File:FilePath": {
+    "id": "FilePath",
+    "table": "Extra",
+    "val": "C:\\Users\\david\\Downloads\\tests-for-metadata\\Theta-v.JPG"
+  },
+  "File:FileSize": {
+    "id": "FileSize",
+    "table": "Extra",
+    "val": "3.8 MB"
+  },
+  "File:FileModifyDate": {
+    "id": "FileModifyDate",
+    "table": "Extra",
+    "val": "2020:06:07 20:09:19+01:00"
+  },
+  "File:FileAccessDate": {
+    "id": "FileAccessDate",
+    "table": "Extra",
+    "val": "2020:06:07 20:09:19+01:00"
+  },
+  "File:FileCreateDate": {
+    "id": "FileCreateDate",
+    "table": "Extra",
+    "val": "2020:06:07 20:09:18+01:00"
+  },
+  "File:FilePermissions": {
+    "id": "FilePermissions",
+    "table": "Extra",
+    "val": "rw-rw-rw-"
+  },
+  "File:FileAttributes": {
+    "id": "FileAttributes",
+    "table": "Extra",
+    "val": "Regular; (none); Archive"
+  },
+  "File:FileDeviceNumber": {
+    "id": "FileDeviceNumber",
+    "table": "Extra",
+    "val": 0
+  },
+  "File:FileInodeNumber": {
+    "id": "FileInodeNumber",
+    "table": "Extra",
+    "val": 0
+  },
+  "File:FileHardLinks": {
+    "id": "FileHardLinks",
+    "table": "Extra",
+    "val": 1
+  },
+  "File:FileUserID": {
+    "id": "FileUserID",
+    "table": "Extra",
+    "val": 0
+  },
+  "File:FileGroupID": {
+    "id": "FileGroupID",
+    "table": "Extra",
+    "val": 0
+  },
+  "File:FileDeviceID": {
+    "id": "FileDeviceID",
+    "table": "Extra",
+    "val": 0.0
+  },
+  "File:FileBlockSize": {
+    "id": "FileBlockSize",
+    "table": "Extra",
+    "val": ""
+  },
+  "File:FileBlockCount": {
+    "id": "FileBlockCount",
+    "table": "Extra",
+    "val": ""
+  },
+  "File:FileType": {
+    "id": "FileType",
+    "table": "Extra",
+    "val": "JPEG"
+  },
+  "File:FileTypeExtension": {
+    "id": "FileTypeExtension",
+    "table": "Extra",
+    "val": "jpg"
+  },
+  "File:MIMEType": {
+    "id": "MIMEType",
+    "table": "Extra",
+    "val": "image/jpeg"
+  },
+  "File:ExifByteOrder": {
+    "id": "ExifByteOrder",
+    "table": "Extra",
+    "val": "Big-endian (Motorola, MM)"
+  },
+  "File:ImageWidth": {
+    "id": "ImageWidth",
+    "table": "JPEG::SOF",
+    "val": 5376
+  },
+  "File:ImageHeight": {
+    "id": "ImageHeight",
+    "table": "JPEG::SOF",
+    "val": 2688
+  },
+  "File:EncodingProcess": {
+    "id": "EncodingProcess",
+    "table": "JPEG::SOF",
+    "val": "Baseline DCT, Huffman coding"
+  },
+  "File:BitsPerSample": {
+    "id": "BitsPerSample",
+    "table": "JPEG::SOF",
+    "val": 8
+  },
+  "File:ColorComponents": {
+    "id": "ColorComponents",
+    "table": "JPEG::SOF",
+    "val": 3
+  },
+  "File:YCbCrSubSampling": {
+    "id": "YCbCrSubSampling",
+    "table": "JPEG::SOF",
+    "val": "YCbCr4:2:0 (2 2)"
+  },
+  "File:JPEGImageLength": {
+    "id": "JPEGImageLength",
+    "table": "Extra",
+    "val": 3891155
+  },
+  "File:JPEGQualityEstimate": {
+    "id": "JPEGQualityEstimate",
+    "table": "Extra",
+    "val": 93
+  },
+  "File:JPEGDigest": {
+    "id": "JPEGDigest",
+    "table": "Extra",
+    "val": "Unknown (ded9d06f8c23a6715eb79ab1ccca5310:221111)"
+  },
+  "EXIF:ImageDescription": {
+    "id": 270,
+    "table": "Exif::Main",
+    "val": "                                                               "
+  },
+  "EXIF:Make": {
+    "id": 271,
+    "table": "Exif::Main",
+    "val": "RICOH"
+  },
+  "EXIF:Model": {
+    "id": 272,
+    "table": "Exif::Main",
+    "val": "RICOH THETA V"
+  },
+  "EXIF:Orientation": {
+    "id": 274,
+    "table": "Exif::Main",
+    "val": "Horizontal (normal)"
+  },
+  "EXIF:XResolution": {
+    "id": 282,
+    "table": "Exif::Main",
+    "val": 300
+  },
+  "EXIF:YResolution": {
+    "id": 283,
+    "table": "Exif::Main",
+    "val": 300
+  },
+  "EXIF:ResolutionUnit": {
+    "id": 296,
+    "table": "Exif::Main",
+    "val": "inches"
+  },
+  "EXIF:Software": {
+    "id": 305,
+    "table": "Exif::Main",
+    "val": "RICOH THETA V Ver 3.30.1"
+  },
+  "EXIF:ModifyDate": {
+    "id": 306,
+    "table": "Exif::Main",
+    "val": "2020:05:11 11:22:59"
+  },
+  "EXIF:YCbCrPositioning": {
+    "id": 531,
+    "table": "Exif::Main",
+    "val": "Centered"
+  },
+  "EXIF:Copyright": {
+    "id": 33432,
+    "table": "Exif::Main",
+    "val": ""
+  },
+  "EXIF:ExposureTime": {
+    "id": 33434,
+    "table": "Exif::Main",
+    "val": "1/1250"
+  },
+  "EXIF:FNumber": {
+    "id": 33437,
+    "table": "Exif::Main",
+    "val": 2.0
+  },
+  "EXIF:ExposureProgram": {
+    "id": 34850,
+    "table": "Exif::Main",
+    "val": "Program AE"
+  },
+  "EXIF:ISO": {
+    "id": 34855,
+    "table": "Exif::Main",
+    "val": 64
+  },
+  "EXIF:SensitivityType": {
+    "id": 34864,
+    "table": "Exif::Main",
+    "val": "Standard Output Sensitivity"
+  },
+  "EXIF:ExifVersion": {
+    "id": 36864,
+    "table": "Exif::Main",
+    "val": "0230"
+  },
+  "EXIF:DateTimeOriginal": {
+    "id": 36867,
+    "table": "Exif::Main",
+    "val": "2020:05:11 11:22:59"
+  },
+  "EXIF:CreateDate": {
+    "id": 36868,
+    "table": "Exif::Main",
+    "val": "2020:05:11 11:22:59"
+  },
+  "EXIF:ComponentsConfiguration": {
+    "id": 37121,
+    "table": "Exif::Main",
+    "val": "Y, Cb, Cr, -"
+  },
+  "EXIF:ApertureValue": {
+    "id": 37378,
+    "table": "Exif::Main",
+    "val": 2.0
+  },
+  "EXIF:BrightnessValue": {
+    "id": 37379,
+    "table": "Exif::Main",
+    "val": 8.04
+  },
+  "EXIF:ExposureCompensation": {
+    "id": 37380,
+    "table": "Exif::Main",
+    "val": 0
+  },
+  "EXIF:MaxApertureValue": {
+    "id": 37381,
+    "table": "Exif::Main",
+    "val": 2.1
+  },
+  "EXIF:MeteringMode": {
+    "id": 37383,
+    "table": "Exif::Main",
+    "val": "Multi-segment"
+  },
+  "EXIF:LightSource": {
+    "id": 37384,
+    "table": "Exif::Main",
+    "val": "Unknown"
+  },
+  "EXIF:Flash": {
+    "id": 37385,
+    "table": "Exif::Main",
+    "val": "No flash function"
+  },
+  "EXIF:FocalLength": {
+    "id": 37386,
+    "table": "Exif::Main",
+    "val": "1.3 mm"
+  },
+  "EXIF:FlashpixVersion": {
+    "id": 40960,
+    "table": "Exif::Main",
+    "val": "0100"
+  },
+  "EXIF:ColorSpace": {
+    "id": 40961,
+    "table": "Exif::Main",
+    "val": "sRGB"
+  },
+  "EXIF:ExifImageWidth": {
+    "id": 40962,
+    "table": "Exif::Main",
+    "val": 5376
+  },
+  "EXIF:ExifImageHeight": {
+    "id": 40963,
+    "table": "Exif::Main",
+    "val": 2688
+  },
+  "EXIF:InteropIndex": {
+    "id": 1,
+    "table": "Exif::Main",
+    "val": "R98 - DCF basic file (sRGB)"
+  },
+  "EXIF:InteropVersion": {
+    "id": 2,
+    "table": "Exif::Main",
+    "val": "0100"
+  },
+  "EXIF:ExposureMode": {
+    "id": 41986,
+    "table": "Exif::Main",
+    "val": "Auto"
+  },
+  "EXIF:WhiteBalance": {
+    "id": 41987,
+    "table": "Exif::Main",
+    "val": "Manual"
+  },
+  "EXIF:SceneCaptureType": {
+    "id": 41990,
+    "table": "Exif::Main",
+    "val": "Standard"
+  },
+  "EXIF:Sharpness": {
+    "id": 41994,
+    "table": "Exif::Main",
+    "val": "Normal"
+  },
+  "EXIF:GPSVersionID": {
+    "id": 0,
+    "table": "GPS::Main",
+    "val": "2.3.0.0"
+  },
+  "EXIF:GPSLatitudeRef": {
+    "id": 1,
+    "table": "GPS::Main",
+    "val": "North"
+  },
+  "EXIF:GPSLatitude": {
+    "id": 2,
+    "table": "GPS::Main",
+    "val": 53.182050
+  },
+  "EXIF:GPSLongitudeRef": {
+    "id": 3,
+    "table": "GPS::Main",
+    "val": "West"
+  },
+  "EXIF:GPSLongitude": {
+    "id": 4,
+    "table": "GPS::Main",
+    "val": 2.861264
+  },
+  "EXIF:GPSAltitudeRef": {
+    "id": 5,
+    "table": "GPS::Main",
+    "val": "Above Sea Level"
+  },
+  "EXIF:GPSAltitude": {
+    "id": 6,
+    "table": "GPS::Main",
+    "val": "63.34 m"
+  },
+  "EXIF:GPSTimeStamp": {
+    "id": 7,
+    "table": "GPS::Main",
+    "val": "10:22:57"
+  },
+  "EXIF:GPSMapDatum": {
+    "id": 18,
+    "table": "GPS::Main",
+    "val": "WGS-84"
+  },
+  "EXIF:GPSDateStamp": {
+    "id": 29,
+    "table": "GPS::Main",
+    "val": "2020:05:11"
+  },
+  "EXIF:Compression": {
+    "id": 259,
+    "table": "Exif::Main",
+    "val": "JPEG (old-style)"
+  },
+  "EXIF:ThumbnailOffset": {
+    "id": 513,
+    "index": 0,
+    "table": "Exif::Main",
+    "val": 2460
+  },
+  "EXIF:ThumbnailLength": {
+    "id": 514,
+    "index": 0,
+    "table": "Exif::Main",
+    "val": 9492
+  },
+  "EXIF:ThumbnailImage": {
+    "id": "Exif::ThumbnailImage",
+    "table": "Composite",
+    "val": "base64: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"
+  },
+  "MakerNotes:MakerNoteType": {
+    "id": 1,
+    "table": "Ricoh::Main",
+    "val": "Rdc"
+  },
+  "MakerNotes:FirmwareVersion": {
+    "id": 2,
+    "table": "Ricoh::Main",
+    "val": 3.301
+  },
+  "MakerNotes:SerialNumber": {
+    "id": 5,
+    "index": 0,
+    "table": "Ricoh::Main",
+    "val": "(00000000)00103967"
+  },
+  "MakerNotes:RecordingFormat": {
+    "id": 4096,
+    "table": "Ricoh::Main",
+    "val": "Unknown (0)"
+  },
+  "MakerNotes:WhiteBalance": {
+    "id": 4099,
+    "index": 1,
+    "table": "Ricoh::Main",
+    "val": "Kelvin"
+  },
+  "MakerNotes:ColorTempKelvin": {
+    "id": 4871,
+    "table": "Ricoh::Main",
+    "val": 5000
+  },
+  "MakerNotes:Accelerometer": {
+    "id": 3,
+    "table": "Ricoh::ThetaSubdir",
+    "val": "0 0"
+  },
+  "MakerNotes:TimeZone": {
+    "id": 10,
+    "table": "Ricoh::ThetaSubdir",
+    "val": "+01:00"
+  },
+  "XMP:XMPToolkit": {
+    "id": "xmptk",
+    "table": "XMP::x",
+    "val": "RICOH THETA V Ver3.30.1"
+  },
+  "XMP:ProjectionType": {
+    "id": "ProjectionType",
+    "table": "XMP::GPano",
+    "val": "equirectangular"
+  },
+  "XMP:UsePanoramaViewer": {
+    "id": "UsePanoramaViewer",
+    "table": "XMP::GPano",
+    "val": true
+  },
+  "XMP:CroppedAreaImageWidthPixels": {
+    "id": "CroppedAreaImageWidthPixels",
+    "table": "XMP::GPano",
+    "val": 5376
+  },
+  "XMP:CroppedAreaImageHeightPixels": {
+    "id": "CroppedAreaImageHeightPixels",
+    "table": "XMP::GPano",
+    "val": 2688
+  },
+  "XMP:FullPanoWidthPixels": {
+    "id": "FullPanoWidthPixels",
+    "table": "XMP::GPano",
+    "val": 5376
+  },
+  "XMP:FullPanoHeightPixels": {
+    "id": "FullPanoHeightPixels",
+    "table": "XMP::GPano",
+    "val": 2688
+  },
+  "XMP:CroppedAreaLeftPixels": {
+    "id": "CroppedAreaLeftPixels",
+    "table": "XMP::GPano",
+    "val": 0
+  },
+  "XMP:CroppedAreaTopPixels": {
+    "id": "CroppedAreaTopPixels",
+    "table": "XMP::GPano",
+    "val": 0
+  },
+  "XMP:PosePitchDegrees": {
+    "id": "PosePitchDegrees",
+    "table": "XMP::GPano",
+    "val": 0.0
+  },
+  "XMP:PoseRollDegrees": {
+    "id": "PoseRollDegrees",
+    "table": "XMP::GPano",
+    "val": 0.0
+  },
+  "Composite:Aperture": {
+    "id": "Exif::Aperture",
+    "table": "Composite",
+    "val": 2.0
+  },
+  "Composite:ImageSize": {
+    "id": "Exif::ImageSize",
+    "table": "Composite",
+    "val": "5376x2688"
+  },
+  "Composite:Megapixels": {
+    "id": "Exif::Megapixels",
+    "table": "Composite",
+    "val": 14.5
+  },
+  "Composite:ShutterSpeed": {
+    "id": "Exif::ShutterSpeed",
+    "table": "Composite",
+    "val": "1/1250"
+  },
+  "Composite:GPSAltitude": {
+    "id": "GPS::GPSAltitude",
+    "table": "Composite",
+    "val": "63.3 m Above Sea Level"
+  },
+  "Composite:GPSDateTime": {
+    "id": "GPS::GPSDateTime",
+    "table": "Composite",
+    "val": "2020:05:11 10:22:57Z"
+  },
+  "Composite:GPSLatitude": {
+    "id": "GPS::GPSLatitude",
+    "table": "Composite",
+    "val": "53.182050 N"
+  },
+  "Composite:GPSLongitude": {
+    "id": "GPS::GPSLongitude",
+    "table": "Composite",
+    "val": "2.861264 W"
+  },
+  "Composite:RicohPitch": {
+    "id": "Ricoh::RicohPitch",
+    "table": "Composite",
+    "val": 0
+  },
+  "Composite:RicohRoll": {
+    "id": "Ricoh::RicohRoll",
+    "table": "Composite",
+    "val": 0
+  },
+  "Composite:BaseName": {
+    "id": "UserDefined::BaseName",
+    "table": "Composite",
+    "val": "Theta-v"
+  },
+  "Composite:FileExtension": {
+    "id": "UserDefined::FileExtension",
+    "table": "Composite",
+    "val": "JPG"
+  },
+  "Composite:FileTypeDescription": {
+    "id": "UserDefined::FileTypeDescription",
+    "table": "Composite",
+    "val": "Joint Photographic Experts Group"
+  },
+  "Composite:PhysicalImageSize": {
+    "id": "UserDefined::PhysicalImageSize",
+    "table": "Composite",
+    "val": "17.9x9.0 inches"
+  },
+  "Composite:FocalLength35efl": {
+    "id": "Exif::FocalLength35efl",
+    "table": "Composite",
+    "val": "1.3 mm"
+  },
+  "Composite:GPSPosition": {
+    "id": "Exif::GPSPosition",
+    "table": "Composite",
+    "val": "53.182050 N, 2.861264 W"
+  },
+  "Composite:LightValue": {
+    "id": "Exif::LightValue",
+    "table": "Composite",
+    "val": 12.9
+  }
+}]

@@ -2,8 +2,6 @@
 
 ## GoPro 360 Cameras
 
-GoPro offer two models of 360 cameras:
-
 1. GoPro Fusion (discontinued)
 2. GoPro MAX
 
