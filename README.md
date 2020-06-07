@@ -76,6 +76,16 @@ exiftool -ee -G3 -s -b -j -a -T VIDEO_7152.mp4 > gopro_fusion_VIDEO_7152_metadat
 * -b: Output metadata in binary format (useful because often telemetry data is binary e.g gyroscopes)
 * -j: Use JSON (JavaScript Object Notation) formatting for console output
 
+Note, for larger files you might encounter the error:
+
+```
+Warning: End of processing at large atom (LargeFileSupport not enabled)
+```
+
+I got this error when processing this 4GB video.
+
+In which case you need to enable `largefilesupport` using an [exiftool `.config` file](https://exiftool.org/config.html). [Read this topic on the exiftool forum for more information](https://exiftool.org/forum/index.php?topic=3916.0).
+
 ## Help us build better software
 
 Unfortunately we don’t have the budget to buy every single 360 camera to test the photos and videos they produce with our software.

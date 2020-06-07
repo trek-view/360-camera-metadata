@@ -1,0 +1,627 @@
+[{
+  "SourceFile": "R0014760.jpg",
+  "ExifTool:ExifToolVersion": {
+    "id": "ExifToolVersion",
+    "table": "Extra",
+    "val": 11.99
+  },
+  "ExifTool:Now": {
+    "id": "Now",
+    "table": "Extra",
+    "val": "2020:06:07 20:22:50+01:00"
+  },
+  "ExifTool:NewGUID": {
+    "id": "NewGUID",
+    "table": "Extra",
+    "val": "20200607-2022-5000-0674-315CC57BC09C"
+  },
+  "ExifTool:FileSequence": {
+    "id": "FileSequence",
+    "table": "Extra",
+    "val": 0
+  },
+  "ExifTool:Warning": {
+    "id": "Warning",
+    "table": "Extra",
+    "val": "[minor] Possibly incorrect maker notes offsets (fix by -36?)"
+  },
+  "ExifTool:ProcessingTime": {
+    "id": "ProcessingTime",
+    "table": "Extra",
+    "val": "0.0841 s"
+  },
+  "File:FileName": {
+    "id": "FileName",
+    "table": "Extra",
+    "val": "R0014760.jpg"
+  },
+  "File:Directory": {
+    "id": "Directory",
+    "table": "Extra",
+    "val": "."
+  },
+  "File:FilePath": {
+    "id": "FilePath",
+    "table": "Extra",
+    "val": "C:\\Users\\david\\Downloads\\tests-for-metadata\\R0014760.jpg"
+  },
+  "File:FileSize": {
+    "id": "FileSize",
+    "table": "Extra",
+    "val": "3.7 MB"
+  },
+  "File:FileModifyDate": {
+    "id": "FileModifyDate",
+    "table": "Extra",
+    "val": "2020:05:11 10:28:26+01:00"
+  },
+  "File:FileAccessDate": {
+    "id": "FileAccessDate",
+    "table": "Extra",
+    "val": "2020:06:07 20:22:05+01:00"
+  },
+  "File:FileCreateDate": {
+    "id": "FileCreateDate",
+    "table": "Extra",
+    "val": "2020:05:11 10:28:26+01:00"
+  },
+  "File:FilePermissions": {
+    "id": "FilePermissions",
+    "table": "Extra",
+    "val": "rw-rw-rw-"
+  },
+  "File:FileAttributes": {
+    "id": "FileAttributes",
+    "table": "Extra",
+    "val": "Regular; (none); Archive"
+  },
+  "File:FileDeviceNumber": {
+    "id": "FileDeviceNumber",
+    "table": "Extra",
+    "val": 0
+  },
+  "File:FileInodeNumber": {
+    "id": "FileInodeNumber",
+    "table": "Extra",
+    "val": 0
+  },
+  "File:FileHardLinks": {
+    "id": "FileHardLinks",
+    "table": "Extra",
+    "val": 1
+  },
+  "File:FileUserID": {
+    "id": "FileUserID",
+    "table": "Extra",
+    "val": 0
+  },
+  "File:FileGroupID": {
+    "id": "FileGroupID",
+    "table": "Extra",
+    "val": 0
+  },
+  "File:FileDeviceID": {
+    "id": "FileDeviceID",
+    "table": "Extra",
+    "val": 0.0
+  },
+  "File:FileBlockSize": {
+    "id": "FileBlockSize",
+    "table": "Extra",
+    "val": ""
+  },
+  "File:FileBlockCount": {
+    "id": "FileBlockCount",
+    "table": "Extra",
+    "val": ""
+  },
+  "File:FileType": {
+    "id": "FileType",
+    "table": "Extra",
+    "val": "JPEG"
+  },
+  "File:FileTypeExtension": {
+    "id": "FileTypeExtension",
+    "table": "Extra",
+    "val": "jpg"
+  },
+  "File:MIMEType": {
+    "id": "MIMEType",
+    "table": "Extra",
+    "val": "image/jpeg"
+  },
+  "File:ExifByteOrder": {
+    "id": "ExifByteOrder",
+    "table": "Extra",
+    "val": "Big-endian (Motorola, MM)"
+  },
+  "File:ImageWidth": {
+    "id": "ImageWidth",
+    "table": "JPEG::SOF",
+    "val": 5376
+  },
+  "File:ImageHeight": {
+    "id": "ImageHeight",
+    "table": "JPEG::SOF",
+    "val": 2688
+  },
+  "File:EncodingProcess": {
+    "id": "EncodingProcess",
+    "table": "JPEG::SOF",
+    "val": "Baseline DCT, Huffman coding"
+  },
+  "File:BitsPerSample": {
+    "id": "BitsPerSample",
+    "table": "JPEG::SOF",
+    "val": 8
+  },
+  "File:ColorComponents": {
+    "id": "ColorComponents",
+    "table": "JPEG::SOF",
+    "val": 3
+  },
+  "File:YCbCrSubSampling": {
+    "id": "YCbCrSubSampling",
+    "table": "JPEG::SOF",
+    "val": "YCbCr4:2:0 (2 2)"
+  },
+  "File:JPEGImageLength": {
+    "id": "JPEGImageLength",
+    "table": "Extra",
+    "val": 3816337
+  },
+  "File:JPEGQualityEstimate": {
+    "id": "JPEGQualityEstimate",
+    "table": "Extra",
+    "val": 93
+  },
+  "File:JPEGDigest": {
+    "id": "JPEGDigest",
+    "table": "Extra",
+    "val": "Unknown (ded9d06f8c23a6715eb79ab1ccca5310:221111)"
+  },
+  "EXIF:ImageDescription": {
+    "id": 270,
+    "table": "Exif::Main",
+    "val": "                                                               "
+  },
+  "EXIF:Make": {
+    "id": 271,
+    "table": "Exif::Main",
+    "val": "RICOH"
+  },
+  "EXIF:Model": {
+    "id": 272,
+    "table": "Exif::Main",
+    "val": "RICOH THETA V"
+  },
+  "EXIF:Orientation": {
+    "id": 274,
+    "table": "Exif::Main",
+    "val": "Horizontal (normal)"
+  },
+  "EXIF:XResolution": {
+    "id": 282,
+    "table": "Exif::Main",
+    "val": 300
+  },
+  "EXIF:YResolution": {
+    "id": 283,
+    "table": "Exif::Main",
+    "val": 300
+  },
+  "EXIF:ResolutionUnit": {
+    "id": 296,
+    "table": "Exif::Main",
+    "val": "inches"
+  },
+  "EXIF:Software": {
+    "id": 305,
+    "table": "Exif::Main",
+    "val": "RICOH THETA V Ver 3.30.1"
+  },
+  "EXIF:ModifyDate": {
+    "id": 306,
+    "table": "Exif::Main",
+    "val": "2020:05:11 11:28:25"
+  },
+  "EXIF:YCbCrPositioning": {
+    "id": 531,
+    "table": "Exif::Main",
+    "val": "Centered"
+  },
+  "EXIF:Copyright": {
+    "id": 33432,
+    "table": "Exif::Main",
+    "val": ""
+  },
+  "EXIF:ExposureTime": {
+    "id": 33434,
+    "table": "Exif::Main",
+    "val": "1/1000"
+  },
+  "EXIF:FNumber": {
+    "id": 33437,
+    "table": "Exif::Main",
+    "val": 2.0
+  },
+  "EXIF:ExposureProgram": {
+    "id": 34850,
+    "table": "Exif::Main",
+    "val": "Program AE"
+  },
+  "EXIF:ISO": {
+    "id": 34855,
+    "table": "Exif::Main",
+    "val": 64
+  },
+  "EXIF:SensitivityType": {
+    "id": 34864,
+    "table": "Exif::Main",
+    "val": "Standard Output Sensitivity"
+  },
+  "EXIF:ExifVersion": {
+    "id": 36864,
+    "table": "Exif::Main",
+    "val": "0230"
+  },
+  "EXIF:DateTimeOriginal": {
+    "id": 36867,
+    "table": "Exif::Main",
+    "val": "2020:05:11 11:28:25"
+  },
+  "EXIF:CreateDate": {
+    "id": 36868,
+    "table": "Exif::Main",
+    "val": "2020:05:11 11:28:25"
+  },
+  "EXIF:ComponentsConfiguration": {
+    "id": 37121,
+    "table": "Exif::Main",
+    "val": "Y, Cb, Cr, -"
+  },
+  "EXIF:ApertureValue": {
+    "id": 37378,
+    "table": "Exif::Main",
+    "val": 2.0
+  },
+  "EXIF:BrightnessValue": {
+    "id": 37379,
+    "table": "Exif::Main",
+    "val": 7.67
+  },
+  "EXIF:ExposureCompensation": {
+    "id": 37380,
+    "table": "Exif::Main",
+    "val": "+1/3"
+  },
+  "EXIF:MaxApertureValue": {
+    "id": 37381,
+    "table": "Exif::Main",
+    "val": 2.1
+  },
+  "EXIF:MeteringMode": {
+    "id": 37383,
+    "table": "Exif::Main",
+    "val": "Multi-segment"
+  },
+  "EXIF:LightSource": {
+    "id": 37384,
+    "table": "Exif::Main",
+    "val": "Unknown"
+  },
+  "EXIF:Flash": {
+    "id": 37385,
+    "table": "Exif::Main",
+    "val": "No flash function"
+  },
+  "EXIF:FocalLength": {
+    "id": 37386,
+    "table": "Exif::Main",
+    "val": "1.3 mm"
+  },
+  "EXIF:FlashpixVersion": {
+    "id": 40960,
+    "table": "Exif::Main",
+    "val": "0100"
+  },
+  "EXIF:ColorSpace": {
+    "id": 40961,
+    "table": "Exif::Main",
+    "val": "sRGB"
+  },
+  "EXIF:ExifImageWidth": {
+    "id": 40962,
+    "table": "Exif::Main",
+    "val": 5376
+  },
+  "EXIF:ExifImageHeight": {
+    "id": 40963,
+    "table": "Exif::Main",
+    "val": 2688
+  },
+  "EXIF:InteropIndex": {
+    "id": 1,
+    "table": "Exif::Main",
+    "val": "R98 - DCF basic file (sRGB)"
+  },
+  "EXIF:InteropVersion": {
+    "id": 2,
+    "table": "Exif::Main",
+    "val": "0100"
+  },
+  "EXIF:ExposureMode": {
+    "id": 41986,
+    "table": "Exif::Main",
+    "val": "Auto"
+  },
+  "EXIF:WhiteBalance": {
+    "id": 41987,
+    "table": "Exif::Main",
+    "val": "Manual"
+  },
+  "EXIF:SceneCaptureType": {
+    "id": 41990,
+    "table": "Exif::Main",
+    "val": "Standard"
+  },
+  "EXIF:Sharpness": {
+    "id": 41994,
+    "table": "Exif::Main",
+    "val": "Normal"
+  },
+  "EXIF:GPSVersionID": {
+    "id": 0,
+    "table": "GPS::Main",
+    "val": "2.3.0.0"
+  },
+  "EXIF:GPSLatitudeRef": {
+    "id": 1,
+    "table": "GPS::Main",
+    "val": "North"
+  },
+  "EXIF:GPSLatitude": {
+    "id": 2,
+    "table": "GPS::Main",
+    "val": 53.182050
+  },
+  "EXIF:GPSLongitudeRef": {
+    "id": 3,
+    "table": "GPS::Main",
+    "val": "West"
+  },
+  "EXIF:GPSLongitude": {
+    "id": 4,
+    "table": "GPS::Main",
+    "val": 2.861264
+  },
+  "EXIF:GPSAltitudeRef": {
+    "id": 5,
+    "table": "GPS::Main",
+    "val": "Above Sea Level"
+  },
+  "EXIF:GPSAltitude": {
+    "id": 6,
+    "table": "GPS::Main",
+    "val": "63.34 m"
+  },
+  "EXIF:GPSTimeStamp": {
+    "id": 7,
+    "table": "GPS::Main",
+    "val": "10:22:57"
+  },
+  "EXIF:GPSMapDatum": {
+    "id": 18,
+    "table": "GPS::Main",
+    "val": "WGS-84"
+  },
+  "EXIF:GPSDateStamp": {
+    "id": 29,
+    "table": "GPS::Main",
+    "val": "2020:05:11"
+  },
+  "EXIF:Compression": {
+    "id": 259,
+    "table": "Exif::Main",
+    "val": "JPEG (old-style)"
+  },
+  "EXIF:ThumbnailOffset": {
+    "id": 513,
+    "index": 0,
+    "table": "Exif::Main",
+    "val": 2460
+  },
+  "EXIF:ThumbnailLength": {
+    "id": 514,
+    "index": 0,
+    "table": "Exif::Main",
+    "val": 10032
+  },
+  "EXIF:ThumbnailImage": {
+    "id": "Exif::ThumbnailImage",
+    "table": "Composite",
+    "val": "base64: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"
+  },
+  "MakerNotes:MakerNoteType": {
+    "id": 1,
+    "table": "Ricoh::Main",
+    "val": "Rdc"
+  },
+  "MakerNotes:FirmwareVersion": {
+    "id": 2,
+    "table": "Ricoh::Main",
+    "val": 3.301
+  },
+  "MakerNotes:SerialNumber": {
+    "id": 5,
+    "index": 0,
+    "table": "Ricoh::Main",
+    "val": "(00000000)00103967"
+  },
+  "MakerNotes:RecordingFormat": {
+    "id": 4096,
+    "table": "Ricoh::Main",
+    "val": "Unknown (0)"
+  },
+  "MakerNotes:WhiteBalance": {
+    "id": 4099,
+    "index": 1,
+    "table": "Ricoh::Main",
+    "val": "Kelvin"
+  },
+  "MakerNotes:ColorTempKelvin": {
+    "id": 4871,
+    "table": "Ricoh::Main",
+    "val": 5000
+  },
+  "MakerNotes:Accelerometer": {
+    "id": 3,
+    "table": "Ricoh::ThetaSubdir",
+    "val": "0 0"
+  },
+  "MakerNotes:TimeZone": {
+    "id": 10,
+    "table": "Ricoh::ThetaSubdir",
+    "val": "+01:00"
+  },
+  "XMP:XMPToolkit": {
+    "id": "xmptk",
+    "table": "XMP::x",
+    "val": "RICOH THETA V Ver3.30.1"
+  },
+  "XMP:ProjectionType": {
+    "id": "ProjectionType",
+    "table": "XMP::GPano",
+    "val": "equirectangular"
+  },
+  "XMP:UsePanoramaViewer": {
+    "id": "UsePanoramaViewer",
+    "table": "XMP::GPano",
+    "val": true
+  },
+  "XMP:CroppedAreaImageWidthPixels": {
+    "id": "CroppedAreaImageWidthPixels",
+    "table": "XMP::GPano",
+    "val": 5376
+  },
+  "XMP:CroppedAreaImageHeightPixels": {
+    "id": "CroppedAreaImageHeightPixels",
+    "table": "XMP::GPano",
+    "val": 2688
+  },
+  "XMP:FullPanoWidthPixels": {
+    "id": "FullPanoWidthPixels",
+    "table": "XMP::GPano",
+    "val": 5376
+  },
+  "XMP:FullPanoHeightPixels": {
+    "id": "FullPanoHeightPixels",
+    "table": "XMP::GPano",
+    "val": 2688
+  },
+  "XMP:CroppedAreaLeftPixels": {
+    "id": "CroppedAreaLeftPixels",
+    "table": "XMP::GPano",
+    "val": 0
+  },
+  "XMP:CroppedAreaTopPixels": {
+    "id": "CroppedAreaTopPixels",
+    "table": "XMP::GPano",
+    "val": 0
+  },
+  "XMP:PosePitchDegrees": {
+    "id": "PosePitchDegrees",
+    "table": "XMP::GPano",
+    "val": 0.0
+  },
+  "XMP:PoseRollDegrees": {
+    "id": "PoseRollDegrees",
+    "table": "XMP::GPano",
+    "val": 0.0
+  },
+  "Composite:Aperture": {
+    "id": "Exif::Aperture",
+    "table": "Composite",
+    "val": 2.0
+  },
+  "Composite:ImageSize": {
+    "id": "Exif::ImageSize",
+    "table": "Composite",
+    "val": "5376x2688"
+  },
+  "Composite:Megapixels": {
+    "id": "Exif::Megapixels",
+    "table": "Composite",
+    "val": 14.5
+  },
+  "Composite:ShutterSpeed": {
+    "id": "Exif::ShutterSpeed",
+    "table": "Composite",
+    "val": "1/1000"
+  },
+  "Composite:GPSAltitude": {
+    "id": "GPS::GPSAltitude",
+    "table": "Composite",
+    "val": "63.3 m Above Sea Level"
+  },
+  "Composite:GPSDateTime": {
+    "id": "GPS::GPSDateTime",
+    "table": "Composite",
+    "val": "2020:05:11 10:22:57Z"
+  },
+  "Composite:GPSLatitude": {
+    "id": "GPS::GPSLatitude",
+    "table": "Composite",
+    "val": "53.182050 N"
+  },
+  "Composite:GPSLongitude": {
+    "id": "GPS::GPSLongitude",
+    "table": "Composite",
+    "val": "2.861264 W"
+  },
+  "Composite:RicohPitch": {
+    "id": "Ricoh::RicohPitch",
+    "table": "Composite",
+    "val": 0
+  },
+  "Composite:RicohRoll": {
+    "id": "Ricoh::RicohRoll",
+    "table": "Composite",
+    "val": 0
+  },
+  "Composite:BaseName": {
+    "id": "UserDefined::BaseName",
+    "table": "Composite",
+    "val": "R0014760"
+  },
+  "Composite:FileExtension": {
+    "id": "UserDefined::FileExtension",
+    "table": "Composite",
+    "val": "jpg"
+  },
+  "Composite:FileTypeDescription": {
+    "id": "UserDefined::FileTypeDescription",
+    "table": "Composite",
+    "val": "Joint Photographic Experts Group"
+  },
+  "Composite:PhysicalImageSize": {
+    "id": "UserDefined::PhysicalImageSize",
+    "table": "Composite",
+    "val": "17.9x9.0 inches"
+  },
+  "Composite:FocalLength35efl": {
+    "id": "Exif::FocalLength35efl",
+    "table": "Composite",
+    "val": "1.3 mm"
+  },
+  "Composite:GPSPosition": {
+    "id": "Exif::GPSPosition",
+    "table": "Composite",
+    "val": "53.182050 N, 2.861264 W"
+  },
+  "Composite:LightValue": {
+    "id": "Exif::LightValue",
+    "table": "Composite",
+    "val": 12.6
+  }
+}]
