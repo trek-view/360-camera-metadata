@@ -21,11 +21,9 @@ This repository contains our research to aid others building similar tools.
 	- Theta V
 	- Theta Z1
 * [Labpano](/labpano/README.md)
-	- Pilot One
 	- Pilot Era
 * [Insta360](/insta360/README.md)
 	- Pro2
-	- One X
 * [Manufacturer (example structure)](/maufacturer/README.md)
 	- Model
 	- Model
@@ -53,6 +51,8 @@ We are seeking geotagged files from the following cameras:
 	- Qoocam 8k
 * XPhase
 	- Pro S
+* Samsung
+	- Gear360
 
 ### Videos
 
@@ -66,8 +66,8 @@ We are seeking geotagged files from the following cameras:
 * Kandao
 	- Qoocam
 	- Qoocam 8k
-* XPhase
-	- Pro S
+* Samsung
+	- Gear360
 
 ## Extracting metadata from images
 
