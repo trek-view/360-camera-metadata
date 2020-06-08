@@ -20,6 +20,11 @@ This repository contains our research to aid others building similar tools.
 * [Ricoh](/ricoh/README.md)
 	- Theta V
 	- Theta Z1
+* [Labpano](/labpano/README.md)
+	- Pilot One
+	- Pilot Era
+* [Insta360](/insta360/README.md)
+	- Pro2
 * [Manufacturer (example structure)](/maufacturer/README.md)
 	- Model
 	- Model
