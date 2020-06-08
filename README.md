@@ -25,6 +25,7 @@ This repository contains our research to aid others building similar tools.
 	- Pilot Era
 * [Insta360](/insta360/README.md)
 	- Pro2
+	- One X
 * [Manufacturer (example structure)](/maufacturer/README.md)
 	- Model
 	- Model
@@ -32,6 +33,25 @@ This repository contains our research to aid others building similar tools.
 ## Accessing sample files
 
 All sample files used to extract metadata are offered free of charge for the benefit of other developers. You will find links to download under each cameras README.md file.
+
+## Data wanted
+
+We are seeking geotagged files from the following cameras:
+
+### Timelapses
+
+* Insta360
+	- Pro2
+	- One X
+* Labpano
+	- Pilot One
+
+### Videos
+
+* Labpano
+	- Pilot One
+* Insta360
+	- One X
 
 ## Extracting metadata from images
 

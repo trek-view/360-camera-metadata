@@ -17,8 +17,7 @@ Any relevant docs, blogs, manuals...
 
 | id  | data_added  | manufacturer  | model  | type  | is_geotagged_by_cam  | sample_file  |
 |---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
+| is01  | 2020-06-08  | insta360  | pro2  | video  | true  | [LINK](https://drive.google.com/file/d/136CruQHa0Pg74QiREM4k52nbR1FCsVjU/view?usp=sharing)  |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 
@@ -26,22 +25,16 @@ _Note: camera firmware update might alter the metadata produced by the camera. T
 
 ### Note on how data was extracted
 
-#### VIDEO
+#### is01
 
 **Video level data**
 
 ```
-exiftool -ee -G -s -b -j -a -T VIDEO.mp4 > MANUFACTURER_MAKE_VIDEO_metadata_overview.json
+exiftool -ee -G -s -b -j -a -T insta-pro2-002.mp4 > insta360_pro2_insta-pro2-002_metadata_overview.json
 ```
 
 **Track level data (more verbose -- includes telemetry)**
 
 ```
-exiftool -ee -G3 -s -b -j -a -T VIDEO.mp4 > MANUFACTURER_MAKE_VIDEO_metadata_track.json
-```
-
-#### IMAGE
-
-```
-exiftool -G -s -b -j -a -T IMAGE.jpg > MANUFACTURER_MAKE_IMAGE_timelapse_metadata.json
+exiftool -ee -G3 -s -b -j -a -T insta-pro2-002.mp4 > insta360_pro2_insta-pro2-002_metadata_track.json
 ```
