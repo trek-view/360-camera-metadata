@@ -1,0 +1,539 @@
+[{
+  "SourceFile": "200207_085206318.mp4",
+  "ExifTool:ExifToolVersion": {
+    "id": "ExifToolVersion",
+    "table": "Extra",
+    "val": 11.99
+  },
+  "ExifTool:Now": {
+    "id": "Now",
+    "table": "Extra",
+    "val": "2020:06:08 08:21:39+01:00"
+  },
+  "ExifTool:NewGUID": {
+    "id": "NewGUID",
+    "table": "Extra",
+    "val": "20200608-0821-3900-5754-4CC71362158C"
+  },
+  "ExifTool:FileSequence": {
+    "id": "FileSequence",
+    "table": "Extra",
+    "val": 0
+  },
+  "ExifTool:ProcessingTime": {
+    "id": "ProcessingTime",
+    "table": "Extra",
+    "val": "0.696 s"
+  },
+  "File:FileName": {
+    "id": "FileName",
+    "table": "Extra",
+    "val": "200207_085206318.mp4"
+  },
+  "File:Directory": {
+    "id": "Directory",
+    "table": "Extra",
+    "val": "."
+  },
+  "File:FilePath": {
+    "id": "FilePath",
+    "table": "Extra",
+    "val": "C:\\Users\\david\\Downloads\\tests-for-metadata\\200207_085206318.mp4"
+  },
+  "File:FileSize": {
+    "id": "FileSize",
+    "table": "Extra",
+    "val": "2.5 GB"
+  },
+  "File:FileModifyDate": {
+    "id": "FileModifyDate",
+    "table": "Extra",
+    "val": "2020:02:07 07:55:32+00:00"
+  },
+  "File:FileAccessDate": {
+    "id": "FileAccessDate",
+    "table": "Extra",
+    "val": "2020:06:08 08:18:17+01:00"
+  },
+  "File:FileCreateDate": {
+    "id": "FileCreateDate",
+    "table": "Extra",
+    "val": "2020:06:08 08:18:11+01:00"
+  },
+  "File:FilePermissions": {
+    "id": "FilePermissions",
+    "table": "Extra",
+    "val": "rw-rw-rw-"
+  },
+  "File:FileAttributes": {
+    "id": "FileAttributes",
+    "table": "Extra",
+    "val": "Regular; (none); Archive"
+  },
+  "File:FileDeviceNumber": {
+    "id": "FileDeviceNumber",
+    "table": "Extra",
+    "val": 0
+  },
+  "File:FileInodeNumber": {
+    "id": "FileInodeNumber",
+    "table": "Extra",
+    "val": 0
+  },
+  "File:FileHardLinks": {
+    "id": "FileHardLinks",
+    "table": "Extra",
+    "val": 1
+  },
+  "File:FileUserID": {
+    "id": "FileUserID",
+    "table": "Extra",
+    "val": 0
+  },
+  "File:FileGroupID": {
+    "id": "FileGroupID",
+    "table": "Extra",
+    "val": 0
+  },
+  "File:FileDeviceID": {
+    "id": "FileDeviceID",
+    "table": "Extra",
+    "val": 0.0
+  },
+  "File:FileBlockSize": {
+    "id": "FileBlockSize",
+    "table": "Extra",
+    "val": ""
+  },
+  "File:FileBlockCount": {
+    "id": "FileBlockCount",
+    "table": "Extra",
+    "val": ""
+  },
+  "File:FileType": {
+    "id": "FileType",
+    "table": "Extra",
+    "val": "MP4"
+  },
+  "File:FileTypeExtension": {
+    "id": "FileTypeExtension",
+    "table": "Extra",
+    "val": "mp4"
+  },
+  "File:MIMEType": {
+    "id": "MIMEType",
+    "table": "Extra",
+    "val": "video/mp4"
+  },
+  "QuickTime:MajorBrand": {
+    "id": 0,
+    "table": "QuickTime::FileType",
+    "val": "MP4 v2 [ISO 14496-14]"
+  },
+  "QuickTime:MinorVersion": {
+    "id": 1,
+    "table": "QuickTime::FileType",
+    "val": "0.0.0"
+  },
+  "QuickTime:CompatibleBrands": {
+    "id": 2,
+    "table": "QuickTime::FileType",
+    "val": ["isom","mp42"]
+  },
+  "QuickTime:MediaDataSize": {
+    "id": "mdat-size",
+    "table": "QuickTime::Main",
+    "val": 2638280764
+  },
+  "QuickTime:MediaDataOffset": {
+    "id": "mdat-offset",
+    "table": "QuickTime::Main",
+    "val": 40
+  },
+  "QuickTime:MovieHeaderVersion": {
+    "id": 0,
+    "table": "QuickTime::MovieHeader",
+    "val": 0
+  },
+  "QuickTime:CreateDate": {
+    "id": 1,
+    "table": "QuickTime::MovieHeader",
+    "val": "2020:02:07 08:55:32"
+  },
+  "QuickTime:ModifyDate": {
+    "id": 2,
+    "table": "QuickTime::MovieHeader",
+    "val": "2020:02:07 08:55:32"
+  },
+  "QuickTime:TimeScale": {
+    "id": 3,
+    "table": "QuickTime::MovieHeader",
+    "val": 1000
+  },
+  "QuickTime:Duration": {
+    "id": 4,
+    "table": "QuickTime::MovieHeader",
+    "val": "0:03:24"
+  },
+  "QuickTime:PreferredRate": {
+    "id": 5,
+    "table": "QuickTime::MovieHeader",
+    "val": 1
+  },
+  "QuickTime:PreferredVolume": {
+    "id": 6,
+    "table": "QuickTime::MovieHeader",
+    "val": "100.00%"
+  },
+  "QuickTime:PreviewTime": {
+    "id": 18,
+    "table": "QuickTime::MovieHeader",
+    "val": "0 s"
+  },
+  "QuickTime:PreviewDuration": {
+    "id": 19,
+    "table": "QuickTime::MovieHeader",
+    "val": "0 s"
+  },
+  "QuickTime:PosterTime": {
+    "id": 20,
+    "table": "QuickTime::MovieHeader",
+    "val": "0 s"
+  },
+  "QuickTime:SelectionTime": {
+    "id": 21,
+    "table": "QuickTime::MovieHeader",
+    "val": "0 s"
+  },
+  "QuickTime:SelectionDuration": {
+    "id": 22,
+    "table": "QuickTime::MovieHeader",
+    "val": "0 s"
+  },
+  "QuickTime:CurrentTime": {
+    "id": 23,
+    "table": "QuickTime::MovieHeader",
+    "val": "0 s"
+  },
+  "QuickTime:NextTrackID": {
+    "id": 24,
+    "table": "QuickTime::MovieHeader",
+    "val": 3
+  },
+  "QuickTime:AndroidVersion": {
+    "id": 1.1,
+    "table": "QuickTime::ItemList",
+    "val": 7.0
+  },
+  "QuickTime:TrackHeaderVersion": {
+    "id": 0,
+    "table": "QuickTime::TrackHeader",
+    "val": 0
+  },
+  "QuickTime:TrackCreateDate": {
+    "id": 1,
+    "table": "QuickTime::TrackHeader",
+    "val": "2020:02:07 08:55:32"
+  },
+  "QuickTime:TrackModifyDate": {
+    "id": 2,
+    "table": "QuickTime::TrackHeader",
+    "val": "2020:02:07 08:55:32"
+  },
+  "QuickTime:TrackID": {
+    "id": 3,
+    "table": "QuickTime::TrackHeader",
+    "val": 1
+  },
+  "QuickTime:TrackDuration": {
+    "id": 5,
+    "table": "QuickTime::TrackHeader",
+    "val": "0:03:24"
+  },
+  "QuickTime:TrackLayer": {
+    "id": 8,
+    "table": "QuickTime::TrackHeader",
+    "val": 0
+  },
+  "QuickTime:TrackVolume": {
+    "id": 9,
+    "table": "QuickTime::TrackHeader",
+    "val": "0.00%"
+  },
+  "QuickTime:MetaFormat": {
+    "id": 4,
+    "table": "QuickTime::MetaSampleDesc",
+    "val": "camm"
+  },
+  "QuickTime:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "QuickTime:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "QuickTime:GPSDateTime": {
+    "id": 4,
+    "table": "QuickTime::camm6",
+    "val": "1970:01:01 00:00:00.615042Z"
+  },
+  "QuickTime:GPSMeasureMode": {
+    "id": 12,
+    "table": "QuickTime::camm6",
+    "val": "3-Dimensional Measurement"
+  },
+  "QuickTime:GPSLatitude": {
+    "id": 16,
+    "table": "QuickTime::camm6",
+    "val": "53.193099 N"
+  },
+  "QuickTime:GPSLongitude": {
+    "id": 24,
+    "table": "QuickTime::camm6",
+    "val": "2.964498 W"
+  },
+  "QuickTime:GPSAltitude": {
+    "id": 32,
+    "table": "QuickTime::camm6",
+    "val": "3.1 m"
+  },
+  "QuickTime:GPSHorizontalAccuracy": {
+    "id": 36,
+    "table": "QuickTime::camm6",
+    "val": 1.22000002861023
+  },
+  "QuickTime:GPSVerticalAccuracy": {
+    "id": 40,
+    "table": "QuickTime::camm6",
+    "val": 1.22000002861023
+  },
+  "QuickTime:GPSVelocityEast": {
+    "id": 44,
+    "table": "QuickTime::camm6",
+    "val": 0
+  },
+  "QuickTime:GPSVelocityNorth": {
+    "id": 48,
+    "table": "QuickTime::camm6",
+    "val": 0.487178891897202
+  },
+  "QuickTime:GPSVelocityUp": {
+    "id": 52,
+    "table": "QuickTime::camm6",
+    "val": 0
+  },
+  "QuickTime:GPSSpeedAccuracy": {
+    "id": 56,
+    "table": "QuickTime::camm6",
+    "val": 0
+  },
+  "QuickTime:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-3.63671875 8.453125 -4.08203125"
+  },
+  "QuickTime:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.013671875 -0.0078125 -0.302734375"
+  },
+  "QuickTime:MatrixStructure": {
+    "id": 10,
+    "table": "QuickTime::TrackHeader",
+    "val": "1 0 0 0 1 0 0 0 1"
+  },
+  "QuickTime:ImageWidth": {
+    "id": 19,
+    "table": "QuickTime::TrackHeader",
+    "val": 7680
+  },
+  "QuickTime:ImageHeight": {
+    "id": 20,
+    "table": "QuickTime::TrackHeader",
+    "val": 3840
+  },
+  "QuickTime:MediaHeaderVersion": {
+    "id": 0,
+    "table": "QuickTime::MediaHeader",
+    "val": 0
+  },
+  "QuickTime:MediaCreateDate": {
+    "id": 1,
+    "table": "QuickTime::MediaHeader",
+    "val": "2020:02:07 08:55:32"
+  },
+  "QuickTime:MediaModifyDate": {
+    "id": 2,
+    "table": "QuickTime::MediaHeader",
+    "val": "2020:02:07 08:55:32"
+  },
+  "QuickTime:MediaTimeScale": {
+    "id": 3,
+    "table": "QuickTime::MediaHeader",
+    "val": 90000
+  },
+  "QuickTime:MediaDuration": {
+    "id": 4,
+    "table": "QuickTime::MediaHeader",
+    "val": "0:03:24"
+  },
+  "QuickTime:HandlerType": {
+    "id": 8,
+    "table": "QuickTime::Handler",
+    "val": "Video Track"
+  },
+  "QuickTime:HandlerDescription": {
+    "id": 24,
+    "table": "QuickTime::Handler",
+    "val": "VideoHandle"
+  },
+  "QuickTime:GraphicsMode": {
+    "id": 2,
+    "table": "QuickTime::VideoHeader",
+    "val": "srcCopy"
+  },
+  "QuickTime:OpColor": {
+    "id": 3,
+    "table": "QuickTime::VideoHeader",
+    "val": "0 0 0"
+  },
+  "QuickTime:CompressorID": {
+    "id": 2,
+    "table": "QuickTime::ImageDesc",
+    "val": "avc1"
+  },
+  "QuickTime:SourceImageWidth": {
+    "id": 16,
+    "table": "QuickTime::ImageDesc",
+    "val": 7680
+  },
+  "QuickTime:SourceImageHeight": {
+    "id": 17,
+    "table": "QuickTime::ImageDesc",
+    "val": 3840
+  },
+  "QuickTime:XResolution": {
+    "id": 18,
+    "table": "QuickTime::ImageDesc",
+    "val": 72
+  },
+  "QuickTime:YResolution": {
+    "id": 20,
+    "table": "QuickTime::ImageDesc",
+    "val": 72
+  },
+  "QuickTime:BitDepth": {
+    "id": 41,
+    "table": "QuickTime::ImageDesc",
+    "val": 24
+  },
+  "QuickTime:PixelAspectRatio": {
+    "id": "pasp",
+    "table": "QuickTime::ImageDesc",
+    "val": "65536:65536"
+  },
+  "QuickTime:ColorRepresentation": {
+    "id": "colr",
+    "table": "QuickTime::ImageDesc",
+    "val": "nclx 9 1 9"
+  },
+  "QuickTime:VideoFrameRate": {
+    "id": "stts",
+    "index": 0,
+    "table": "QuickTime::SampleTable",
+    "val": 7
+  },
+  "QuickTime:Make": {
+    "id": "base64:qW1haw==",
+    "table": "QuickTime::UserData",
+    "val": "Pisofttech"
+  },
+  "QuickTime:Model": {
+    "id": "base64:qW1vZA==",
+    "table": "QuickTime::UserData",
+    "val": "Pilot Era"
+  },
+  "QuickTime:FirmwareVersion": {
+    "id": "FIRM",
+    "table": "QuickTime::UserData",
+    "val": "4.14.1"
+  },
+  "XMP:Spherical": {
+    "id": "Spherical",
+    "table": "XMP::GSpherical",
+    "val": true
+  },
+  "XMP:Stitched": {
+    "id": "Stitched",
+    "table": "XMP::GSpherical",
+    "val": true
+  },
+  "XMP:StitchingSoftware": {
+    "id": "StitchingSoftware",
+    "table": "XMP::GSpherical",
+    "val": "PilotCamera"
+  },
+  "XMP:ProjectionType": {
+    "id": "ProjectionType",
+    "table": "XMP::GSpherical",
+    "val": "equirectangular"
+  },
+  "XMP:PiStitchParam": {
+    "id": "PiStitchParam",
+    "table": "XMP::GSpherical",
+    "val": "PE0002e000008260A42C430CCA4D6CC2487F41D903FB2EB348DD0CDD75F7EE04B4E1EED917BD70471577016BFCB8A61541EC0B41DCC08D3CFFAD10B885333477A2A12575C455AD218F2E6E77A02535A208212531B99E31CE48BF00024E7B7C758C47362B1FC0B193F946AB9787125DA45F31655782946B02D2311FEA116412B3B8BE1C1A1DC0835DD54B4D2413457C5B2260728A82A8EFBABDA5549EE7D9A3F98FE7FE2A16CC253494A3ABABA2102CB31F3BFAA5FC341EBAA51457D075DD520DB6270F66E473D2866866E9F1DDEE5B7BCC7122FA5B5C16023D00008036971E7C5A623E4368B02385DEE40FFA2DCCF17E9FF19733AF006C965C0AE549BB1794683FEB67FE986DB1AF192BAFE294ABF783037E09AA6930E984ACA86BFD6966F96152BF0AFA9D6E4606DA3687105EF2361DEC72005E753062060C26A5E48914F5344665E96F3836774546A22E882C6515A8FFDB49EA9EAC30A7A8D1F3FB4AB4E70453A06D5619582B97B3A3A2A7B3B68B0B431E68C0A7056B7F"
+  },
+  "XMP:PiDeviceSN": {
+    "id": "PiDeviceSN",
+    "table": "XMP::GSpherical",
+    "val": "P100514806"
+  },
+  "XMP:PiStitchDistance": {
+    "id": "PiStitchDistance",
+    "table": "XMP::GSpherical",
+    "val": 1.350000
+  },
+  "Composite:ImageSize": {
+    "id": "Exif::ImageSize",
+    "table": "Composite",
+    "val": "7680x3840"
+  },
+  "Composite:Megapixels": {
+    "id": "Exif::Megapixels",
+    "table": "Composite",
+    "val": 29.5
+  },
+  "Composite:AvgBitrate": {
+    "id": "QuickTime::AvgBitrate",
+    "table": "Composite",
+    "val": "103 Mbps"
+  },
+  "Composite:Rotation": {
+    "id": "QuickTime::Rotation",
+    "table": "Composite",
+    "val": 0
+  },
+  "Composite:BaseName": {
+    "id": "UserDefined::BaseName",
+    "table": "Composite",
+    "val": "200207_085206318"
+  },
+  "Composite:FileExtension": {
+    "id": "UserDefined::FileExtension",
+    "table": "Composite",
+    "val": "mp4"
+  },
+  "Composite:FileTypeDescription": {
+    "id": "UserDefined::FileTypeDescription",
+    "table": "Composite",
+    "val": "MPEG-4 video"
+  },
+  "Composite:GPSPosition": {
+    "id": "Exif::GPSPosition",
+    "table": "Composite",
+    "val": "53.193099 N, 2.964498 W"
+  }
+}]
