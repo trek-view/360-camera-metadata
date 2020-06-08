@@ -43,8 +43,16 @@ We are seeking geotagged files from the following cameras:
 * Insta360
 	- Pro2
 	- One X
+	- Titan
 * Labpano
 	- Pilot One
+* Garmin
+	- VIRB360
+* Kandao
+	- Qoocam
+	- Qoocam 8k
+* XPhase
+	- Pro S
 
 ### Videos
 
@@ -52,6 +60,14 @@ We are seeking geotagged files from the following cameras:
 	- Pilot One
 * Insta360
 	- One X
+	- Titan
+* Garmin
+	- VIRB360
+* Kandao
+	- Qoocam
+	- Qoocam 8k
+* XPhase
+	- Pro S
 
 ## Extracting metadata from images
 
