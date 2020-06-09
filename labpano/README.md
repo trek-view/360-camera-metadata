@@ -2,25 +2,16 @@
 
 ## Labpano Pilot 360 Cameras
 
-1. Labpano Pilot One
-2. Labpano Pilot Era
-3. Labpano Pilot Lock
-
-### Photo metadata
-
-Any relevant docs, blogs, manuals...
-
-### Video metadata research
-
-Any relevant docs, blogs, manuals...
-
+1. [Labpano Pilot One](https://www.labpano.com/one)
+2. [Labpano Pilot Era](https://pilot.labpano.com/)
+3. [Labpano Pilot Lock](https://www.labpano.com/lock)
 
 ### Metadata DB
 
 | id  | data_added  | manufacturer  | model  | type  | is_geotagged_by_cam  | sample_file  |
 |---|---|---|---|---|---|---|
-| pi01  | 2020-06-8  | Labpano  | Pilot One  | Video  | true  | [LINK]()    |
-| pi02  | 2020-06-8  | Labpano  | Pilot One  | Timelapse  | true  | [LINK]()    |
+| lp01  | 2020-06-8  | Labpano  | Pilot Era  | Video  | true (camm6) | [LINK](https://drive.google.com/open?id=11XH0EfdKn_IlrJFCeXD0Qe4ACRiKtKLR)    |
+| lp02  | 2020-06-8  | Labpano  | Pilot Era  | Timelapse  | true  | [LINK](https://drive.google.com/file/d/14reAVDK9f_ktRPinHrJelHGnNvFIyBh-/view?usp=sharing)    |
 |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |
 
@@ -28,7 +19,7 @@ _Note: camera firmware update might alter the metadata produced by the camera. T
 
 ### Note on how data was extracted
 
-#### pi01
+#### lp01
 
 **Video level data**
 
@@ -42,7 +33,7 @@ exiftool -ee -G -s -b -j -a -T 200207_085206318.mp4 > labpano_pilot_era_200207_0
 exiftool -ee -G3 -s -b -j -a -T 200207_085206318.mp4 > labpano_pilot_era_200207_085206318_metadata_track.json
 ```
 
-#### pi02
+#### lp02
 
 ```
 exiftool -G -s -b -j -a -T 200207_094350655.jpg > labpano_pilot_era_200207_094350655_timelapse_metadata.json

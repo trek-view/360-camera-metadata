@@ -2,13 +2,8 @@
 
 ## Ricoh 360 Cameras
 
-1. Theta V
-
-### Photo metadata
-
-
-### Video metadata research
-
+1. [Theta V](https://theta360.com/en/about/theta/v.html)
+2. [Theta Z1](https://theta360.com/en/about/theta/z1.html)
 
 ### Metadata DB
 

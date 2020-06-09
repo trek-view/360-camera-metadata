@@ -1,17 +1,13 @@
-# MANUFACTURER Metadata
+# Insta360 Metadata
 
-## MANUFACTURER 360 Cameras
+## Insta360 360 Cameras
 
-A note on 360 cameras from the manufacturer.
-
-### Photo metadata
-
-Any relevant docs, blogs, manuals...
-
-### Video metadata research
-
-Any relevant docs, blogs, manuals...
-
+1. [ONE](https://www.insta360.com/product/insta360-one/)
+2. [ONE X](https://www.insta360.com/product/insta360-onex/)
+3. [ONE R](https://www.insta360.com/product/insta360-oner_1inch-edition)
+4. [Pro](https://www.insta360.com/product/insta360-pro/)
+5. [Pro2](https://www.insta360.com/product/insta360-pro2/)
+6. [Titan](https://www.insta360.com/product/insta360-titan/)
 
 ### Metadata DB
 

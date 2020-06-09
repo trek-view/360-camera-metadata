@@ -1,0 +1,568 @@
+[{
+  "SourceFile": "AEML5317.JPG",
+  "ExifTool:ExifToolVersion": {
+    "id": "ExifToolVersion",
+    "table": "Extra",
+    "val": 11.99
+  },
+  "ExifTool:Now": {
+    "id": "Now",
+    "table": "Extra",
+    "val": "2020:06:09 08:52:45+01:00"
+  },
+  "ExifTool:NewGUID": {
+    "id": "NewGUID",
+    "table": "Extra",
+    "val": "20200609-0852-4500-4A9C-C86F487E3B37"
+  },
+  "ExifTool:FileSequence": {
+    "id": "FileSequence",
+    "table": "Extra",
+    "val": 0
+  },
+  "ExifTool:ProcessingTime": {
+    "id": "ProcessingTime",
+    "table": "Extra",
+    "val": "0.176 s"
+  },
+  "File:FileName": {
+    "id": "FileName",
+    "table": "Extra",
+    "val": "AEML5317.JPG"
+  },
+  "File:Directory": {
+    "id": "Directory",
+    "table": "Extra",
+    "val": "."
+  },
+  "File:FilePath": {
+    "id": "FilePath",
+    "table": "Extra",
+    "val": "C:\\Users\\david\\Downloads\\tests-for-metadata\\AEML5317.JPG"
+  },
+  "File:FileSize": {
+    "id": "FileSize",
+    "table": "Extra",
+    "val": "6.0 MB"
+  },
+  "File:FileModifyDate": {
+    "id": "FileModifyDate",
+    "table": "Extra",
+    "val": "2019:08:06 10:31:16+01:00"
+  },
+  "File:FileAccessDate": {
+    "id": "FileAccessDate",
+    "table": "Extra",
+    "val": "2020:06:09 08:46:04+01:00"
+  },
+  "File:FileCreateDate": {
+    "id": "FileCreateDate",
+    "table": "Extra",
+    "val": "2020:06:09 08:46:04+01:00"
+  },
+  "File:FilePermissions": {
+    "id": "FilePermissions",
+    "table": "Extra",
+    "val": "rw-rw-rw-"
+  },
+  "File:FileAttributes": {
+    "id": "FileAttributes",
+    "table": "Extra",
+    "val": "Regular; (none); Archive"
+  },
+  "File:FileDeviceNumber": {
+    "id": "FileDeviceNumber",
+    "table": "Extra",
+    "val": 0
+  },
+  "File:FileInodeNumber": {
+    "id": "FileInodeNumber",
+    "table": "Extra",
+    "val": 0
+  },
+  "File:FileHardLinks": {
+    "id": "FileHardLinks",
+    "table": "Extra",
+    "val": 1
+  },
+  "File:FileUserID": {
+    "id": "FileUserID",
+    "table": "Extra",
+    "val": 0
+  },
+  "File:FileGroupID": {
+    "id": "FileGroupID",
+    "table": "Extra",
+    "val": 0
+  },
+  "File:FileDeviceID": {
+    "id": "FileDeviceID",
+    "table": "Extra",
+    "val": 0.0
+  },
+  "File:FileBlockSize": {
+    "id": "FileBlockSize",
+    "table": "Extra",
+    "val": ""
+  },
+  "File:FileBlockCount": {
+    "id": "FileBlockCount",
+    "table": "Extra",
+    "val": ""
+  },
+  "File:FileType": {
+    "id": "FileType",
+    "table": "Extra",
+    "val": "JPEG"
+  },
+  "File:FileTypeExtension": {
+    "id": "FileTypeExtension",
+    "table": "Extra",
+    "val": "jpg"
+  },
+  "File:MIMEType": {
+    "id": "MIMEType",
+    "table": "Extra",
+    "val": "image/jpeg"
+  },
+  "File:ExifByteOrder": {
+    "id": "ExifByteOrder",
+    "table": "Extra",
+    "val": "Big-endian (Motorola, MM)"
+  },
+  "File:CurrentIPTCDigest": {
+    "id": "CurrentIPTCDigest",
+    "table": "Extra",
+    "val": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "File:ImageWidth": {
+    "id": "ImageWidth",
+    "table": "JPEG::SOF",
+    "val": 7200
+  },
+  "File:ImageHeight": {
+    "id": "ImageHeight",
+    "table": "JPEG::SOF",
+    "val": 3600
+  },
+  "File:EncodingProcess": {
+    "id": "EncodingProcess",
+    "table": "JPEG::SOF",
+    "val": "Baseline DCT, Huffman coding"
+  },
+  "File:BitsPerSample": {
+    "id": "BitsPerSample",
+    "table": "JPEG::SOF",
+    "val": 8
+  },
+  "File:ColorComponents": {
+    "id": "ColorComponents",
+    "table": "JPEG::SOF",
+    "val": 3
+  },
+  "File:YCbCrSubSampling": {
+    "id": "YCbCrSubSampling",
+    "table": "JPEG::SOF",
+    "val": "YCbCr4:2:0 (2 2)"
+  },
+  "File:JPEGImageLength": {
+    "id": "JPEGImageLength",
+    "table": "Extra",
+    "val": 6340190
+  },
+  "File:JPEGQualityEstimate": {
+    "id": "JPEGQualityEstimate",
+    "table": "Extra",
+    "val": 93
+  },
+  "File:JPEGDigest": {
+    "id": "JPEGDigest",
+    "table": "Extra",
+    "val": "Unknown (2bcf4da9b583b965c394f8ec05c7072d:221111)"
+  },
+  "JFIF:JFIFVersion": {
+    "id": 0,
+    "table": "JFIF::Main",
+    "val": 1.01
+  },
+  "JFIF:ResolutionUnit": {
+    "id": 2,
+    "table": "JFIF::Main",
+    "val": "None"
+  },
+  "JFIF:XResolution": {
+    "id": 3,
+    "table": "JFIF::Main",
+    "val": 350
+  },
+  "JFIF:YResolution": {
+    "id": 5,
+    "table": "JFIF::Main",
+    "val": 350
+  },
+  "EXIF:Make": {
+    "id": 271,
+    "table": "Exif::Main",
+    "val": "SAMSUNG"
+  },
+  "EXIF:Model": {
+    "id": 272,
+    "table": "Exif::Main",
+    "val": "SM-C200"
+  },
+  "EXIF:Orientation": {
+    "id": 274,
+    "table": "Exif::Main",
+    "val": "Horizontal (normal)"
+  },
+  "EXIF:XResolution": {
+    "id": 282,
+    "table": "Exif::Main",
+    "val": 350
+  },
+  "EXIF:YResolution": {
+    "id": 283,
+    "table": "Exif::Main",
+    "val": 350
+  },
+  "EXIF:ResolutionUnit": {
+    "id": 296,
+    "table": "Exif::Main",
+    "val": "inches"
+  },
+  "EXIF:Software": {
+    "id": 305,
+    "table": "Exif::Main",
+    "val": 0.76
+  },
+  "EXIF:ModifyDate": {
+    "id": 306,
+    "table": "Exif::Main",
+    "val": "2019:08:06 09:30:34"
+  },
+  "EXIF:ExposureTime": {
+    "id": 33434,
+    "table": "Exif::Main",
+    "val": "1/400"
+  },
+  "EXIF:FNumber": {
+    "id": 33437,
+    "table": "Exif::Main",
+    "val": 2.0
+  },
+  "EXIF:ExposureProgram": {
+    "id": 34850,
+    "table": "Exif::Main",
+    "val": "Program AE"
+  },
+  "EXIF:ISO": {
+    "id": 34855,
+    "table": "Exif::Main",
+    "val": 100
+  },
+  "EXIF:ExifVersion": {
+    "id": 36864,
+    "table": "Exif::Main",
+    "val": "0230"
+  },
+  "EXIF:DateTimeOriginal": {
+    "id": 36867,
+    "table": "Exif::Main",
+    "val": "2019:08:06 09:30:34"
+  },
+  "EXIF:CreateDate": {
+    "id": 36868,
+    "table": "Exif::Main",
+    "val": "2019:08:06 09:30:34"
+  },
+  "EXIF:ComponentsConfiguration": {
+    "id": 37121,
+    "table": "Exif::Main",
+    "val": "Y, Cb, Cr, -"
+  },
+  "EXIF:ExposureCompensation": {
+    "id": 37380,
+    "table": "Exif::Main",
+    "val": 0
+  },
+  "EXIF:MaxApertureValue": {
+    "id": 37381,
+    "table": "Exif::Main",
+    "val": 1.0
+  },
+  "EXIF:MeteringMode": {
+    "id": 37383,
+    "table": "Exif::Main",
+    "val": "Multi-segment"
+  },
+  "EXIF:LightSource": {
+    "id": 37384,
+    "table": "Exif::Main",
+    "val": "Unknown"
+  },
+  "EXIF:Flash": {
+    "id": 37385,
+    "table": "Exif::Main",
+    "val": "No Flash"
+  },
+  "EXIF:FocalLength": {
+    "id": 37386,
+    "table": "Exif::Main",
+    "val": "1.2 mm"
+  },
+  "EXIF:FlashpixVersion": {
+    "id": 40960,
+    "table": "Exif::Main",
+    "val": "0100"
+  },
+  "EXIF:ColorSpace": {
+    "id": 40961,
+    "table": "Exif::Main",
+    "val": "sRGB"
+  },
+  "EXIF:ExifImageWidth": {
+    "id": 40962,
+    "table": "Exif::Main",
+    "val": 7200
+  },
+  "EXIF:ExifImageHeight": {
+    "id": 40963,
+    "table": "Exif::Main",
+    "val": 3600
+  },
+  "EXIF:SensingMethod": {
+    "id": 41495,
+    "table": "Exif::Main",
+    "val": "One-chip color area"
+  },
+  "EXIF:ExposureMode": {
+    "id": 41986,
+    "table": "Exif::Main",
+    "val": "Auto"
+  },
+  "EXIF:WhiteBalance": {
+    "id": 41987,
+    "table": "Exif::Main",
+    "val": "Auto"
+  },
+  "EXIF:DigitalZoomRatio": {
+    "id": 41988,
+    "table": "Exif::Main",
+    "val": 1
+  },
+  "EXIF:FocalLengthIn35mmFormat": {
+    "id": 41989,
+    "table": "Exif::Main",
+    "val": "6 mm"
+  },
+  "EXIF:SceneCaptureType": {
+    "id": 41990,
+    "table": "Exif::Main",
+    "val": "Standard"
+  },
+  "EXIF:Contrast": {
+    "id": 41992,
+    "table": "Exif::Main",
+    "val": "Normal"
+  },
+  "EXIF:Saturation": {
+    "id": 41993,
+    "table": "Exif::Main",
+    "val": "Normal"
+  },
+  "EXIF:Sharpness": {
+    "id": 41994,
+    "table": "Exif::Main",
+    "val": "Normal"
+  },
+  "EXIF:GPSLatitudeRef": {
+    "id": 1,
+    "table": "GPS::Main",
+    "val": "North"
+  },
+  "EXIF:GPSLatitude": {
+    "id": 2,
+    "table": "GPS::Main",
+    "val": 41.628619
+  },
+  "EXIF:GPSLongitudeRef": {
+    "id": 3,
+    "table": "GPS::Main",
+    "val": "West"
+  },
+  "EXIF:GPSLongitude": {
+    "id": 4,
+    "table": "GPS::Main",
+    "val": 93.643367
+  },
+  "EXIF:GPSAltitude": {
+    "id": 6,
+    "table": "GPS::Main",
+    "val": "245.1432763 m"
+  },
+  "EXIF:GPSTimeStamp": {
+    "id": 7,
+    "table": "GPS::Main",
+    "val": "14:30:35.99"
+  },
+  "EXIF:GPSDateStamp": {
+    "id": 29,
+    "table": "GPS::Main",
+    "val": "2019:08:06"
+  },
+  "XMP:XMPToolkit": {
+    "id": "xmptk",
+    "table": "XMP::x",
+    "val": "XMP Core 5.5.0"
+  },
+  "XMP:ProjectionType": {
+    "id": "ProjectionType",
+    "table": "XMP::GPano",
+    "val": "equirectangular"
+  },
+  "XMP:UsePanoramaViewer": {
+    "id": "UsePanoramaViewer",
+    "table": "XMP::GPano",
+    "val": true
+  },
+  "XMP:CroppedAreaImageWidthPixels": {
+    "id": "CroppedAreaImageWidthPixels",
+    "table": "XMP::GPano",
+    "val": 7200
+  },
+  "XMP:CroppedAreaImageHeightPixels": {
+    "id": "CroppedAreaImageHeightPixels",
+    "table": "XMP::GPano",
+    "val": 3600
+  },
+  "XMP:FullPanoWidthPixels": {
+    "id": "FullPanoWidthPixels",
+    "table": "XMP::GPano",
+    "val": 7200
+  },
+  "XMP:FullPanoHeightPixels": {
+    "id": "FullPanoHeightPixels",
+    "table": "XMP::GPano",
+    "val": 3600
+  },
+  "XMP:CroppedAreaLeftPixels": {
+    "id": "CroppedAreaLeftPixels",
+    "table": "XMP::GPano",
+    "val": 0
+  },
+  "XMP:CroppedAreaTopPixels": {
+    "id": "CroppedAreaTopPixels",
+    "table": "XMP::GPano",
+    "val": 0
+  },
+  "XMP:PoseHeadingDegrees": {
+    "id": "PoseHeadingDegrees",
+    "table": "XMP::GPano",
+    "val": 0.000000
+  },
+  "XMP:PosePitchDegrees": {
+    "id": "PosePitchDegrees",
+    "table": "XMP::GPano",
+    "val": -2.672500
+  },
+  "XMP:PoseRollDegrees": {
+    "id": "PoseRollDegrees",
+    "table": "XMP::GPano",
+    "val": -3.743900
+  },
+  "Photoshop:IPTCDigest": {
+    "id": 1061,
+    "table": "Photoshop::Main",
+    "val": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "Composite:Aperture": {
+    "id": "Exif::Aperture",
+    "table": "Composite",
+    "val": 2.0
+  },
+  "Composite:ImageSize": {
+    "id": "Exif::ImageSize",
+    "table": "Composite",
+    "val": "7200x3600"
+  },
+  "Composite:Megapixels": {
+    "id": "Exif::Megapixels",
+    "table": "Composite",
+    "val": 25.9
+  },
+  "Composite:ScaleFactor35efl": {
+    "id": "Exif::ScaleFactor35efl",
+    "table": "Composite",
+    "val": 5.0
+  },
+  "Composite:ShutterSpeed": {
+    "id": "Exif::ShutterSpeed",
+    "table": "Composite",
+    "val": "1/400"
+  },
+  "Composite:GPSDateTime": {
+    "id": "GPS::GPSDateTime",
+    "table": "Composite",
+    "val": "2019:08:06 14:30:35.99Z"
+  },
+  "Composite:GPSLatitude": {
+    "id": "GPS::GPSLatitude",
+    "table": "Composite",
+    "val": "41.628619 N"
+  },
+  "Composite:GPSLongitude": {
+    "id": "GPS::GPSLongitude",
+    "table": "Composite",
+    "val": "93.643367 W"
+  },
+  "Composite:BaseName": {
+    "id": "UserDefined::BaseName",
+    "table": "Composite",
+    "val": "AEML5317"
+  },
+  "Composite:CircleOfConfusion": {
+    "id": "UserDefined::CircleOfConfusion",
+    "table": "Composite",
+    "val": "0.005 mm"
+  },
+  "Composite:FileExtension": {
+    "id": "UserDefined::FileExtension",
+    "table": "Composite",
+    "val": "JPG"
+  },
+  "Composite:FileTypeDescription": {
+    "id": "UserDefined::FileTypeDescription",
+    "table": "Composite",
+    "val": "Joint Photographic Experts Group"
+  },
+  "Composite:PhysicalImageSize": {
+    "id": "UserDefined::PhysicalImageSize",
+    "table": "Composite",
+    "val": "20.6x10.3 inches"
+  },
+  "Composite:FOV": {
+    "id": "Exif::FOV",
+    "table": "Composite",
+    "val": "143.1 deg"
+  },
+  "Composite:FocalLength35efl": {
+    "id": "Exif::FocalLength35efl",
+    "table": "Composite",
+    "val": "1.2 mm (35 mm equivalent: 6.0 mm)"
+  },
+  "Composite:GPSPosition": {
+    "id": "Exif::GPSPosition",
+    "table": "Composite",
+    "val": "41.628619 N, 93.643367 W"
+  },
+  "Composite:HyperfocalDistance": {
+    "id": "Exif::HyperfocalDistance",
+    "table": "Composite",
+    "val": "0.15 m"
+  },
+  "Composite:LightValue": {
+    "id": "Exif::LightValue",
+    "table": "Composite",
+    "val": 10.6
+  }
+}]
