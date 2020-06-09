@@ -39,9 +39,12 @@ We are seeking geotagged files from the following cameras:
 ### Timelapses
 
 * Insta360
+	- Pro
 	- Pro2
-	- One X
 	- Titan
+	- One R
+	- One
+	- One X
 * Labpano
 	- Pilot One
 * Garmin
@@ -59,8 +62,11 @@ We are seeking geotagged files from the following cameras:
 * Labpano
 	- Pilot One
 * Insta360
-	- One X
+	- Pro
 	- Titan
+	- One R
+	- One
+	- One X
 * Garmin
 	- VIRB360
 * Kandao

@@ -18,6 +18,10 @@ _Note: camera firmware update might alter the metadata produced by the camera. T
 
 ### Note on how data was extracted
 
+#### Video file notes
+
+Seems that both the Theta V and Z1 only include camm2 and camm3 in the camm track -- no GPS telemetry (camm5 / camm6).
+
 #### th01
 
 ```
