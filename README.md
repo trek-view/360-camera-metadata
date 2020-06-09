@@ -21,9 +21,25 @@ This repository contains our research to aid others building similar tools.
 	- Theta V
 	- Theta Z1
 * [Labpano](/labpano/README.md)
+	- Pilot One
 	- Pilot Era
+	- Pilot Lock
 * [Insta360](/insta360/README.md)
+	- ONE
+	- ONE X
+	- ONE R
+	- Pro
 	- Pro2
+	- Titan
+* [Samsung](/samsung/README.md)
+	- Gear 360
+* [Xphase](/xphase/README.md)
+	- Xphase
+* [Kandao](/kandao/README.md)
+	- QooCam
+	- QooCam 8k
+	- Obsidian GO
+	- Obsidian S & R
 * [Manufacturer (example structure)](/maufacturer/README.md)
 	- Model
 	- Model
@@ -31,6 +47,15 @@ This repository contains our research to aid others building similar tools.
 ## Accessing sample files
 
 All sample files used to extract metadata are offered free of charge for the benefit of other developers. You will find links to download under each cameras README.md file.
+
+## Telemetry Standards
+
+Generally camera manufacturers write metadata standards in a few formats.
+
+One's we've researched are linked:
+
+1. [gmpf](/0-telemetry-standards/gpmf.md)
+2. [camm](/0-telemetry-standards/camm.md)
 
 ## Data wanted
 
