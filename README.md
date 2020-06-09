@@ -72,20 +72,22 @@ We are seeking geotagged files from the following cameras:
 	- One X
 * Labpano
 	- Pilot One
+	- Pilot Lock
 * Garmin
 	- VIRB360
 * Kandao
-	- Qoocam
-	- Qoocam 8k
+	- QooCam
+	- QooCam 8k
+	- Obsidian GO
+	- Obsidian S & R
 * XPhase
-	- Pro S
-* Samsung
-	- Gear360
+	- Pro
 
 ### Videos
 
 * Labpano
 	- Pilot One
+	- Pilot Lock
 * Insta360
 	- Pro
 	- Titan
@@ -95,10 +97,15 @@ We are seeking geotagged files from the following cameras:
 * Garmin
 	- VIRB360
 * Kandao
-	- Qoocam
-	- Qoocam 8k
+	- QooCam
+	- QooCam 8k
+	- Obsidian GO
+	- Obsidian S & R
 * Samsung
 	- Gear360
+* XPhase
+	- Pro
+
 
 ## Extracting metadata from images
 
