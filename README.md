@@ -106,7 +106,6 @@ We are seeking geotagged files from the following cameras:
 * XPhase
 	- Pro
 
-
 ## Extracting metadata from images
 
 You can use the open-source [Exiftool](https://exiftool.org/) to extract and normalise metadata.
