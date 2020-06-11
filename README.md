@@ -34,12 +34,15 @@ This repository contains our research to aid others building similar tools.
 * [Samsung](/samsung/README.md)
 	- Gear 360
 * [Xphase](/xphase/README.md)
-	- Xphase
+	- Pro
+	- Pro S
 * [Kandao](/kandao/README.md)
 	- QooCam
 	- QooCam 8k
 	- Obsidian GO
 	- Obsidian S & R
+* [Garmin](/garmin/README.md)
+	- VIRB 260
 * [Manufacturer (example structure)](/maufacturer/README.md)
 	- Model
 	- Model
