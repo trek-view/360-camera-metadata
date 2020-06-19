@@ -43,9 +43,6 @@ This repository contains our research to aid others building similar tools.
 	- Obsidian S & R
 * [Garmin](/garmin/README.md)
 	- VIRB 260
-* [Manufacturer (example structure)](/maufacturer/README.md)
-	- Model
-	- Model
 
 ## Accessing sample files
 
@@ -55,10 +52,12 @@ All sample files used to extract metadata are offered free of charge for the ben
 
 Generally camera manufacturers write metadata standards in a few formats.
 
-One's we've researched are linked:
+Ones we've researched are linked:
 
-1. [gmpf](/0-telemetry-standards/gpmf.md)
-2. [camm](/0-telemetry-standards/camm.md)
+1. [gmpf](/0-standards/gpmf.md)
+2. [camm](/0-standards/camm.md)
+
+More of our research can be found in the [`/0-standards`](/0-standards) directory in this repository.
 
 ## Data wanted
 
@@ -182,6 +181,14 @@ And that’s why we need your help.
 
 If you have a 360 camera and want to support our work, [please share more information about your camera with us using this form](https://docs.google.com/forms/d/e/1FAIpQLScgOk1W5jpyrQuDF5FuKqUpKK0EIpSlokckZd3OB-r_ZOjZmQ/viewform). Thank you!
 
+## Test cases
+
+The [`/0-tests`](/0-tests) directory contains a script that can be used to generate 360 images that are corrupted for software testing (e.g. if you need photos with corrupt gps data).
+
+## Support 
+
+We offer community support for all our software on our Campfire forum. [Ask a question or make a suggestion here](https://campfire.trekview.org/c/support/8).
+
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+360 Camera Metadata scripts are licensed under a [GNU AGPLv3 License](https://github.com/trek-view/360-camera-metadata/blob/master/LICENSE.txt).
