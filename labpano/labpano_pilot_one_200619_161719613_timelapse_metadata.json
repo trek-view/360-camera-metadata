@@ -8,12 +8,12 @@
   "ExifTool:Now": {
     "id": "Now",
     "table": "Extra",
-    "val": "2020:06:20 08:41:29+01:00"
+    "val": "2020:06:20 08:50:48+01:00"
   },
   "ExifTool:NewGUID": {
     "id": "NewGUID",
     "table": "Extra",
-    "val": "20200620-0841-2900-6F98-4673149B69EF"
+    "val": "20200620-0850-4800-1144-8E66D10786E6"
   },
   "ExifTool:FileSequence": {
     "id": "FileSequence",
@@ -23,7 +23,7 @@
   "ExifTool:ProcessingTime": {
     "id": "ProcessingTime",
     "table": "Extra",
-    "val": "0.632 s"
+    "val": "0.201 s"
   },
   "File:FileName": {
     "id": "FileName",
