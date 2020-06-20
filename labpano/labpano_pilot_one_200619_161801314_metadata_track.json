@@ -1,0 +1,3634 @@
+[{
+  "SourceFile": "200619_161801314.mp4",
+  "Main:ExifToolVersion": {
+    "id": "ExifToolVersion",
+    "table": "Extra",
+    "val": 11.99
+  },
+  "Main:Now": {
+    "id": "Now",
+    "table": "Extra",
+    "val": "2020:06:20 08:38:33+01:00"
+  },
+  "Main:NewGUID": {
+    "id": "NewGUID",
+    "table": "Extra",
+    "val": "20200620-0838-3300-6280-1AEAA5CF0240"
+  },
+  "Main:FileSequence": {
+    "id": "FileSequence",
+    "table": "Extra",
+    "val": 0
+  },
+  "Main:FileName": {
+    "id": "FileName",
+    "table": "Extra",
+    "val": "200619_161801314.mp4"
+  },
+  "Main:Directory": {
+    "id": "Directory",
+    "table": "Extra",
+    "val": "."
+  },
+  "Main:FilePath": {
+    "id": "FilePath",
+    "table": "Extra",
+    "val": "C:\\Users\\david\\Downloads\\tests-for-metadata\\200619_161801314.mp4"
+  },
+  "Main:FileSize": {
+    "id": "FileSize",
+    "table": "Extra",
+    "val": "148 MB"
+  },
+  "Main:FileModifyDate": {
+    "id": "FileModifyDate",
+    "table": "Extra",
+    "val": "2020:06:19 15:26:10+01:00"
+  },
+  "Main:FileAccessDate": {
+    "id": "FileAccessDate",
+    "table": "Extra",
+    "val": "2020:06:20 08:33:51+01:00"
+  },
+  "Main:FileCreateDate": {
+    "id": "FileCreateDate",
+    "table": "Extra",
+    "val": "2020:06:20 08:33:51+01:00"
+  },
+  "Main:FilePermissions": {
+    "id": "FilePermissions",
+    "table": "Extra",
+    "val": "rw-rw-rw-"
+  },
+  "Main:FileAttributes": {
+    "id": "FileAttributes",
+    "table": "Extra",
+    "val": "Regular; (none); Archive"
+  },
+  "Main:FileDeviceNumber": {
+    "id": "FileDeviceNumber",
+    "table": "Extra",
+    "val": 0
+  },
+  "Main:FileInodeNumber": {
+    "id": "FileInodeNumber",
+    "table": "Extra",
+    "val": 0
+  },
+  "Main:FileHardLinks": {
+    "id": "FileHardLinks",
+    "table": "Extra",
+    "val": 1
+  },
+  "Main:FileUserID": {
+    "id": "FileUserID",
+    "table": "Extra",
+    "val": 0
+  },
+  "Main:FileGroupID": {
+    "id": "FileGroupID",
+    "table": "Extra",
+    "val": 0
+  },
+  "Main:FileDeviceID": {
+    "id": "FileDeviceID",
+    "table": "Extra",
+    "val": 0.0
+  },
+  "Main:FileBlockSize": {
+    "id": "FileBlockSize",
+    "table": "Extra",
+    "val": ""
+  },
+  "Main:FileBlockCount": {
+    "id": "FileBlockCount",
+    "table": "Extra",
+    "val": ""
+  },
+  "Main:FileType": {
+    "id": "FileType",
+    "table": "Extra",
+    "val": "MP4"
+  },
+  "Main:FileTypeExtension": {
+    "id": "FileTypeExtension",
+    "table": "Extra",
+    "val": "mp4"
+  },
+  "Main:MIMEType": {
+    "id": "MIMEType",
+    "table": "Extra",
+    "val": "video/mp4"
+  },
+  "Main:MajorBrand": {
+    "id": 0,
+    "table": "QuickTime::FileType",
+    "val": "MP4 v2 [ISO 14496-14]"
+  },
+  "Main:MinorVersion": {
+    "id": 1,
+    "table": "QuickTime::FileType",
+    "val": "0.0.0"
+  },
+  "Main:CompatibleBrands": {
+    "id": 2,
+    "table": "QuickTime::FileType",
+    "val": ["isom","mp42"]
+  },
+  "Main:MediaDataSize": {
+    "id": "mdat-size",
+    "table": "QuickTime::Main",
+    "val": 154967524
+  },
+  "Main:MediaDataOffset": {
+    "id": "mdat-offset",
+    "table": "QuickTime::Main",
+    "val": 40
+  },
+  "Main:MovieHeaderVersion": {
+    "id": 0,
+    "table": "QuickTime::MovieHeader",
+    "val": 0
+  },
+  "Main:CreateDate": {
+    "id": 1,
+    "table": "QuickTime::MovieHeader",
+    "val": "2020:06:19 15:18:18"
+  },
+  "Main:ModifyDate": {
+    "id": 2,
+    "table": "QuickTime::MovieHeader",
+    "val": "2020:06:19 15:18:18"
+  },
+  "Main:TimeScale": {
+    "id": 3,
+    "table": "QuickTime::MovieHeader",
+    "val": 1000
+  },
+  "Main:Duration": {
+    "id": 4,
+    "table": "QuickTime::MovieHeader",
+    "val": "12.00 s"
+  },
+  "Main:PreferredRate": {
+    "id": 5,
+    "table": "QuickTime::MovieHeader",
+    "val": 1
+  },
+  "Main:PreferredVolume": {
+    "id": 6,
+    "table": "QuickTime::MovieHeader",
+    "val": "100.00%"
+  },
+  "Main:PreviewTime": {
+    "id": 18,
+    "table": "QuickTime::MovieHeader",
+    "val": "0 s"
+  },
+  "Main:PreviewDuration": {
+    "id": 19,
+    "table": "QuickTime::MovieHeader",
+    "val": "0 s"
+  },
+  "Main:PosterTime": {
+    "id": 20,
+    "table": "QuickTime::MovieHeader",
+    "val": "0 s"
+  },
+  "Main:SelectionTime": {
+    "id": 21,
+    "table": "QuickTime::MovieHeader",
+    "val": "0 s"
+  },
+  "Main:SelectionDuration": {
+    "id": 22,
+    "table": "QuickTime::MovieHeader",
+    "val": "0 s"
+  },
+  "Main:CurrentTime": {
+    "id": 23,
+    "table": "QuickTime::MovieHeader",
+    "val": "0 s"
+  },
+  "Main:NextTrackID": {
+    "id": 24,
+    "table": "QuickTime::MovieHeader",
+    "val": 3
+  },
+  "Main:AndroidVersion": {
+    "id": 1.1,
+    "table": "QuickTime::ItemList",
+    "val": 7.0
+  },
+  "Main:TrackHeaderVersion": {
+    "id": 0,
+    "table": "QuickTime::TrackHeader",
+    "val": 0
+  },
+  "Main:TrackCreateDate": {
+    "id": 1,
+    "table": "QuickTime::TrackHeader",
+    "val": "2020:06:19 15:18:18"
+  },
+  "Main:TrackModifyDate": {
+    "id": 2,
+    "table": "QuickTime::TrackHeader",
+    "val": "2020:06:19 15:18:18"
+  },
+  "Main:TrackID": {
+    "id": 3,
+    "table": "QuickTime::TrackHeader",
+    "val": 1
+  },
+  "Main:TrackDuration": {
+    "id": 5,
+    "table": "QuickTime::TrackHeader",
+    "val": "11.86 s"
+  },
+  "Main:TrackLayer": {
+    "id": 8,
+    "table": "QuickTime::TrackHeader",
+    "val": 0
+  },
+  "Main:TrackVolume": {
+    "id": 9,
+    "table": "QuickTime::TrackHeader",
+    "val": "0.00%"
+  },
+  "Main:MetaFormat": {
+    "id": 4,
+    "table": "QuickTime::MetaSampleDesc",
+    "val": "camm"
+  },
+  "Main:MatrixStructure": {
+    "id": 10,
+    "table": "QuickTime::TrackHeader",
+    "val": "1 0 0 0 1 0 0 0 1"
+  },
+  "Main:ImageWidth": {
+    "id": 19,
+    "table": "QuickTime::TrackHeader",
+    "val": 7680
+  },
+  "Main:ImageHeight": {
+    "id": 20,
+    "table": "QuickTime::TrackHeader",
+    "val": 3840
+  },
+  "Main:MediaHeaderVersion": {
+    "id": 0,
+    "table": "QuickTime::MediaHeader",
+    "val": 0
+  },
+  "Main:MediaCreateDate": {
+    "id": 1,
+    "table": "QuickTime::MediaHeader",
+    "val": "2020:06:19 15:18:18"
+  },
+  "Main:MediaModifyDate": {
+    "id": 2,
+    "table": "QuickTime::MediaHeader",
+    "val": "2020:06:19 15:18:18"
+  },
+  "Main:MediaTimeScale": {
+    "id": 3,
+    "table": "QuickTime::MediaHeader",
+    "val": 90000
+  },
+  "Main:MediaDuration": {
+    "id": 4,
+    "table": "QuickTime::MediaHeader",
+    "val": "12.00 s"
+  },
+  "Main:HandlerType": {
+    "id": 8,
+    "table": "QuickTime::Handler",
+    "val": "Video Track"
+  },
+  "Main:HandlerDescription": {
+    "id": 24,
+    "table": "QuickTime::Handler",
+    "val": "VideoHandle"
+  },
+  "Main:GraphicsMode": {
+    "id": 2,
+    "table": "QuickTime::VideoHeader",
+    "val": "srcCopy"
+  },
+  "Main:OpColor": {
+    "id": 3,
+    "table": "QuickTime::VideoHeader",
+    "val": "0 0 0"
+  },
+  "Main:CompressorID": {
+    "id": 2,
+    "table": "QuickTime::ImageDesc",
+    "val": "avc1"
+  },
+  "Main:SourceImageWidth": {
+    "id": 16,
+    "table": "QuickTime::ImageDesc",
+    "val": 7680
+  },
+  "Main:SourceImageHeight": {
+    "id": 17,
+    "table": "QuickTime::ImageDesc",
+    "val": 3840
+  },
+  "Main:XResolution": {
+    "id": 18,
+    "table": "QuickTime::ImageDesc",
+    "val": 72
+  },
+  "Main:YResolution": {
+    "id": 20,
+    "table": "QuickTime::ImageDesc",
+    "val": 72
+  },
+  "Main:BitDepth": {
+    "id": 41,
+    "table": "QuickTime::ImageDesc",
+    "val": 24
+  },
+  "Main:PixelAspectRatio": {
+    "id": "pasp",
+    "table": "QuickTime::ImageDesc",
+    "val": "65536:65536"
+  },
+  "Main:ColorRepresentation": {
+    "id": "colr",
+    "table": "QuickTime::ImageDesc",
+    "val": "nclx 9 1 9"
+  },
+  "Main:VideoFrameRate": {
+    "id": "stts",
+    "index": 0,
+    "table": "QuickTime::SampleTable",
+    "val": 7
+  },
+  "Main:Spherical": {
+    "id": "Spherical",
+    "table": "XMP::GSpherical",
+    "val": true
+  },
+  "Main:Stitched": {
+    "id": "Stitched",
+    "table": "XMP::GSpherical",
+    "val": true
+  },
+  "Main:StitchingSoftware": {
+    "id": "StitchingSoftware",
+    "table": "XMP::GSpherical",
+    "val": "PilotCamera"
+  },
+  "Main:ProjectionType": {
+    "id": "ProjectionType",
+    "table": "XMP::GSpherical",
+    "val": "equirectangular"
+  },
+  "Main:PiStitchParam": {
+    "id": "PiStitchParam",
+    "table": "XMP::GSpherical",
+    "val": "PE0002800000952273D4A0603FCED7D629D6E2D64D40CA645A950C8BC8FC027F562E93F2A9EDB33D7EF8B1EDEF5CB5DFABB8DFC834FB952ED84526E6893678927545FA965E34C364E63891E777D432AAFC7B1860E2E654D84F685A69BFC07B0CC5F09A30D738476EBF15828C63EA09DF057CAFD303EC33B5E407C4DEBBD25C8FC043E15E609132CE6584E39533FDF2A4C47E13D6E0CC81FC2F90F770CA5E1FEAA6B739E80F51DC07F38ED35936AE743E1A873BC484E441B6521D0AA74C58EA814D6E1CF6EC694012D48866CD2D2543341632C63273E6B4E5A187EE30C1EF8594EAE6DC6461E670541EFE6BF14AA23378050FDADB3892CF9B43FD25A565B765AC99D4C6CF5C6D22F929DBFFC5570E42FD6A263C0E20F3D2952D82FABC2423F58E02456489E39B668A91A0DFAD946EA99338A0E0E23F2737185439F47EE2D240CBA79F37247FA0F001"
+  },
+  "Main:PiDeviceSN": {
+    "id": "PiDeviceSN",
+    "table": "XMP::GSpherical",
+    "val": "O200527866"
+  },
+  "Main:PiStitchDistance": {
+    "id": "PiStitchDistance",
+    "table": "XMP::GSpherical",
+    "val": "0.900000;0.900000;0.900000;0.900000"
+  },
+  "Main:Make": {
+    "id": "base64:qW1haw==",
+    "table": "QuickTime::UserData",
+    "val": "Pisofttech"
+  },
+  "Main:Model": {
+    "id": "base64:qW1vZA==",
+    "table": "QuickTime::UserData",
+    "val": "Pilot Era"
+  },
+  "Main:FirmwareVersion": {
+    "id": "FIRM",
+    "table": "QuickTime::UserData",
+    "val": "5020"
+  },
+  "Main:ImageSize": {
+    "id": "Exif::ImageSize",
+    "table": "Composite",
+    "val": "7680x3840"
+  },
+  "Main:Megapixels": {
+    "id": "Exif::Megapixels",
+    "table": "Composite",
+    "val": 29.5
+  },
+  "Main:AvgBitrate": {
+    "id": "QuickTime::AvgBitrate",
+    "table": "Composite",
+    "val": "103 Mbps"
+  },
+  "Main:Rotation": {
+    "id": "QuickTime::Rotation",
+    "table": "Composite",
+    "val": 0
+  },
+  "Main:BaseName": {
+    "id": "UserDefined::BaseName",
+    "table": "Composite",
+    "val": "200619_161801314"
+  },
+  "Main:FileExtension": {
+    "id": "UserDefined::FileExtension",
+    "table": "Composite",
+    "val": "mp4"
+  },
+  "Main:FileTypeDescription": {
+    "id": "UserDefined::FileTypeDescription",
+    "table": "Composite",
+    "val": "MPEG-4 video"
+  },
+  "Main:GPSPosition": {
+    "id": "Exif::GPSPosition",
+    "table": "Composite",
+    "val": "53.182029 N, 2.861290 W"
+  },
+  "Main:ProcessingTime": {
+    "id": "ProcessingTime",
+    "table": "Extra",
+    "val": "0.0724 s"
+  },
+  "Doc1:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc1:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc1:GPSDateTime": {
+    "id": 4,
+    "table": "QuickTime::camm6",
+    "val": "1970:01:01 00:00:05.028566Z"
+  },
+  "Doc1:GPSMeasureMode": {
+    "id": 12,
+    "table": "QuickTime::camm6",
+    "val": "3-Dimensional Measurement"
+  },
+  "Doc1:GPSLatitude": {
+    "id": 16,
+    "table": "QuickTime::camm6",
+    "val": "53.182029 N"
+  },
+  "Doc1:GPSLongitude": {
+    "id": 24,
+    "table": "QuickTime::camm6",
+    "val": "2.861290 W"
+  },
+  "Doc1:GPSAltitude": {
+    "id": 32,
+    "table": "QuickTime::camm6",
+    "val": "22.8 m"
+  },
+  "Doc1:GPSHorizontalAccuracy": {
+    "id": 36,
+    "table": "QuickTime::camm6",
+    "val": 1.02999997138977
+  },
+  "Doc1:GPSVerticalAccuracy": {
+    "id": 40,
+    "table": "QuickTime::camm6",
+    "val": 1.02999997138977
+  },
+  "Doc1:GPSVelocityEast": {
+    "id": 44,
+    "table": "QuickTime::camm6",
+    "val": 0
+  },
+  "Doc1:GPSVelocityNorth": {
+    "id": 48,
+    "table": "QuickTime::camm6",
+    "val": 0.0926000028848648
+  },
+  "Doc1:GPSVelocityUp": {
+    "id": 52,
+    "table": "QuickTime::camm6",
+    "val": 0
+  },
+  "Doc1:GPSSpeedAccuracy": {
+    "id": 56,
+    "table": "QuickTime::camm6",
+    "val": 0
+  },
+  "Doc2:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc2:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc2:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.3515625 9.85546875 0.1171875"
+  },
+  "Doc3:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc3:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc3:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.03125 -0.015625 0.001953125"
+  },
+  "Doc4:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc4:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc4:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.3515625 9.81640625 0.15625"
+  },
+  "Doc5:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc5:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc5:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.0234375 -0.044921875 -0.02734375"
+  },
+  "Doc6:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "0.29 s"
+  },
+  "Doc6:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc6:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-0.06640625 9.6640625 -0.11328125"
+  },
+  "Doc7:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "0.29 s"
+  },
+  "Doc7:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc7:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.005859375 -0.0234375 -0.017578125"
+  },
+  "Doc8:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "0.43 s"
+  },
+  "Doc8:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc8:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.16015625 9.77734375 0.1953125"
+  },
+  "Doc9:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "0.43 s"
+  },
+  "Doc9:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc9:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.00390625 -0.044921875 -0.005859375"
+  },
+  "Doc10:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "0.57 s"
+  },
+  "Doc10:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc10:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-0.06640625 9.05078125 -0.45703125"
+  },
+  "Doc11:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "0.57 s"
+  },
+  "Doc11:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc11:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.05859375 -0.12890625 -0.015625"
+  },
+  "Doc12:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "0.71 s"
+  },
+  "Doc12:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc12:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.046875 9.97265625 -1.453125"
+  },
+  "Doc13:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "0.71 s"
+  },
+  "Doc13:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc13:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.123046875 -0.216796875 0.03125"
+  },
+  "Doc14:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "0.86 s"
+  },
+  "Doc14:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc14:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-0.22265625 9.97265625 0.1953125"
+  },
+  "Doc15:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "0.86 s"
+  },
+  "Doc15:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc15:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.0546875 0.095703125 0.03515625"
+  },
+  "Doc16:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "1.00 s"
+  },
+  "Doc16:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc16:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.19921875 9.546875 -0.953125"
+  },
+  "Doc17:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "1.00 s"
+  },
+  "Doc17:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc17:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.017578125 0.046875 0.037109375"
+  },
+  "Doc18:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "1.14 s"
+  },
+  "Doc18:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc18:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.125 9.734375 -0.76171875"
+  },
+  "Doc19:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "1.14 s"
+  },
+  "Doc19:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc19:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.015625 0.083984375 -0.1015625"
+  },
+  "Doc20:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "1.29 s"
+  },
+  "Doc20:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc20:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.4296875 10.58203125 0.15625"
+  },
+  "Doc21:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "1.29 s"
+  },
+  "Doc21:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc21:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.162109375 0.20703125 -0.107421875"
+  },
+  "Doc22:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "1.43 s"
+  },
+  "Doc22:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc22:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.125 9.66796875 -0.03515625"
+  },
+  "Doc23:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "1.43 s"
+  },
+  "Doc23:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc23:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.158203125 0.1953125 -0.1015625"
+  },
+  "Doc24:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "1.57 s"
+  },
+  "Doc24:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc24:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-1.29296875 9.89453125 0.04296875"
+  },
+  "Doc25:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "1.57 s"
+  },
+  "Doc25:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc25:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.115234375 0.0703125 0.015625"
+  },
+  "Doc26:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "1.71 s"
+  },
+  "Doc26:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc26:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.31640625 8.359375 0.26953125"
+  },
+  "Doc27:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "1.71 s"
+  },
+  "Doc27:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc27:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.11328125 -0.177734375 0.05859375"
+  },
+  "Doc28:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "1.86 s"
+  },
+  "Doc28:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc28:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-0.94921875 9.6640625 -0.03515625"
+  },
+  "Doc29:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "1.86 s"
+  },
+  "Doc29:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc29:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0 -0.1640625 0.029296875"
+  },
+  "Doc30:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "2.00 s"
+  },
+  "Doc30:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc30:GPSDateTime": {
+    "id": 4,
+    "table": "QuickTime::camm6",
+    "val": "1970:01:01 00:00:00.016228Z"
+  },
+  "Doc30:GPSMeasureMode": {
+    "id": 12,
+    "table": "QuickTime::camm6",
+    "val": "3-Dimensional Measurement"
+  },
+  "Doc30:GPSLatitude": {
+    "id": 16,
+    "table": "QuickTime::camm6",
+    "val": "53.182018 N"
+  },
+  "Doc30:GPSLongitude": {
+    "id": 24,
+    "table": "QuickTime::camm6",
+    "val": "2.861295 W"
+  },
+  "Doc30:GPSAltitude": {
+    "id": 32,
+    "table": "QuickTime::camm6",
+    "val": "20.1 m"
+  },
+  "Doc30:GPSHorizontalAccuracy": {
+    "id": 36,
+    "table": "QuickTime::camm6",
+    "val": 0.870000004768372
+  },
+  "Doc30:GPSVerticalAccuracy": {
+    "id": 40,
+    "table": "QuickTime::camm6",
+    "val": 0.870000004768372
+  },
+  "Doc30:GPSVelocityEast": {
+    "id": 44,
+    "table": "QuickTime::camm6",
+    "val": -0.543288171291351
+  },
+  "Doc30:GPSVelocityNorth": {
+    "id": 48,
+    "table": "QuickTime::camm6",
+    "val": -0.980521082878113
+  },
+  "Doc30:GPSVelocityUp": {
+    "id": 52,
+    "table": "QuickTime::camm6",
+    "val": 0
+  },
+  "Doc30:GPSSpeedAccuracy": {
+    "id": 56,
+    "table": "QuickTime::camm6",
+    "val": 0
+  },
+  "Doc31:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "2.00 s"
+  },
+  "Doc31:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc31:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "2.23046875 12.265625 -1.8359375"
+  },
+  "Doc32:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "2.00 s"
+  },
+  "Doc32:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc32:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.267578125 -0.001953125 -0.04296875"
+  },
+  "Doc33:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "2.14 s"
+  },
+  "Doc33:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc33:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.9296875 11.16015625 0.65625"
+  },
+  "Doc34:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "2.14 s"
+  },
+  "Doc34:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc34:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.197265625 -0.171875 -0.103515625"
+  },
+  "Doc35:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "2.29 s"
+  },
+  "Doc35:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc35:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-0.52734375 6.75390625 0.15625"
+  },
+  "Doc36:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "2.29 s"
+  },
+  "Doc36:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc36:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.130859375 -0.33203125 -0.03125"
+  },
+  "Doc37:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "2.43 s"
+  },
+  "Doc37:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc37:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-0.4140625 9.55078125 -0.3046875"
+  },
+  "Doc38:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "2.43 s"
+  },
+  "Doc38:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc38:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.064453125 0.0234375 0.15234375"
+  },
+  "Doc39:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "2.57 s"
+  },
+  "Doc39:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc39:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.46875 12.5703125 1.87890625"
+  },
+  "Doc40:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "2.57 s"
+  },
+  "Doc40:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc40:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.337890625 0.591796875 -0.02734375"
+  },
+  "Doc41:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "2.71 s"
+  },
+  "Doc41:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc41:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-0.22265625 11.31640625 -2.87109375"
+  },
+  "Doc42:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "2.71 s"
+  },
+  "Doc42:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc42:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.04296875 0.0703125 0.046875"
+  },
+  "Doc43:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "2.86 s"
+  },
+  "Doc43:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc43:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "1.08203125 8.32421875 -1.18359375"
+  },
+  "Doc44:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "2.86 s"
+  },
+  "Doc44:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc44:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.02734375 -0.1484375 0.18359375"
+  },
+  "Doc45:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "3.00 s"
+  },
+  "Doc45:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc45:GPSDateTime": {
+    "id": 4,
+    "table": "QuickTime::camm6",
+    "val": "1970:01:01 00:00:00.016338Z"
+  },
+  "Doc45:GPSMeasureMode": {
+    "id": 12,
+    "table": "QuickTime::camm6",
+    "val": "3-Dimensional Measurement"
+  },
+  "Doc45:GPSLatitude": {
+    "id": 16,
+    "table": "QuickTime::camm6",
+    "val": "53.182008 N"
+  },
+  "Doc45:GPSLongitude": {
+    "id": 24,
+    "table": "QuickTime::camm6",
+    "val": "2.861303 W"
+  },
+  "Doc45:GPSAltitude": {
+    "id": 32,
+    "table": "QuickTime::camm6",
+    "val": "20.3 m"
+  },
+  "Doc45:GPSHorizontalAccuracy": {
+    "id": 36,
+    "table": "QuickTime::camm6",
+    "val": 0.870000004768372
+  },
+  "Doc45:GPSVerticalAccuracy": {
+    "id": 40,
+    "table": "QuickTime::camm6",
+    "val": 0.870000004768372
+  },
+  "Doc45:GPSVelocityEast": {
+    "id": 44,
+    "table": "QuickTime::camm6",
+    "val": -0.574225187301636
+  },
+  "Doc45:GPSVelocityNorth": {
+    "id": 48,
+    "table": "QuickTime::camm6",
+    "val": -0.904136836528778
+  },
+  "Doc45:GPSVelocityUp": {
+    "id": 52,
+    "table": "QuickTime::camm6",
+    "val": 0
+  },
+  "Doc45:GPSSpeedAccuracy": {
+    "id": 56,
+    "table": "QuickTime::camm6",
+    "val": 0
+  },
+  "Doc46:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "3.00 s"
+  },
+  "Doc46:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc46:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.0078125 7.75390625 0.42578125"
+  },
+  "Doc47:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "3.00 s"
+  },
+  "Doc47:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc47:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.1015625 -0.044921875 -0.013671875"
+  },
+  "Doc48:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "3.14 s"
+  },
+  "Doc48:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc48:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.27734375 11.12109375 0.00390625"
+  },
+  "Doc49:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "3.14 s"
+  },
+  "Doc49:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc49:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.1328125 -0.0078125 -0.048828125"
+  },
+  "Doc50:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "3.29 s"
+  },
+  "Doc50:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc50:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.31640625 10.16015625 0.15625"
+  },
+  "Doc51:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "3.29 s"
+  },
+  "Doc51:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc51:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.291015625 -0.220703125 0.05859375"
+  },
+  "Doc52:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "3.43 s"
+  },
+  "Doc52:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc52:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.5078125 8.28125 0.04296875"
+  },
+  "Doc53:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "3.43 s"
+  },
+  "Doc53:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc53:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.03125 -0.302734375 0.029296875"
+  },
+  "Doc54:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "3.57 s"
+  },
+  "Doc54:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc54:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.23828125 7.75 0.46484375"
+  },
+  "Doc55:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "3.57 s"
+  },
+  "Doc55:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc55:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.03125 0.14453125 -0.06640625"
+  },
+  "Doc56:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "3.71 s"
+  },
+  "Doc56:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc56:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.390625 11.4609375 -0.265625"
+  },
+  "Doc57:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "3.71 s"
+  },
+  "Doc57:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc57:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.28515625 0.103515625 -0.013671875"
+  },
+  "Doc58:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "3.86 s"
+  },
+  "Doc58:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc58:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-2.328125 8.58984375 2.4921875"
+  },
+  "Doc59:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "3.86 s"
+  },
+  "Doc59:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc59:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.146484375 -0.025390625 -0.00390625"
+  },
+  "Doc60:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "4.00 s"
+  },
+  "Doc60:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc60:GPSDateTime": {
+    "id": 4,
+    "table": "QuickTime::camm6",
+    "val": "1970:01:01 00:00:00.016124Z"
+  },
+  "Doc60:GPSMeasureMode": {
+    "id": 12,
+    "table": "QuickTime::camm6",
+    "val": "3-Dimensional Measurement"
+  },
+  "Doc60:GPSLatitude": {
+    "id": 16,
+    "table": "QuickTime::camm6",
+    "val": "53.181998 N"
+  },
+  "Doc60:GPSLongitude": {
+    "id": 24,
+    "table": "QuickTime::camm6",
+    "val": "2.861311 W"
+  },
+  "Doc60:GPSAltitude": {
+    "id": 32,
+    "table": "QuickTime::camm6",
+    "val": "20.5 m"
+  },
+  "Doc60:GPSHorizontalAccuracy": {
+    "id": 36,
+    "table": "QuickTime::camm6",
+    "val": 0.870000004768372
+  },
+  "Doc60:GPSVerticalAccuracy": {
+    "id": 40,
+    "table": "QuickTime::camm6",
+    "val": 0.870000004768372
+  },
+  "Doc60:GPSVelocityEast": {
+    "id": 44,
+    "table": "QuickTime::camm6",
+    "val": -0.688225030899048
+  },
+  "Doc60:GPSVelocityNorth": {
+    "id": 48,
+    "table": "QuickTime::camm6",
+    "val": -0.93450939655304
+  },
+  "Doc60:GPSVelocityUp": {
+    "id": 52,
+    "table": "QuickTime::camm6",
+    "val": 0
+  },
+  "Doc60:GPSSpeedAccuracy": {
+    "id": 56,
+    "table": "QuickTime::camm6",
+    "val": 0
+  },
+  "Doc61:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "4.00 s"
+  },
+  "Doc61:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc61:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-0.98828125 10.390625 1"
+  },
+  "Doc62:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "4.00 s"
+  },
+  "Doc62:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc62:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.12890625 0.126953125 0.037109375"
+  },
+  "Doc63:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "4.14 s"
+  },
+  "Doc63:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc63:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.62109375 5.71875 -0.1875"
+  },
+  "Doc64:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "4.14 s"
+  },
+  "Doc64:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc64:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.15234375 -0.01953125 0.091796875"
+  },
+  "Doc65:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "4.29 s"
+  },
+  "Doc65:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc65:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.23828125 10.921875 -0.265625"
+  },
+  "Doc66:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "4.29 s"
+  },
+  "Doc66:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc66:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.05078125 -0.125 0.037109375"
+  },
+  "Doc67:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "4.43 s"
+  },
+  "Doc67:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc67:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.16015625 10.96484375 -2.71484375"
+  },
+  "Doc68:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "4.43 s"
+  },
+  "Doc68:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc68:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.072265625 -0.287109375 -0.18359375"
+  },
+  "Doc69:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "4.57 s"
+  },
+  "Doc69:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc69:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.046875 10.43359375 1.87890625"
+  },
+  "Doc70:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "4.57 s"
+  },
+  "Doc70:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc70:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.16015625 -0.2265625 0.068359375"
+  },
+  "Doc71:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "4.71 s"
+  },
+  "Doc71:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc71:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.5078125 7.71484375 1.15234375"
+  },
+  "Doc72:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "4.71 s"
+  },
+  "Doc72:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc72:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.15234375 0.103515625 -0.03125"
+  },
+  "Doc73:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "4.86 s"
+  },
+  "Doc73:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc73:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.390625 9.3515625 -0.37890625"
+  },
+  "Doc74:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "4.86 s"
+  },
+  "Doc74:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc74:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.123046875 0.21484375 -0.09375"
+  },
+  "Doc75:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "5.00 s"
+  },
+  "Doc75:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc75:GPSDateTime": {
+    "id": 4,
+    "table": "QuickTime::camm6",
+    "val": "1970:01:01 00:00:00.016427Z"
+  },
+  "Doc75:GPSMeasureMode": {
+    "id": 12,
+    "table": "QuickTime::camm6",
+    "val": "3-Dimensional Measurement"
+  },
+  "Doc75:GPSLatitude": {
+    "id": 16,
+    "table": "QuickTime::camm6",
+    "val": "53.181989 N"
+  },
+  "Doc75:GPSLongitude": {
+    "id": 24,
+    "table": "QuickTime::camm6",
+    "val": "2.861321 W"
+  },
+  "Doc75:GPSAltitude": {
+    "id": 32,
+    "table": "QuickTime::camm6",
+    "val": "20.5 m"
+  },
+  "Doc75:GPSHorizontalAccuracy": {
+    "id": 36,
+    "table": "QuickTime::camm6",
+    "val": 0.870000004768372
+  },
+  "Doc75:GPSVerticalAccuracy": {
+    "id": 40,
+    "table": "QuickTime::camm6",
+    "val": 0.870000004768372
+  },
+  "Doc75:GPSVelocityEast": {
+    "id": 44,
+    "table": "QuickTime::camm6",
+    "val": -0.729828894138336
+  },
+  "Doc75:GPSVelocityNorth": {
+    "id": 48,
+    "table": "QuickTime::camm6",
+    "val": -0.973454713821411
+  },
+  "Doc75:GPSVelocityUp": {
+    "id": 52,
+    "table": "QuickTime::camm6",
+    "val": 0
+  },
+  "Doc75:GPSSpeedAccuracy": {
+    "id": 56,
+    "table": "QuickTime::camm6",
+    "val": 0
+  },
+  "Doc76:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "5.00 s"
+  },
+  "Doc76:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc76:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.8125 12.91796875 -2.10546875"
+  },
+  "Doc77:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "5.00 s"
+  },
+  "Doc77:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc77:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.43359375 0.33203125 0.00390625"
+  },
+  "Doc78:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "5.14 s"
+  },
+  "Doc78:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc78:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-1.37109375 11.9609375 -0.33984375"
+  },
+  "Doc79:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "5.14 s"
+  },
+  "Doc79:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc79:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.2109375 0.013671875 0.1796875"
+  },
+  "Doc80:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "5.29 s"
+  },
+  "Doc80:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc80:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "2.765625 6.52734375 0.65625"
+  },
+  "Doc81:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "5.29 s"
+  },
+  "Doc81:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc81:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.19140625 0.091796875 0.140625"
+  },
+  "Doc82:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "5.43 s"
+  },
+  "Doc82:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc82:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-0.94921875 10.08984375 1.765625"
+  },
+  "Doc83:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "5.43 s"
+  },
+  "Doc83:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc83:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.0546875 -0.052734375 -0.04296875"
+  },
+  "Doc84:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "5.57 s"
+  },
+  "Doc84:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc84:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "2.23046875 11.5390625 -0.76171875"
+  },
+  "Doc85:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "5.57 s"
+  },
+  "Doc85:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc85:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.40234375 -0.126953125 -0.228515625"
+  },
+  "Doc86:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "5.71 s"
+  },
+  "Doc86:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc86:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.96484375 13.45703125 0.30859375"
+  },
+  "Doc87:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "5.71 s"
+  },
+  "Doc87:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc87:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.26953125 -0.189453125 0.115234375"
+  },
+  "Doc88:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "5.86 s"
+  },
+  "Doc88:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc88:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "1.234375 6.44921875 -0.11328125"
+  },
+  "Doc89:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "5.86 s"
+  },
+  "Doc89:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc89:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.220703125 -0.298828125 -0.009765625"
+  },
+  "Doc90:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "6.00 s"
+  },
+  "Doc90:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc90:GPSDateTime": {
+    "id": 4,
+    "table": "QuickTime::camm6",
+    "val": "1970:01:01 00:00:00.019155Z"
+  },
+  "Doc90:GPSMeasureMode": {
+    "id": 12,
+    "table": "QuickTime::camm6",
+    "val": "3-Dimensional Measurement"
+  },
+  "Doc90:GPSLatitude": {
+    "id": 16,
+    "table": "QuickTime::camm6",
+    "val": "53.181979 N"
+  },
+  "Doc90:GPSLongitude": {
+    "id": 24,
+    "table": "QuickTime::camm6",
+    "val": "2.861331 W"
+  },
+  "Doc90:GPSAltitude": {
+    "id": 32,
+    "table": "QuickTime::camm6",
+    "val": "20.3 m"
+  },
+  "Doc90:GPSHorizontalAccuracy": {
+    "id": 36,
+    "table": "QuickTime::camm6",
+    "val": 0.870000004768372
+  },
+  "Doc90:GPSVerticalAccuracy": {
+    "id": 40,
+    "table": "QuickTime::camm6",
+    "val": 0.870000004768372
+  },
+  "Doc90:GPSVelocityEast": {
+    "id": 44,
+    "table": "QuickTime::camm6",
+    "val": -0.707476794719696
+  },
+  "Doc90:GPSVelocityNorth": {
+    "id": 48,
+    "table": "QuickTime::camm6",
+    "val": -1.02439773082733
+  },
+  "Doc90:GPSVelocityUp": {
+    "id": 52,
+    "table": "QuickTime::camm6",
+    "val": 0
+  },
+  "Doc90:GPSSpeedAccuracy": {
+    "id": 56,
+    "table": "QuickTime::camm6",
+    "val": 0
+  },
+  "Doc91:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "6.00 s"
+  },
+  "Doc91:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc91:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.125 9.12890625 -0.41796875"
+  },
+  "Doc92:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "6.00 s"
+  },
+  "Doc92:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc92:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.0234375 0.158203125 -0.001953125"
+  },
+  "Doc93:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "6.14 s"
+  },
+  "Doc93:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc93:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.66015625 13.2265625 0.30859375"
+  },
+  "Doc94:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "6.14 s"
+  },
+  "Doc94:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc94:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.435546875 0.34375 0.052734375"
+  },
+  "Doc95:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "6.29 s"
+  },
+  "Doc95:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc95:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-1.140625 13.23046875 -0.6875"
+  },
+  "Doc96:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "6.29 s"
+  },
+  "Doc96:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc96:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.033203125 0.482421875 0.146484375"
+  },
+  "Doc97:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "6.43 s"
+  },
+  "Doc97:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc97:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "1.50390625 6.140625 0.00390625"
+  },
+  "Doc98:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "6.43 s"
+  },
+  "Doc98:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc98:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.10546875 0.150390625 0.16796875"
+  },
+  "Doc99:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "6.57 s"
+  },
+  "Doc99:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc99:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-0.26171875 9.05078125 1.34375"
+  },
+  "Doc100:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "6.57 s"
+  },
+  "Doc100:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc100:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.123046875 -0.21484375 -0.11328125"
+  },
+  "Doc101:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "6.71 s"
+  },
+  "Doc101:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc101:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.19921875 12.0390625 -0.80078125"
+  },
+  "Doc102:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "6.71 s"
+  },
+  "Doc102:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc102:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.4140625 0.05859375 -0.07421875"
+  },
+  "Doc103:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "6.86 s"
+  },
+  "Doc103:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc103:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.16015625 12.91796875 -0.03515625"
+  },
+  "Doc104:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "6.86 s"
+  },
+  "Doc104:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc104:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.296875 0.248046875 -0.068359375"
+  },
+  "Doc105:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "7.00 s"
+  },
+  "Doc105:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc105:GPSDateTime": {
+    "id": 4,
+    "table": "QuickTime::camm6",
+    "val": "1970:01:01 00:00:00.016136Z"
+  },
+  "Doc105:GPSMeasureMode": {
+    "id": 12,
+    "table": "QuickTime::camm6",
+    "val": "3-Dimensional Measurement"
+  },
+  "Doc105:GPSLatitude": {
+    "id": 16,
+    "table": "QuickTime::camm6",
+    "val": "53.181969 N"
+  },
+  "Doc105:GPSLongitude": {
+    "id": 24,
+    "table": "QuickTime::camm6",
+    "val": "2.861341 W"
+  },
+  "Doc105:GPSAltitude": {
+    "id": 32,
+    "table": "QuickTime::camm6",
+    "val": "20.2 m"
+  },
+  "Doc105:GPSHorizontalAccuracy": {
+    "id": 36,
+    "table": "QuickTime::camm6",
+    "val": 0.870000004768372
+  },
+  "Doc105:GPSVerticalAccuracy": {
+    "id": 40,
+    "table": "QuickTime::camm6",
+    "val": 0.870000004768372
+  },
+  "Doc105:GPSVelocityEast": {
+    "id": 44,
+    "table": "QuickTime::camm6",
+    "val": -0.675885498523712
+  },
+  "Doc105:GPSVelocityNorth": {
+    "id": 48,
+    "table": "QuickTime::camm6",
+    "val": -1.07661890983582
+  },
+  "Doc105:GPSVelocityUp": {
+    "id": 52,
+    "table": "QuickTime::camm6",
+    "val": 0
+  },
+  "Doc105:GPSSpeedAccuracy": {
+    "id": 56,
+    "table": "QuickTime::camm6",
+    "val": 0
+  },
+  "Doc106:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "7.00 s"
+  },
+  "Doc106:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc106:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "1.88671875 5.6796875 -0.609375"
+  },
+  "Doc107:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "7.00 s"
+  },
+  "Doc107:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc107:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.201171875 -0.224609375 0.08984375"
+  },
+  "Doc108:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "7.14 s"
+  },
+  "Doc108:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc108:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.125 9.51171875 1"
+  },
+  "Doc109:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "7.14 s"
+  },
+  "Doc109:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc109:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.015625 0.130859375 -0.0703125"
+  },
+  "Doc110:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "7.29 s"
+  },
+  "Doc110:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc110:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "1.5390625 14.41796875 -2.2578125"
+  },
+  "Doc111:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "7.29 s"
+  },
+  "Doc111:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc111:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.419921875 0.21484375 0.01171875"
+  },
+  "Doc112:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "7.43 s"
+  },
+  "Doc112:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc112:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-1.90625 12.34375 1.3046875"
+  },
+  "Doc113:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "7.43 s"
+  },
+  "Doc113:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc113:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.072265625 0.349609375 0.1171875"
+  },
+  "Doc114:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "7.57 s"
+  },
+  "Doc114:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc114:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "1.73046875 6.17578125 -0.07421875"
+  },
+  "Doc115:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "7.57 s"
+  },
+  "Doc115:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc115:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.125 -0.03125 0.07421875"
+  },
+  "Doc116:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "7.71 s"
+  },
+  "Doc116:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc116:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-1.41015625 10.4296875 1.49609375"
+  },
+  "Doc117:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "7.71 s"
+  },
+  "Doc117:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc117:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.05078125 0.072265625 -0.08984375"
+  },
+  "Doc118:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "7.86 s"
+  },
+  "Doc118:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc118:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "1.46484375 14.41796875 -3.55859375"
+  },
+  "Doc119:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "7.86 s"
+  },
+  "Doc119:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc119:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.271484375 0.3828125 -0.171875"
+  },
+  "Doc120:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "8.00 s"
+  },
+  "Doc120:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc120:GPSDateTime": {
+    "id": 4,
+    "table": "QuickTime::camm6",
+    "val": "1970:01:01 00:00:00.017818Z"
+  },
+  "Doc120:GPSMeasureMode": {
+    "id": 12,
+    "table": "QuickTime::camm6",
+    "val": "3-Dimensional Measurement"
+  },
+  "Doc120:GPSLatitude": {
+    "id": 16,
+    "table": "QuickTime::camm6",
+    "val": "53.181959 N"
+  },
+  "Doc120:GPSLongitude": {
+    "id": 24,
+    "table": "QuickTime::camm6",
+    "val": "2.861349 W"
+  },
+  "Doc120:GPSAltitude": {
+    "id": 32,
+    "table": "QuickTime::camm6",
+    "val": "20.2 m"
+  },
+  "Doc120:GPSHorizontalAccuracy": {
+    "id": 36,
+    "table": "QuickTime::camm6",
+    "val": 0.870000004768372
+  },
+  "Doc120:GPSVerticalAccuracy": {
+    "id": 40,
+    "table": "QuickTime::camm6",
+    "val": 0.870000004768372
+  },
+  "Doc120:GPSVelocityEast": {
+    "id": 44,
+    "table": "QuickTime::camm6",
+    "val": -0.643706738948822
+  },
+  "Doc120:GPSVelocityNorth": {
+    "id": 48,
+    "table": "QuickTime::camm6",
+    "val": -1.10688734054565
+  },
+  "Doc120:GPSVelocityUp": {
+    "id": 52,
+    "table": "QuickTime::camm6",
+    "val": 0
+  },
+  "Doc120:GPSSpeedAccuracy": {
+    "id": 56,
+    "table": "QuickTime::camm6",
+    "val": 0
+  },
+  "Doc121:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "8.00 s"
+  },
+  "Doc121:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc121:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.3515625 10.8515625 -0.9921875"
+  },
+  "Doc122:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "8.00 s"
+  },
+  "Doc122:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc122:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.21875 -0.24609375 0.03125"
+  },
+  "Doc123:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "8.14 s"
+  },
+  "Doc123:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc123:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "1.578125 6.5234375 0.5390625"
+  },
+  "Doc124:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "8.14 s"
+  },
+  "Doc124:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc124:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.09765625 -0.2109375 -0.052734375"
+  },
+  "Doc125:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "8.29 s"
+  },
+  "Doc125:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc125:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-0.296875 9.96875 0.234375"
+  },
+  "Doc126:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "8.29 s"
+  },
+  "Doc126:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc126:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.115234375 0.125 -0.037109375"
+  },
+  "Doc127:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "8.43 s"
+  },
+  "Doc127:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc127:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.16015625 13.296875 -2.6796875"
+  },
+  "Doc128:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "8.43 s"
+  },
+  "Doc128:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc128:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.294921875 0.15234375 0.01953125"
+  },
+  "Doc129:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "8.57 s"
+  },
+  "Doc129:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc129:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.31640625 11 -0.953125"
+  },
+  "Doc130:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "8.57 s"
+  },
+  "Doc130:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc130:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.09765625 -0.12109375 0.220703125"
+  },
+  "Doc131:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "8.71 s"
+  },
+  "Doc131:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc131:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.96484375 6.7109375 0.46484375"
+  },
+  "Doc132:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "8.71 s"
+  },
+  "Doc132:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc132:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.169921875 -0.083984375 0.091796875"
+  },
+  "Doc133:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "8.86 s"
+  },
+  "Doc133:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc133:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-0.453125 9.8515625 2.109375"
+  },
+  "Doc134:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "8.86 s"
+  },
+  "Doc134:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc134:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.099609375 0.091796875 -0.033203125"
+  },
+  "Doc135:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "9.00 s"
+  },
+  "Doc135:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc135:GPSDateTime": {
+    "id": 4,
+    "table": "QuickTime::camm6",
+    "val": "1970:01:01 00:00:00.020416Z"
+  },
+  "Doc135:GPSMeasureMode": {
+    "id": 12,
+    "table": "QuickTime::camm6",
+    "val": "3-Dimensional Measurement"
+  },
+  "Doc135:GPSLatitude": {
+    "id": 16,
+    "table": "QuickTime::camm6",
+    "val": "53.181948 N"
+  },
+  "Doc135:GPSLongitude": {
+    "id": 24,
+    "table": "QuickTime::camm6",
+    "val": "2.861359 W"
+  },
+  "Doc135:GPSAltitude": {
+    "id": 32,
+    "table": "QuickTime::camm6",
+    "val": "20.3 m"
+  },
+  "Doc135:GPSHorizontalAccuracy": {
+    "id": 36,
+    "table": "QuickTime::camm6",
+    "val": 0.870000004768372
+  },
+  "Doc135:GPSVerticalAccuracy": {
+    "id": 40,
+    "table": "QuickTime::camm6",
+    "val": 0.870000004768372
+  },
+  "Doc135:GPSVelocityEast": {
+    "id": 44,
+    "table": "QuickTime::camm6",
+    "val": -0.643503487110138
+  },
+  "Doc135:GPSVelocityNorth": {
+    "id": 48,
+    "table": "QuickTime::camm6",
+    "val": -1.10343372821808
+  },
+  "Doc135:GPSVelocityUp": {
+    "id": 52,
+    "table": "QuickTime::camm6",
+    "val": 0
+  },
+  "Doc135:GPSSpeedAccuracy": {
+    "id": 56,
+    "table": "QuickTime::camm6",
+    "val": 0
+  },
+  "Doc136:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "9.00 s"
+  },
+  "Doc136:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc136:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "1.80859375 13.72265625 -3.59765625"
+  },
+  "Doc137:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "9.00 s"
+  },
+  "Doc137:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc137:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.560546875 0.189453125 -0.296875"
+  },
+  "Doc138:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "9.14 s"
+  },
+  "Doc138:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc138:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.7734375 13.3359375 2.76171875"
+  },
+  "Doc139:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "9.14 s"
+  },
+  "Doc139:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc139:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.091796875 -0.2890625 -0.041015625"
+  },
+  "Doc140:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "9.29 s"
+  },
+  "Doc140:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc140:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.19921875 6.71484375 -1.03125"
+  },
+  "Doc141:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "9.29 s"
+  },
+  "Doc141:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc141:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.16796875 -0.333984375 0.142578125"
+  },
+  "Doc142:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "9.43 s"
+  },
+  "Doc142:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc142:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.16015625 9.08984375 -0.11328125"
+  },
+  "Doc143:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "9.43 s"
+  },
+  "Doc143:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc143:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.099609375 0.107421875 -0.05859375"
+  },
+  "Doc144:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "9.57 s"
+  },
+  "Doc144:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc144:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.734375 14.48828125 -2.296875"
+  },
+  "Doc145:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "9.57 s"
+  },
+  "Doc145:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc145:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.25390625 0.5 -0.029296875"
+  },
+  "Doc146:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "9.71 s"
+  },
+  "Doc146:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc146:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-0.48828125 11.234375 -3.17578125"
+  },
+  "Doc147:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "9.71 s"
+  },
+  "Doc147:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc147:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0 0.31640625 0.255859375"
+  },
+  "Doc148:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "9.86 s"
+  },
+  "Doc148:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc148:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "1.80859375 7.1328125 -0.83984375"
+  },
+  "Doc149:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "9.86 s"
+  },
+  "Doc149:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc149:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.03125 -0.267578125 0.15234375"
+  },
+  "Doc150:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "10.00 s"
+  },
+  "Doc150:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc150:GPSDateTime": {
+    "id": 4,
+    "table": "QuickTime::camm6",
+    "val": "1970:01:01 00:00:00.016908Z"
+  },
+  "Doc150:GPSMeasureMode": {
+    "id": 12,
+    "table": "QuickTime::camm6",
+    "val": "3-Dimensional Measurement"
+  },
+  "Doc150:GPSLatitude": {
+    "id": 16,
+    "table": "QuickTime::camm6",
+    "val": "53.181940 N"
+  },
+  "Doc150:GPSLongitude": {
+    "id": 24,
+    "table": "QuickTime::camm6",
+    "val": "2.861366 W"
+  },
+  "Doc150:GPSAltitude": {
+    "id": 32,
+    "table": "QuickTime::camm6",
+    "val": "20.4 m"
+  },
+  "Doc150:GPSHorizontalAccuracy": {
+    "id": 36,
+    "table": "QuickTime::camm6",
+    "val": 0.870000004768372
+  },
+  "Doc150:GPSVerticalAccuracy": {
+    "id": 40,
+    "table": "QuickTime::camm6",
+    "val": 0.870000004768372
+  },
+  "Doc150:GPSVelocityEast": {
+    "id": 44,
+    "table": "QuickTime::camm6",
+    "val": -0.557600319385529
+  },
+  "Doc150:GPSVelocityNorth": {
+    "id": 48,
+    "table": "QuickTime::camm6",
+    "val": -0.93131285905838
+  },
+  "Doc150:GPSVelocityUp": {
+    "id": 52,
+    "table": "QuickTime::camm6",
+    "val": 0
+  },
+  "Doc150:GPSSpeedAccuracy": {
+    "id": 56,
+    "table": "QuickTime::camm6",
+    "val": 0
+  },
+  "Doc151:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "10.00 s"
+  },
+  "Doc151:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc151:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-0.64453125 9.16796875 1.91796875"
+  },
+  "Doc152:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "10.00 s"
+  },
+  "Doc152:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc152:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.236328125 -0.125 -0.015625"
+  },
+  "Doc153:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "10.14 s"
+  },
+  "Doc153:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc153:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-0.03125 10.8515625 -1.03125"
+  },
+  "Doc154:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "10.14 s"
+  },
+  "Doc154:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc154:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.453125 -0.01953125 -0.1640625"
+  },
+  "Doc155:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "10.29 s"
+  },
+  "Doc155:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc155:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "1.15625 11.73046875 0.5390625"
+  },
+  "Doc156:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "10.29 s"
+  },
+  "Doc156:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc156:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.3359375 0.306640625 0.0546875"
+  },
+  "Doc157:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "10.43 s"
+  },
+  "Doc157:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc157:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.62109375 7.859375 0.6171875"
+  },
+  "Doc158:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "10.43 s"
+  },
+  "Doc158:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc158:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.13671875 -0.150390625 0.078125"
+  },
+  "Doc159:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "10.57 s"
+  },
+  "Doc159:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc159:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.66015625 8.203125 -0.3046875"
+  },
+  "Doc160:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "10.57 s"
+  },
+  "Doc160:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc160:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.0078125 -0.0234375 -0.048828125"
+  },
+  "Doc161:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "10.71 s"
+  },
+  "Doc161:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc161:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.390625 11.3828125 0.1953125"
+  },
+  "Doc162:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "10.71 s"
+  },
+  "Doc162:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc162:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.4609375 0.330078125 -0.083984375"
+  },
+  "Doc163:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "10.86 s"
+  },
+  "Doc163:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc163:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-1.21875 10.51171875 0.42578125"
+  },
+  "Doc164:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "10.86 s"
+  },
+  "Doc164:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc164:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.041015625 0.111328125 0.001953125"
+  },
+  "Doc165:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "11.00 s"
+  },
+  "Doc165:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc165:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "1.04296875 8.70703125 -0.91796875"
+  },
+  "Doc166:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "11.00 s"
+  },
+  "Doc166:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc166:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.18359375 0.037109375 0.119140625"
+  },
+  "Doc167:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "11.14 s"
+  },
+  "Doc167:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc167:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-0.7578125 9.9296875 1.95703125"
+  },
+  "Doc168:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "11.14 s"
+  },
+  "Doc168:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc168:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.21875 0.439453125 0.05078125"
+  },
+  "Doc169:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "11.29 s"
+  },
+  "Doc169:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc169:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "1.76953125 9.89453125 1.49609375"
+  },
+  "Doc170:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "11.29 s"
+  },
+  "Doc170:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc170:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.0234375 0.5 -0.00390625"
+  },
+  "Doc171:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "11.43 s"
+  },
+  "Doc171:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc171:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-0.453125 10.16015625 -1.91015625"
+  },
+  "Doc172:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "11.43 s"
+  },
+  "Doc172:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc172:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.1484375 0.1328125 -0.02734375"
+  },
+  "Doc173:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "11.57 s"
+  },
+  "Doc173:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc173:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.66015625 7.75390625 -0.33984375"
+  },
+  "Doc174:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "11.57 s"
+  },
+  "Doc174:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc174:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.0390625 0.19140625 0.046875"
+  },
+  "Doc175:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "11.71 s"
+  },
+  "Doc175:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc175:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "0.69921875 10.89453125 0.80859375"
+  },
+  "Doc176:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "11.71 s"
+  },
+  "Doc176:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0.14 s"
+  },
+  "Doc176:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "-0.107421875 0.298828125 -0.0546875"
+  },
+  "Doc177:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "11.86 s"
+  },
+  "Doc177:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc177:Acceleration": {
+    "id": 4,
+    "table": "QuickTime::camm3",
+    "val": "-0.10546875 9.546875 -0.953125"
+  },
+  "Doc178:SampleTime": {
+    "id": "SampleTime",
+    "table": "QuickTime::Stream",
+    "val": "11.86 s"
+  },
+  "Doc178:SampleDuration": {
+    "id": "SampleDuration",
+    "table": "QuickTime::Stream",
+    "val": "0 s"
+  },
+  "Doc178:AngularVelocity": {
+    "id": 4,
+    "table": "QuickTime::camm2",
+    "val": "0.02734375 0 -0.02734375"
+  }
+}]
