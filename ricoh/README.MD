@@ -7,28 +7,35 @@
 
 ### Metadata DB
 
-| id  | data_added  | manufacturer  | model  | type  | is_geotagged_by_cam  | sample_file  |
-|---|---|---|---|---|---|---|
-| th01  | 2020-06-07  | Ricoh  | Theta V  | timelapse  | smartphone  | [LINK](https://drive.google.com/file/d/1_l1CxBeTv1Qp8u58QWQq3Bckgy2S_kgW/view?usp=sharing)   |
-| th02  | 2020-06-07  | Ricoh  | Theta V  | video  | smartphone  | [LINK](https://drive.google.com/file/d/1-izVfxpsyrj7-Yz3-dziZ_QRmgWBYlaB/view?usp=sharing)   |
-| th03  | 2020-06-07  | Ricoh  | Theta Z1  | timelapse  | smartphone  | [LINK](https://drive.google.com/open?id=14mvsO5b--XJvtyzkeGp7dmribRNGkloT)   |
-| th04  | 2020-06-07  | Ricoh  | Theta Z1  | video  | smartphone  | [LINK](https://drive.google.com/open?id=1MsLyahfjbDZTXRBgSBVo22UcHe5X1miwT)
-
 _Note: camera firmware update might alter the metadata produced by the camera. The latest firmware was used on when the sample file was taken and date uploaded (`data_added`)._
 
-### Note on how data was extracted
-
-#### Video file notes
-
-Seems that both the Theta V and Z1 only include camm2 and camm3 in the camm track -- no GPS telemetry (camm5 / camm6).
-
 #### th01
+
+* Make/model: Ricoh Theta V
+* Type: Photo
+	- jpg
+* Reports pitch / heading / roll XMP: Record exists but show 0
+* Reports pitch / heading EXIF: FALSE
+* Is geotagged by cam: FALSE (requires external module/app)
+* filename:  R0014760.jpg
+* Date updated: 2020-06-21
 
 ```
 exiftool -G -s -b -j -a -T R0014760.jpg > theta_v_R0014760_timelapse_metadata.json
 ```
 
 #### th02
+
+* Make/model: Ricoh Theta V
+* Type: Video
+	- mp4
+* Telemetry track: camm
+	- camm2, camm3
+* Is geotagged by cam: FALSE (requires external module/app)
+* filename: 20200511_113008_255.mp4
+* Date updated: 2020-06-21
+
+_Seems that both the Theta V only includes camm2 and camm3 in the camm track -- no lat / lon GPS telemetry (camm5 / camm6)._
 
 **Video level data**
 
@@ -44,11 +51,29 @@ exiftool -ee -G3 -s -b -j -a -T 20200511_113008_255.mp4 > theta_v_20200511_11300
 
 #### th03
 
+* Make/model: Ricoh Theta Z1
+* Type: Photo
+	- jpg
+* Reports pitch / heading / roll XMP: Record exists but show 0
+* Reports pitch / heading EXIF: FALSE
+* Is geotagged by cam: FALSE (requires external module/app)
+* filename: R0013798.JPG
+* Date updated: 2020-06-21
+
 ```
 exiftool -G -s -b -j -a -T R0013798.JPG > theta_z1_R0013798_timelapse_metadata.json
 ```
 
 #### th04
+
+* Make/model: Ricoh Theta Z1
+* Type: Video
+	- mp4
+* Telemetry track: camm
+	- camm2, camm6
+* Is geotagged by cam: FALSE (requires external module/app)
+* filename: R008000.MP4
+* Date updated: 2020-06-21
 
 **Video level data**
 

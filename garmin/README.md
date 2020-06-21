@@ -6,22 +6,34 @@
 
 ### Metadata DB
 
-| id   | data_added | manufacturer | model  | type      | is_geotagged_by_cam | sample_file |
-|------|------------|--------------|--------|-----------|--------------|-------------
-| ga01  | 2020-06-11 | Garmin       | VIRB 360    | Timelapse     | TRUE         | [LINK]()        |
-| ga02  | 2020-06-11 | Garmin        | VIRB 360    | Video | See notes         | [LINK]()    |
-
 _Note: camera firmware update might alter the metadata produced by the camera. The latest firmware was used on when the sample file was taken and date uploaded (`data_added`)._
 
-### Note on how data was extracted
-
 #### ga01
+
+* Make/model: Garmin VIRB 360
+* Type: Photo
+	- jpg
+* Reports pitch / heading / roll XMP: False
+* Reports pitch / heading EXIF: False
+* Is geotagged by cam: TRUE
+* filename: V5660909.JPG
+* Date updated: 2020-06-21
 
 ```
 exiftool -G -s -b -j -a -T V5660909.JPG > garmin_virb_360_V5660909_timelapse_metadata.json
 ```
 
 #### ga02
+
+* Make/model: Garmin VIRB 360
+* Type: Video
+	- mp4
+* Telemetry track: FALSE (use .fit file)
+* Is geotagged by cam: TRUE (creates seperate .fit file)
+* filename: V0380038.MP4
+* Date updated: 2020-06-21
+
+_Note on .fit file_
 
 Garmin VIRB 360 does not write GPS / telemetry track into the mp4 video file.
 
