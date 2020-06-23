@@ -12,6 +12,10 @@ The `meta-writer.py` outputs are based on valid metadata from GoPro Fusion files
 * [photo directory (timelapse)](/0-tests/files/timelapse/)
 * [video](/gopro/files/VIDEO_7152.txt)
 
+## OS Requirements
+
+Works on Windows, Linux and MacOS.
+
 ## Installation
 
 * Python version 3.6+
@@ -20,7 +24,7 @@ The `meta-writer.py` outputs are based on valid metadata from GoPro Fusion files
 
 ## How it works
 
-You specify if you want to generate an image, directory of images or video files and what metadata should be corrupted for testing.
+You specify if you want to generate an image, directory of images (timelapse) or video files and how it should be corrupted for testing. The script will use a GoPro image or video file as a template, and corrupt as specified.
 
 * strip all metadata
 	- description: creates file(s) (from template) with all metadata removed
@@ -46,6 +50,6 @@ You specify if you want to generate an image, directory of images or video files
 * image larger than 100MB (images only)
 	- description: create .jpg file(s) (from template) with data size of 101mb.
 	- output: photo
-* make all images black
-	- description: create file(s) (from template) which replaces image with black screen with original image dimensions
+* make images black
+	- description: create file(s) (from template) which replaces images (or 20% of video) with black screen with original image dimensions
 	- output: video, photo
