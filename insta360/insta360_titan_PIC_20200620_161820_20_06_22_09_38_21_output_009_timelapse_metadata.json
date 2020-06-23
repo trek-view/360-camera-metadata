@@ -1,0 +1,428 @@
+[{
+  "SourceFile": "PIC_20200620_161820_20_06_22_09_38_21_output_009.jpg",
+  "ExifTool:ExifToolVersion": {
+    "id": "ExifToolVersion",
+    "table": "Extra",
+    "val": 11.99
+  },
+  "ExifTool:Now": {
+    "id": "Now",
+    "table": "Extra",
+    "val": "2020:06:23 08:45:13+01:00"
+  },
+  "ExifTool:NewGUID": {
+    "id": "NewGUID",
+    "table": "Extra",
+    "val": "20200623-0845-1300-2E80-70C6D5EDCF54"
+  },
+  "ExifTool:FileSequence": {
+    "id": "FileSequence",
+    "table": "Extra",
+    "val": 0
+  },
+  "ExifTool:ProcessingTime": {
+    "id": "ProcessingTime",
+    "table": "Extra",
+    "val": "0.5 s"
+  },
+  "File:FileName": {
+    "id": "FileName",
+    "table": "Extra",
+    "val": "PIC_20200620_161820_20_06_22_09_38_21_output_009.jpg"
+  },
+  "File:Directory": {
+    "id": "Directory",
+    "table": "Extra",
+    "val": "."
+  },
+  "File:FilePath": {
+    "id": "FilePath",
+    "table": "Extra",
+    "val": "C:\\Users\\david\\Downloads\\tests-for-metadata\\PIC_20200620_161820_20_06_22_09_38_21_output_009.jpg"
+  },
+  "File:FileSize": {
+    "id": "FileSize",
+    "table": "Extra",
+    "val": "21 MB"
+  },
+  "File:FileModifyDate": {
+    "id": "FileModifyDate",
+    "table": "Extra",
+    "val": "2020:06:23 08:33:13+01:00"
+  },
+  "File:FileAccessDate": {
+    "id": "FileAccessDate",
+    "table": "Extra",
+    "val": "2020:06:23 08:33:13+01:00"
+  },
+  "File:FileCreateDate": {
+    "id": "FileCreateDate",
+    "table": "Extra",
+    "val": "2020:06:23 08:33:10+01:00"
+  },
+  "File:FilePermissions": {
+    "id": "FilePermissions",
+    "table": "Extra",
+    "val": "rw-rw-rw-"
+  },
+  "File:FileAttributes": {
+    "id": "FileAttributes",
+    "table": "Extra",
+    "val": "Regular; (none); Archive"
+  },
+  "File:FileDeviceNumber": {
+    "id": "FileDeviceNumber",
+    "table": "Extra",
+    "val": 0
+  },
+  "File:FileInodeNumber": {
+    "id": "FileInodeNumber",
+    "table": "Extra",
+    "val": 0
+  },
+  "File:FileHardLinks": {
+    "id": "FileHardLinks",
+    "table": "Extra",
+    "val": 1
+  },
+  "File:FileUserID": {
+    "id": "FileUserID",
+    "table": "Extra",
+    "val": 0
+  },
+  "File:FileGroupID": {
+    "id": "FileGroupID",
+    "table": "Extra",
+    "val": 0
+  },
+  "File:FileDeviceID": {
+    "id": "FileDeviceID",
+    "table": "Extra",
+    "val": 0.0
+  },
+  "File:FileBlockSize": {
+    "id": "FileBlockSize",
+    "table": "Extra",
+    "val": ""
+  },
+  "File:FileBlockCount": {
+    "id": "FileBlockCount",
+    "table": "Extra",
+    "val": ""
+  },
+  "File:FileType": {
+    "id": "FileType",
+    "table": "Extra",
+    "val": "JPEG"
+  },
+  "File:FileTypeExtension": {
+    "id": "FileTypeExtension",
+    "table": "Extra",
+    "val": "jpg"
+  },
+  "File:MIMEType": {
+    "id": "MIMEType",
+    "table": "Extra",
+    "val": "image/jpeg"
+  },
+  "File:ExifByteOrder": {
+    "id": "ExifByteOrder",
+    "table": "Extra",
+    "val": "Little-endian (Intel, II)"
+  },
+  "File:ImageWidth": {
+    "id": "ImageWidth",
+    "table": "JPEG::SOF",
+    "val": 10560
+  },
+  "File:ImageHeight": {
+    "id": "ImageHeight",
+    "table": "JPEG::SOF",
+    "val": 5280
+  },
+  "File:EncodingProcess": {
+    "id": "EncodingProcess",
+    "table": "JPEG::SOF",
+    "val": "Baseline DCT, Huffman coding"
+  },
+  "File:BitsPerSample": {
+    "id": "BitsPerSample",
+    "table": "JPEG::SOF",
+    "val": 8
+  },
+  "File:ColorComponents": {
+    "id": "ColorComponents",
+    "table": "JPEG::SOF",
+    "val": 3
+  },
+  "File:YCbCrSubSampling": {
+    "id": "YCbCrSubSampling",
+    "table": "JPEG::SOF",
+    "val": "YCbCr4:2:0 (2 2)"
+  },
+  "File:JPEGImageLength": {
+    "id": "JPEGImageLength",
+    "table": "Extra",
+    "val": 22184891
+  },
+  "File:JPEGQualityEstimate": {
+    "id": "JPEGQualityEstimate",
+    "table": "Extra",
+    "val": 100
+  },
+  "File:JPEGDigest": {
+    "id": "JPEGDigest",
+    "table": "Extra",
+    "val": "Independent JPEG Group library (used by many applications), Quality 100"
+  },
+  "JFIF:JFIFVersion": {
+    "id": 0,
+    "table": "JFIF::Main",
+    "val": 1.01
+  },
+  "JFIF:ResolutionUnit": {
+    "id": 2,
+    "table": "JFIF::Main",
+    "val": "None"
+  },
+  "JFIF:XResolution": {
+    "id": 3,
+    "table": "JFIF::Main",
+    "val": 1
+  },
+  "JFIF:YResolution": {
+    "id": 5,
+    "table": "JFIF::Main",
+    "val": 1
+  },
+  "EXIF:Make": {
+    "id": 271,
+    "table": "Exif::Main",
+    "val": "Insta360"
+  },
+  "EXIF:Model": {
+    "id": 272,
+    "table": "Exif::Main",
+    "val": "Insta360 Titan"
+  },
+  "EXIF:Software": {
+    "id": 305,
+    "table": "Exif::Main",
+    "val": "sn=ITG2619NEMWFKP_1.1.6_1.1.082810_0.2.19072200.190716.190716.190903B1"
+  },
+  "EXIF:ModifyDate": {
+    "id": 306,
+    "table": "Exif::Main",
+    "val": "2020:06:20 16:18:41"
+  },
+  "EXIF:ExposureTime": {
+    "id": 33434,
+    "table": "Exif::Main",
+    "val": "1/1789"
+  },
+  "EXIF:FNumber": {
+    "id": 33437,
+    "table": "Exif::Main",
+    "val": 2.4
+  },
+  "EXIF:ISO": {
+    "id": 34855,
+    "table": "Exif::Main",
+    "val": 101
+  },
+  "EXIF:ShutterSpeedValue": {
+    "id": 37377,
+    "table": "Exif::Main",
+    "val": "1/1787"
+  },
+  "EXIF:ExposureCompensation": {
+    "id": 37380,
+    "table": "Exif::Main",
+    "val": 0
+  },
+  "EXIF:UserComment": {
+    "id": 37510,
+    "table": "Exif::Main",
+    "val": "charset = Ascii {\"info\":{\"gyro_stabilized\":true,\"initial_view_changed\":false}}"
+  },
+  "EXIF:GPSLatitudeRef": {
+    "id": 1,
+    "table": "GPS::Main",
+    "val": "North"
+  },
+  "EXIF:GPSLatitude": {
+    "id": 2,
+    "table": "GPS::Main",
+    "val": 43.546896
+  },
+  "EXIF:GPSLongitudeRef": {
+    "id": 3,
+    "table": "GPS::Main",
+    "val": "East"
+  },
+  "EXIF:GPSLongitude": {
+    "id": 4,
+    "table": "GPS::Main",
+    "val": 10.304270
+  },
+  "EXIF:GPSAltitudeRef": {
+    "id": 5,
+    "table": "GPS::Main",
+    "val": "Above Sea Level"
+  },
+  "EXIF:GPSAltitude": {
+    "id": 6,
+    "table": "GPS::Main",
+    "val": "10.4 m"
+  },
+  "EXIF:GPSStatus": {
+    "id": 9,
+    "table": "GPS::Main",
+    "val": "Measurement Active"
+  },
+  "EXIF:GPSMeasureMode": {
+    "id": 10,
+    "table": "GPS::Main",
+    "val": "3-Dimensional Measurement"
+  },
+  "EXIF:GPSSpeedRef": {
+    "id": 12,
+    "table": "GPS::Main",
+    "val": "km/h"
+  },
+  "EXIF:GPSSpeed": {
+    "id": 13,
+    "table": "GPS::Main",
+    "val": 0
+  },
+  "XMP:XMPToolkit": {
+    "id": "xmptk",
+    "table": "XMP::x",
+    "val": "XMP Core 4.4.0-Exiv2"
+  },
+  "XMP:UsePanoramaViewer": {
+    "id": "UsePanoramaViewer",
+    "table": "XMP::GPano",
+    "val": true
+  },
+  "XMP:ProjectionType": {
+    "id": "ProjectionType",
+    "table": "XMP::GPano",
+    "val": "equirectangular"
+  },
+  "XMP:CroppedAreaImageWidthPixels": {
+    "id": "CroppedAreaImageWidthPixels",
+    "table": "XMP::GPano",
+    "val": 10560
+  },
+  "XMP:CroppedAreaImageHeightPixels": {
+    "id": "CroppedAreaImageHeightPixels",
+    "table": "XMP::GPano",
+    "val": 5280
+  },
+  "XMP:FullPanoWidthPixels": {
+    "id": "FullPanoWidthPixels",
+    "table": "XMP::GPano",
+    "val": 10560
+  },
+  "XMP:FullPanoHeightPixels": {
+    "id": "FullPanoHeightPixels",
+    "table": "XMP::GPano",
+    "val": 5280
+  },
+  "XMP:CroppedAreaLeftPixels": {
+    "id": "CroppedAreaLeftPixels",
+    "table": "XMP::GPano",
+    "val": 0
+  },
+  "XMP:CroppedAreaTopPixels": {
+    "id": "CroppedAreaTopPixels",
+    "table": "XMP::GPano",
+    "val": 0
+  },
+  "XMP:InitialViewVerticalFOVDegrees": {
+    "id": "InitialViewVerticalFOVDegrees",
+    "table": "XMP::GPano",
+    "val": 95
+  },
+  "XMP:CaptureSoftware": {
+    "id": "CaptureSoftware",
+    "table": "XMP::GPano",
+    "val": "Insta360 Titan"
+  },
+  "XMP:StitchingSoftware": {
+    "id": "StitchingSoftware",
+    "table": "XMP::GPano",
+    "val": "Insta360 Titan"
+  },
+  "XMP:InitialHorizontalFOVDegrees": {
+    "id": "InitialHorizontalFOVDegrees",
+    "table": "XMP::GPano",
+    "val": 100
+  },
+  "Composite:Aperture": {
+    "id": "Exif::Aperture",
+    "table": "Composite",
+    "val": 2.4
+  },
+  "Composite:ImageSize": {
+    "id": "Exif::ImageSize",
+    "table": "Composite",
+    "val": "10560x5280"
+  },
+  "Composite:Megapixels": {
+    "id": "Exif::Megapixels",
+    "table": "Composite",
+    "val": 55.8
+  },
+  "Composite:ShutterSpeed": {
+    "id": "Exif::ShutterSpeed",
+    "table": "Composite",
+    "val": "1/1789"
+  },
+  "Composite:GPSAltitude": {
+    "id": "GPS::GPSAltitude",
+    "table": "Composite",
+    "val": "10.4 m Above Sea Level"
+  },
+  "Composite:GPSLatitude": {
+    "id": "GPS::GPSLatitude",
+    "table": "Composite",
+    "val": "43.546896 N"
+  },
+  "Composite:GPSLongitude": {
+    "id": "GPS::GPSLongitude",
+    "table": "Composite",
+    "val": "10.304270 E"
+  },
+  "Composite:BaseName": {
+    "id": "UserDefined::BaseName",
+    "table": "Composite",
+    "val": "PIC_20200620_161820_20_06_22_09_38_21_output_009"
+  },
+  "Composite:FileExtension": {
+    "id": "UserDefined::FileExtension",
+    "table": "Composite",
+    "val": "jpg"
+  },
+  "Composite:FileTypeDescription": {
+    "id": "UserDefined::FileTypeDescription",
+    "table": "Composite",
+    "val": "Joint Photographic Experts Group"
+  },
+  "Composite:PhysicalImageSize": {
+    "id": "UserDefined::PhysicalImageSize",
+    "table": "Composite",
+    "val": "10560.0x5280.0 None"
+  },
+  "Composite:GPSPosition": {
+    "id": "Exif::GPSPosition",
+    "table": "Composite",
+    "val": "43.546896 N, 10.304270 E"
+  },
+  "Composite:LightValue": {
+    "id": "Exif::LightValue",
+    "table": "Composite",
+    "val": 13.3
+  }
+}]
