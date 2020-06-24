@@ -33,23 +33,29 @@ You specify if you want to generate an image, directory of images (timelapse) or
 	- description: creates file (from template) with all gps metadata from the video telemetry track (gmpf) removed
 	- output: video
 * corrupt (add invalid co-ordinates) all GPS lat / lon
-	- description: creates file(s) (from template) with co-ordinates but all coordinates are invalid (not resolvable)
+	- description: creates file(s) (from template) with co-ordinates but all coordinates are invalid (not resolvable). `GPSDateTime` and `GPSaltitude` remains unchanged.
 	- output: photo
 * randomise (add any valid co-ordinates) all GPS lat / lon
-	- description: creates file(s) (from template) with any valid co-ordinates (resolvable)
+	- description: creates file(s) (from template) with any valid co-ordinates (resolvable). `GPSDateTime` and `GPSaltitude` remains unchanged.
 	- output: photo
 * Remove xmp equirectangular tag
 	- description: creates file(s) (from template) with this tag value removed from metadata
 	- output: video, photo
-* image larger than 100 megapixels (images only)
+* image larger than 100 megapixels
 	- description: create file(s) (from template) with width = 12,000 and height = 9,000 (and reported in metadata)
 	- output: photo
-* image smaller than 8.5 megapixed (4k) (images only)
+* image smaller than 8.5 megapixed (4k)
 	- description: create file(s) (from template) with width = 2,560 and height = 1,440 (and reported in metadata)
 	- output: photo
-* image larger than 100MB (images only)
+* image larger than 100MB
 	- description: create .jpg file(s) (from template) with data size of 101mb.
 	- output: photo
 * make images black
 	- description: create file(s) (from template) which replaces images (or 20% of video) with black screen with original image dimensions
 	- output: video, photo
+* change capture times 
+	- description: changes all `*createdates` for video and `originaldatetime` for photos to any valid time in past. If timelapse output, photos are spaced at random offset time intervals (between 1 seconds and 30 seconds apart from t=0)
+	- output: photo
+* change gps times 
+	- description: changes all `GPSDateTime` to any valid time in past. If timelapse output, photos are spaced at random offset time intervals (between 1 seconds and 30 seconds apart from t=0). If video, all `GPSDateTime` values are offset by same amount.
+	- output: photo
