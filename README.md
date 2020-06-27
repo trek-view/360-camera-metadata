@@ -91,7 +91,7 @@ We are seeking geotagged files from the following cameras:
 	- Pilot One
 	- Pilot Lock
 * Insta360
-	- Pro
+	- Pro 2
 	- Titan
 	- One R
 	- One
@@ -191,4 +191,4 @@ We offer community support for all our software on our Campfire forum. [Ask a qu
 
 ## License
 
-360 Camera Metadata scripts are licensed under a [GNU AGPLv3 License](https://github.com/trek-view/360-camera-metadata/blob/master/LICENSE.txt).
+360 Camera Metadata scripts are licensed under a [GNU AGPLv3 License](/LICENSE.txt).

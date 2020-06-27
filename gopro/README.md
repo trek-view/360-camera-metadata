@@ -21,15 +21,23 @@ _Note: camera firmware update might alter the metadata produced by the camera. T
 
 **Video level data**
 
+[GS012804.mp4](/gopro/files/GS012804.txt)
+
 ```
 exiftool -ee -G -s -b -j -a -T GS012804.mp4 > gopro_max_GS012804_metadata_overview.json
 ```
 
+[gopro_max_GS012804_metadata_overview.json](/gopro/files/gopro_max_GS012804_metadata_overview.json)
+
 **Track level data (more verbose -- includes telemetry)**
+
+[GS012804.mp4](/gopro/files/GS012804.txt)
 
 ```
 exiftool -ee -G3 -s -b -j -a -T GS012804.mp4 > gopro_max_GS012804_metadata_track.json
 ```
+
+[gopro_max_GS012804_metadata_track.json](/gopro/files/gopro_max_GS012804_metadata_track.json)
 
 #### gp02
 
@@ -42,9 +50,13 @@ exiftool -ee -G3 -s -b -j -a -T GS012804.mp4 > gopro_max_GS012804_metadata_track
 * filename: GSAG2002.jpg
 * Date updated: 2020-06-21
 
+[GSAG2002.jpg](/gopro/files/GSAG2002.jpg)
+
 ```
 exiftool -G -s -b -j -a -T GSAG2002.jpg > gopro_max_GSAG2002_timelapse_metadata.json
 ```
+
+[gopro_max_GSAG2002_timelapse_metadata.json](/gopro/files/gopro_max_GSAG2002_timelapse_metadata.json)
 
 #### gp03
 
@@ -58,15 +70,23 @@ exiftool -G -s -b -j -a -T GSAG2002.jpg > gopro_max_GSAG2002_timelapse_metadata.
 
 **Video level data**
 
+[VIDEO_7152.mp4](/gopro/files/VIDEO_7152.txt)
+
 ```
 exiftool -ee -G -s -b -j -a -T VIDEO_7152.mp4 > gopro_fusion_VIDEO_7152_metadata_overview.json
 ```
 
+[gopro_fusion_VIDEO_7152_metadata_overview.json](/gopro/files/gopro_fusion_VIDEO_7152_metadata_overview.json)
+
 **Track level data (more verbose -- includes telemetry)**
+
+[VIDEO_7152.mp4](/gopro/files/VIDEO_7152.txt)
 
 ```
 exiftool -ee -G3 -s -b -j -a -T VIDEO_7152.mp4 > gopro_fusion_VIDEO_7152_metadata_track.json
 ```
+
+[gopro_fusion_VIDEO_7152_metadata_track.json](/gopro/files/gopro_fusion_VIDEO_7152_metadata_track.json)
 
 #### gp04
 
@@ -79,6 +99,10 @@ exiftool -ee -G3 -s -b -j -a -T VIDEO_7152.mp4 > gopro_fusion_VIDEO_7152_metadat
 * filename: MULTISHOT_0611_000000.jpg
 * Date updated: 2020-06-21
 
+[GSAG2002.jpg](/gopro/files/MULTISHOT_0611_000000.jpg)
+
 ```
 exiftool -G -s -b -j -a -T MULTISHOT_0611_000000.jpg > gopro_fusion_MULTISHOT_0611_000000_timelapse_metadata.json
 ```
+
+[gopro_fusion_MULTISHOT_0611_000000_timelapse_metadata.json](/gopro/files/gopro_fusion_MULTISHOT_0611_000000_timelapse_metadata.json)

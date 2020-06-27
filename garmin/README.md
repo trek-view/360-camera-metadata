@@ -19,9 +19,14 @@ _Note: camera firmware update might alter the metadata produced by the camera. T
 * filename: V5660909.JPG
 * Date updated: 2020-06-21
 
+
+[V5660909.JPG](/garmin/files/V5660909.JPG)
+
 ```
 exiftool -G -s -b -j -a -T V5660909.JPG > garmin_virb_360_V5660909_timelapse_metadata.json
 ```
+
+[garmin_virb_360_V5660909_timelapse_metadata.json](/garmin/files/garmin_virb_360_V5660909_timelapse_metadata.json)
 
 #### ga02
 
@@ -41,12 +46,20 @@ The VIRB writes a seperate `.fit` file with GPS telemetry. The attached fit file
 
 **Video level data**
 
+[V0380038.MP4](/garmin/files/V0380038.txt)
+
 ```
 exiftool -ee -G -s -b -j -a -T V0380038.MP4 > garmin_virb_360_V0380038_metadata_overview.json
 ```
 
+[garmin_virb_360_V0380038_metadata_overview.json](/garmin/files/garmin_virb_360_V0380038_metadata_overview.json)
+
 **Track level data (more verbose -- includes telemetry)**
+
+[V0380038.MP4](/garmin/files/V0380038.txt)
 
 ```
 exiftool -ee -G3 -s -b -j -a -T V0380038.MP4 > garmin_virb_360_V0380038_metadata_track.json
 ```
+
+[garmin_virb_360_V0380038_metadata_track.json](/garmin/files/garmin_virb_360_V0380038_metadata_track.json)

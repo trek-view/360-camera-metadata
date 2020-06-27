@@ -19,6 +19,10 @@ _Note: camera firmware update might alter the metadata produced by the camera. T
 * filename: AEML5317.JPG
 * Date updated: 2020-06-21
 
+[AEML5317.JPG](/samsung/files/AEML5317.JPG)
+
 ```
 exiftool -G -s -b -j -a -T AEML5317.JPG > samsung_gear_360_AEML5317_timelapse_metadata.json
 ```
+
+[samsung_gear_360_AEML5317_timelapse_metadata.json](/samsung/files/samsung_gear_360_AEML5317_timelapse_metadata.json)
