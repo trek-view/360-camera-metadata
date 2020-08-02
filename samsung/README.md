@@ -18,6 +18,7 @@ _Note: camera firmware update might alter the metadata produced by the camera. T
 * Is geotagged by cam: TRUE
 * filename: AEML5317.JPG
 * Date updated: 2020-06-21
+* Is 360: True
 
 [AEML5317.JPG](/samsung/files/AEML5317.JPG)
 

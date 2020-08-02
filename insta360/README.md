@@ -23,6 +23,7 @@ _Note: camera firmware update might alter the metadata produced by the camera. T
 * Is geotagged by cam: TRUE
 * filename: insta-pro-002.mp4
 * Date updated: 2020-06-21
+* Is 360: True
 
 **Video level data**
 
@@ -60,6 +61,7 @@ exiftool -ee -G3 -s -b -j -a -T insta-pro-002.mp4 > insta360_pro_insta-pro-002_m
 * Is geotagged by cam: TRUE
 * filename: VID_20200620_Faster_75.mp4
 * Date updated: 2020-06-23
+* Is 360: True
 
 **Video level data**
 
@@ -91,6 +93,7 @@ exiftool -ee -G3 -s -b -j -a -T VID_20200620_Faster_75.mp4 > insta360_titan_VID_
 * Is geotagged by cam: TRUE
 * filename: GSAG2002.jpg
 * Date updated: 2020-06-21
+* Is 360: True
 
 [PIC_20200620_161820_20_06_22_09_38_21_output_009.jpg](/insta360/files/PIC_20200620_161820_20_06_22_09_38_21_output_009.jpg)
 

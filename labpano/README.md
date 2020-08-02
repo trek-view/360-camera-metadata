@@ -20,6 +20,7 @@ _Note: camera firmware update might alter the metadata produced by the camera. T
 * Is geotagged by cam: FALSE (requires external module/app)
 * filename: 200207_085206318.mp4
 * Date updated: 2020-06-21
+* Is 360: True
 
 **Video level data**
 
@@ -51,6 +52,7 @@ exiftool -ee -G3 -s -b -j -a -T 200207_085206318.mp4 > labpano_pilot_era_200207_
 * Is geotagged by cam: FALSE (requires external module/app)
 * filename: 200207_094350655.jpg
 * Date updated: 2020-06-21
+* Is 360: True
 
 [200207_094350655.jpg](/labpano/files/200207_094350655.jpg)
 
@@ -70,6 +72,7 @@ exiftool -G -s -b -j -a -T 200207_094350655.jpg > labpano_pilot_era_200207_09435
 * Is geotagged by cam: FALSE (requires external module/app)
 * filename: 200619_161801314.mp4
 * Date updated: 2020-06-21
+* Is 360: True
 
 **Video level data**
 
@@ -101,6 +104,7 @@ exiftool -ee -G3 -s -b -j -a -T 200619_161801314.mp4 > labpano_pilot_one_200619_
 * Is geotagged by cam: FALSE (requires external module/app)
 * filename: 200619_161719613.jpg
 * Date updated: 2020-06-21
+* Is 360: True
 
 [200619_161719613.jpg](/labpano/files/200619_161719613.jpg)
 

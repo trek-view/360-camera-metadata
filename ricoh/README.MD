@@ -19,6 +19,7 @@ _Note: camera firmware update might alter the metadata produced by the camera. T
 * Is geotagged by cam: FALSE (requires external module/app)
 * filename:  R0014760.jpg
 * Date updated: 2020-06-21
+* Is 360: True
 
 [R0014760.JPG](/ricoh/files/R0014760.JPG)
 
@@ -38,6 +39,7 @@ exiftool -G -s -b -j -a -T R0014760.jpg > theta_v_R0014760_timelapse_metadata.js
 * Is geotagged by cam: FALSE (requires external module/app)
 * filename: 20200511_113008_255.mp4
 * Date updated: 2020-06-21
+* Is 360: True
 
 _Seems that the Theta V only includes camm2 and camm3 in the camm track -- no lat / lon GPS telemetry (camm5 / camm6). Not 100% sure what is going on here (can positional data be calculated using camm2+3?)_
 
@@ -71,6 +73,7 @@ exiftool -ee -G3 -s -b -j -a -T 20200511_113008_255.mp4 > theta_v_20200511_11300
 * Is geotagged by cam: FALSE (requires external module/app)
 * filename: R0013798.JPG
 * Date updated: 2020-06-21
+* Is 360: True
 
 [R0013798.JPG](/ricoh/files/R0013798.JPG)
 
@@ -90,6 +93,7 @@ exiftool -G -s -b -j -a -T R0013798.JPG > theta_z1_R0013798_timelapse_metadata.j
 * Is geotagged by cam: FALSE (requires external module/app)
 * filename: R008000.MP4
 * Date updated: 2020-06-21
+* Is 360: True
 
 **Video level data**
 

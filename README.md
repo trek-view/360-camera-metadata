@@ -15,34 +15,15 @@ This repository contains our research to aid others building similar tools.
 ## Cameras
 
 * [GoPro](/gopro/README.md)
-	- MAX
-	- Fusion
 * [Ricoh](/ricoh/README.md)
-	- Theta V
-	- Theta Z1
 * [Labpano](/labpano/README.md)
-	- Pilot One
-	- Pilot Era
-	- Pilot Lock
 * [Insta360](/insta360/README.md)
-	- ONE
-	- ONE X
-	- ONE R
-	- Pro
-	- Pro2
-	- Titan
 * [Samsung](/samsung/README.md)
-	- Gear 360
 * [Xphase](/xphase/README.md)
-	- Pro
-	- Pro S
 * [Kandao](/kandao/README.md)
-	- QooCam
-	- QooCam 8k
-	- Obsidian GO
-	- Obsidian S & R
 * [Garmin](/garmin/README.md)
-	- VIRB 260
+
+Data wanted! Don't see your camera manufacturer/model listed. Help us
 
 ## Accessing sample files
 
@@ -58,55 +39,6 @@ Ones we've researched are linked:
 2. [camm](/0-standards/camm.md)
 
 More of our research can be found in the [`/0-standards`](/0-standards) directory in this repository.
-
-## Data wanted
-
-We are seeking geotagged files from the following cameras:
-
-### Timelapses
-
-* Insta360
-	- Pro
-	- Pro2
-	- Titan
-	- One R
-	- One
-	- One X
-* Labpano
-	- Pilot One
-	- Pilot Lock
-* Garmin
-	- VIRB360
-* Kandao
-	- QooCam
-	- QooCam 8k
-	- Obsidian GO
-	- Obsidian S & R
-* XPhase
-	- Pro
-
-### Videos
-
-* Labpano
-	- Pilot One
-	- Pilot Lock
-* Insta360
-	- Pro 2
-	- Titan
-	- One R
-	- One
-	- One X
-* Garmin
-	- VIRB360
-* Kandao
-	- QooCam
-	- QooCam 8k
-	- Obsidian GO
-	- Obsidian S & R
-* Samsung
-	- Gear360
-* XPhase
-	- Pro
 
 ## Extracting metadata from images
 
@@ -183,7 +115,7 @@ If you have a 360 camera and want to support our work, [please share more inform
 
 ## Test cases
 
-The [`/0-tests`](/0-tests) directory contains a script that can be used to generate 360 images that are corrupted for software testing (e.g. if you need photos with corrupt gps data).
+The [`/0-tests`](/0-tests) directory contains files that can be used to test software. It contains valid and corrupted 2D and 360 photos.
 
 ## Support 
 
@@ -191,4 +123,4 @@ We offer community support for all our software on our Campfire forum. [Ask a qu
 
 ## License
 
-360 Camera Metadata scripts are licensed under a [GNU AGPLv3 License](/LICENSE.txt).
+The 360 Camera Metadata repo is licensed under a [MIT license](/LICENSE.txt).
