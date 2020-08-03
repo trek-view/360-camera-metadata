@@ -102,3 +102,38 @@ exiftool -G -s -b -j -a -T PIC_20200620_161820_20_06_22_09_38_21_output_009.jpg 
 ```
 
 [insta360_titan_PIC_20200620_161820_20_06_22_09_38_21_output_009_timelapse_metadata.json](/insta360/files/insta360_titan_PIC_20200620_161820_20_06_22_09_38_21_output_009_timelapse_metadata.json)
+
+
+
+
+#### is05
+
+* Make/model: Insta360 Titan
+* Type: Video
+	- mp4
+* Telemetry track: camm
+	- camm1, camm2, camm3, camm6
+* Is geotagged by cam: TRUE
+* filename: VID_20200620_higher_245-003.mp4
+* Date updated: 2020-08-03
+* Is 360: True
+
+**Video level data**
+
+[VID_20200620_higher_245-003.mp4](/insta360/files/VID_20200620_higher_245-003.txt)
+
+```
+exiftool -ee -G -s -b -j -a -T VID_20200620_higher_245-003.mp4 > insta360_titan_VID_20200620_higher_245-003_metadata_overview.json
+```
+
+[insta360_titan_VID_20200620_higher_245-003_metadata_overview.json](/insta360/files/insta360_titan_VID_20200620_higher_245-003_metadata_overview.json)
+
+**Track level data (more verbose -- includes telemetry)**
+
+[VID_20200620_higher_245-003.mp4](/insta360/files/VID_20200620_higher_245-003.txt)
+
+```
+exiftool -ee -G3 -s -b -j -a -T VID_20200620_higher_245-003.mp4 > insta360_titan_VID_20200620_higher_245-003_metadata_track.json
+```
+
+[insta360_titan_VID_20200620_higher_245-003_metadata_track.json](/insta360/files/insta360_titan_VID_20200620_higher_245-003_metadata_track.json)
